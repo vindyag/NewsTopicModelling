@@ -71,7 +71,7 @@
 	</build>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<java.version>1.7</java.version>
+		<java.version>1.8</java.version>
 		<!-- <start-class>ucsc.mcs.topicmodelling.test.WebApplicationMain</start-class> -->
 		<start-class>ucsc.mcs.topic_modelling.TopicModellerMainBean</start-class>
 	</properties>
