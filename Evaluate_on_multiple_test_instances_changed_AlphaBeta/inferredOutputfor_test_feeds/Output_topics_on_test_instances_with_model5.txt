@@ -1,0 +1,1267 @@
+Model LogLikelihood : -122655.90429356444
+top 6 words in each topic with proportions for document: Video: Spectacular breakup of WT1190F seen by team of Airborne Astronomers
+0	0.000	srilankan	airlines	france	travel	french	cargo	
+1	0.001	film	world	cinema	lankan	festival	international	
+2	0.001	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.997	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Video: SLFP can’t win under current chairman: Lohan
+0	0.001	srilankan	airlines	france	travel	french	cargo	
+1	0.002	film	world	cinema	lankan	festival	international	
+2	0.002	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.993	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Video: 24 ex-LTTEers released on bail
+0	0.001	srilankan	airlines	france	travel	french	cargo	
+1	0.004	film	world	cinema	lankan	festival	international	
+2	0.004	country	athukorala	chairman	million	bureau	promotions	
+3	0.005	team	league	world	win	year	game	
+4	0.986	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Circular issued against adding sugar into tea
+0	0.001	srilankan	airlines	france	travel	french	cargo	
+1	0.001	film	world	cinema	lankan	festival	international	
+2	0.001	country	athukorala	chairman	million	bureau	promotions	
+3	0.986	team	league	world	win	year	game	
+4	0.012	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Video: JVP sued by Wijeweera's wife Chitranganie
+0	0.001	srilankan	airlines	france	travel	french	cargo	
+1	0.001	film	world	cinema	lankan	festival	international	
+2	0.002	country	athukorala	chairman	million	bureau	promotions	
+3	0.020	team	league	world	win	year	game	
+4	0.976	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Lankan mother deemed a security threat, freed
+0	0.000	srilankan	airlines	france	travel	french	cargo	
+1	0.000	film	world	cinema	lankan	festival	international	
+2	0.001	country	athukorala	chairman	million	bureau	promotions	
+3	0.000	team	league	world	win	year	game	
+4	0.998	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: No space debris sighted
+0	0.001	srilankan	airlines	france	travel	french	cargo	
+1	0.001	film	world	cinema	lankan	festival	international	
+2	0.002	country	athukorala	chairman	million	bureau	promotions	
+3	0.002	team	league	world	win	year	game	
+4	0.994	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Video: Northern hartal still underway
+0	0.411	srilankan	airlines	france	travel	french	cargo	
+1	0.002	film	world	cinema	lankan	festival	international	
+2	0.003	country	athukorala	chairman	million	bureau	promotions	
+3	0.006	team	league	world	win	year	game	
+4	0.578	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Suu Kyi's National League wins majority in Myanmar
+0	0.000	srilankan	airlines	france	travel	french	cargo	
+1	0.003	film	world	cinema	lankan	festival	international	
+2	0.002	country	athukorala	chairman	million	bureau	promotions	
+3	0.014	team	league	world	win	year	game	
+4	0.981	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Summons on MR by Commercial High Court
+0	0.002	srilankan	airlines	france	travel	french	cargo	
+1	0.004	film	world	cinema	lankan	festival	international	
+2	0.004	country	athukorala	chairman	million	bureau	promotions	
+3	0.007	team	league	world	win	year	game	
+4	0.983	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Navy begins transfer of Avant Garde weapons
+0	0.001	srilankan	airlines	france	travel	french	cargo	
+1	0.002	film	world	cinema	lankan	festival	international	
+2	0.003	country	athukorala	chairman	million	bureau	promotions	
+3	0.004	team	league	world	win	year	game	
+4	0.990	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Avant Garde press briefing called off
+0	0.000	srilankan	airlines	france	travel	french	cargo	
+1	0.005	film	world	cinema	lankan	festival	international	
+2	0.001	country	athukorala	chairman	million	bureau	promotions	
+3	0.003	team	league	world	win	year	game	
+4	0.990	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Postal union announces sick note campaign
+0	0.002	srilankan	airlines	france	travel	french	cargo	
+1	0.019	film	world	cinema	lankan	festival	international	
+2	0.003	country	athukorala	chairman	million	bureau	promotions	
+3	0.016	team	league	world	win	year	game	
+4	0.961	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Video: President calls for full report from IGP
+0	0.092	srilankan	airlines	france	travel	french	cargo	
+1	0.168	film	world	cinema	lankan	festival	international	
+2	0.230	country	athukorala	chairman	million	bureau	promotions	
+3	0.181	team	league	world	win	year	game	
+4	0.328	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: 60-year-old found dead with stab injuries
+0	0.006	srilankan	airlines	france	travel	french	cargo	
+1	0.024	film	world	cinema	lankan	festival	international	
+2	0.020	country	athukorala	chairman	million	bureau	promotions	
+3	0.009	team	league	world	win	year	game	
+4	0.941	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Colombo DC refuses to restrain UNP leadership
+0	0.001	srilankan	airlines	france	travel	french	cargo	
+1	0.001	film	world	cinema	lankan	festival	international	
+2	0.001	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.996	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Video: Stage set for 'Snoopy' spectacle
+0	0.092	srilankan	airlines	france	travel	french	cargo	
+1	0.168	film	world	cinema	lankan	festival	international	
+2	0.230	country	athukorala	chairman	million	bureau	promotions	
+3	0.181	team	league	world	win	year	game	
+4	0.328	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Video: No-fly zone declared tomorrow
+0	0.001	srilankan	airlines	france	travel	french	cargo	
+1	0.002	film	world	cinema	lankan	festival	international	
+2	0.396	country	athukorala	chairman	million	bureau	promotions	
+3	0.002	team	league	world	win	year	game	
+4	0.599	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Video: President vows to abolish Executive Presidency
+0	0.004	srilankan	airlines	france	travel	french	cargo	
+1	0.005	film	world	cinema	lankan	festival	international	
+2	0.858	country	athukorala	chairman	million	bureau	promotions	
+3	0.007	team	league	world	win	year	game	
+4	0.126	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Coal: South Africa to provide concession
+0	0.001	srilankan	airlines	france	travel	french	cargo	
+1	0.020	film	world	cinema	lankan	festival	international	
+2	0.897	country	athukorala	chairman	million	bureau	promotions	
+3	0.023	team	league	world	win	year	game	
+4	0.059	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Alibaba’s ‘Singles Day’ shopping spree
+0	0.007	srilankan	airlines	france	travel	french	cargo	
+1	0.004	film	world	cinema	lankan	festival	international	
+2	0.774	country	athukorala	chairman	million	bureau	promotions	
+3	0.004	team	league	world	win	year	game	
+4	0.212	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: GE gets largest deal in 100-year history in India
+0	0.002	srilankan	airlines	france	travel	french	cargo	
+1	0.002	film	world	cinema	lankan	festival	international	
+2	0.792	country	athukorala	chairman	million	bureau	promotions	
+3	0.002	team	league	world	win	year	game	
+4	0.202	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Agreement signed for Ceylon tea global campaign 
+0	0.007	srilankan	airlines	france	travel	french	cargo	
+1	0.649	film	world	cinema	lankan	festival	international	
+2	0.243	country	athukorala	chairman	million	bureau	promotions	
+3	0.071	team	league	world	win	year	game	
+4	0.029	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Virtusa-Polaris deal to bring more business for Lankan operations  
+0	0.000	srilankan	airlines	france	travel	french	cargo	
+1	0.001	film	world	cinema	lankan	festival	international	
+2	0.889	country	athukorala	chairman	million	bureau	promotions	
+3	0.011	team	league	world	win	year	game	
+4	0.098	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Coconut Water as energy drink
+0	0.002	srilankan	airlines	france	travel	french	cargo	
+1	0.025	film	world	cinema	lankan	festival	international	
+2	0.953	country	athukorala	chairman	million	bureau	promotions	
+3	0.003	team	league	world	win	year	game	
+4	0.016	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Western Megapolis development plan to be launched in February 
+0	0.001	srilankan	airlines	france	travel	french	cargo	
+1	0.203	film	world	cinema	lankan	festival	international	
+2	0.554	country	athukorala	chairman	million	bureau	promotions	
+3	0.012	team	league	world	win	year	game	
+4	0.231	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Massive increase in tax revenues from budget 2016  
+0	0.437	srilankan	airlines	france	travel	french	cargo	
+1	0.407	film	world	cinema	lankan	festival	international	
+2	0.143	country	athukorala	chairman	million	bureau	promotions	
+3	0.006	team	league	world	win	year	game	
+4	0.008	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Anantaya promises unmatched dining experience 
+0	0.982	srilankan	airlines	france	travel	french	cargo	
+1	0.003	film	world	cinema	lankan	festival	international	
+2	0.006	country	athukorala	chairman	million	bureau	promotions	
+3	0.002	team	league	world	win	year	game	
+4	0.006	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: SriLankan expands reach in Central Asia with Siberian Airlines 
+0	0.991	srilankan	airlines	france	travel	french	cargo	
+1	0.002	film	world	cinema	lankan	festival	international	
+2	0.004	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.002	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Experience the sensational Seychelles with SriLankan Holidays 
+0	0.995	srilankan	airlines	france	travel	french	cargo	
+1	0.001	film	world	cinema	lankan	festival	international	
+2	0.001	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.002	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: 100 kg to over 100 cities with SriLankan Cargo’s “Bag-It” 
+0	0.994	srilankan	airlines	france	travel	french	cargo	
+1	0.001	film	world	cinema	lankan	festival	international	
+2	0.002	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.003	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: SriLankan Airlines SimNet wins ICT Award 
+0	0.882	srilankan	airlines	france	travel	french	cargo	
+1	0.001	film	world	cinema	lankan	festival	international	
+2	0.107	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.010	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: ILFC and SriLankan Airlines sign 12-year lease agreement for three A350-900s 
+0	0.864	srilankan	airlines	france	travel	french	cargo	
+1	0.004	film	world	cinema	lankan	festival	international	
+2	0.101	country	athukorala	chairman	million	bureau	promotions	
+3	0.004	team	league	world	win	year	game	
+4	0.028	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism showcases at World Travel Mart  London with 64 Industry Partners
+0	0.661	srilankan	airlines	france	travel	french	cargo	
+1	0.004	film	world	cinema	lankan	festival	international	
+2	0.174	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.161	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism comes board for ITB Asia 2015 Travel Show
+0	0.768	srilankan	airlines	france	travel	french	cargo	
+1	0.002	film	world	cinema	lankan	festival	international	
+2	0.150	country	athukorala	chairman	million	bureau	promotions	
+3	0.002	team	league	world	win	year	game	
+4	0.078	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism showcase “One Island, Thousand Treasures” at  IFTM Travel Fair Paris , France 2015
+0	0.438	srilankan	airlines	france	travel	french	cargo	
+1	0.002	film	world	cinema	lankan	festival	international	
+2	0.482	country	athukorala	chairman	million	bureau	promotions	
+3	0.005	team	league	world	win	year	game	
+4	0.074	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Tourism Receipts touch $2.1 billion as at end September 2015
+0	0.339	srilankan	airlines	france	travel	french	cargo	
+1	0.005	film	world	cinema	lankan	festival	international	
+2	0.609	country	athukorala	chairman	million	bureau	promotions	
+3	0.006	team	league	world	win	year	game	
+4	0.040	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: The 1st ever Cruise Tourism Marketing Plan presented to the New Tourism Minister 
+0	0.247	srilankan	airlines	france	travel	french	cargo	
+1	0.003	film	world	cinema	lankan	festival	international	
+2	0.676	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.074	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Tourism new ideas, new concepts and dreams- Sri Lanka must take the chance
+0	0.103	srilankan	airlines	france	travel	french	cargo	
+1	0.205	film	world	cinema	lankan	festival	international	
+2	0.635	country	athukorala	chairman	million	bureau	promotions	
+3	0.003	team	league	world	win	year	game	
+4	0.054	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism celebrate ‘World Tourism Day' to upgrade industry competitiveness
+0	0.156	srilankan	airlines	france	travel	french	cargo	
+1	0.390	film	world	cinema	lankan	festival	international	
+2	0.320	country	athukorala	chairman	million	bureau	promotions	
+3	0.002	team	league	world	win	year	game	
+4	0.132	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka ride the wave at Japan Tourism Expo 2015
+0	0.126	srilankan	airlines	france	travel	french	cargo	
+1	0.492	film	world	cinema	lankan	festival	international	
+2	0.252	country	athukorala	chairman	million	bureau	promotions	
+3	0.003	team	league	world	win	year	game	
+4	0.127	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Scandinavian markets grow by 32%: Sri Lanka Tourism focused marketing drive
+0	0.416	srilankan	airlines	france	travel	french	cargo	
+1	0.002	film	world	cinema	lankan	festival	international	
+2	0.552	country	athukorala	chairman	million	bureau	promotions	
+3	0.002	team	league	world	win	year	game	
+4	0.028	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Tourism Record in September: arrivals jump 35.9% to cross 1.3 million
+0	0.448	srilankan	airlines	france	travel	french	cargo	
+1	0.010	film	world	cinema	lankan	festival	international	
+2	0.510	country	athukorala	chairman	million	bureau	promotions	
+3	0.004	team	league	world	win	year	game	
+4	0.027	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism launches Community Aid Tourism with Olympic Gold medallion
+0	0.196	srilankan	airlines	france	travel	french	cargo	
+1	0.002	film	world	cinema	lankan	festival	international	
+2	0.718	country	athukorala	chairman	million	bureau	promotions	
+3	0.027	team	league	world	win	year	game	
+4	0.058	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism with Pink my Tuk launch Global Online video competition
+0	0.186	srilankan	airlines	france	travel	french	cargo	
+1	0.108	film	world	cinema	lankan	festival	international	
+2	0.538	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.167	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka - Cultural focus country at Key Italian Travel Fair TTG
+0	0.349	srilankan	airlines	france	travel	french	cargo	
+1	0.073	film	world	cinema	lankan	festival	international	
+2	0.506	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.071	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Mr and Miss UK commends Sri Lanka- Destination of the Year title
+0	0.043	srilankan	airlines	france	travel	french	cargo	
+1	0.003	film	world	cinema	lankan	festival	international	
+2	0.603	country	athukorala	chairman	million	bureau	promotions	
+3	0.013	team	league	world	win	year	game	
+4	0.338	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism to highlight the 1706th Esala Perahera at Japan JATA World Expo 2015
+0	0.286	srilankan	airlines	france	travel	french	cargo	
+1	0.022	film	world	cinema	lankan	festival	international	
+2	0.669	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.022	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism enter China's growing religious tourism business     
+0	0.267	srilankan	airlines	france	travel	french	cargo	
+1	0.002	film	world	cinema	lankan	festival	international	
+2	0.681	country	athukorala	chairman	million	bureau	promotions	
+3	0.034	team	league	world	win	year	game	
+4	0.015	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism, Tea board and Sri Lankan Airlines quest for Guinness Record
+0	0.273	srilankan	airlines	france	travel	french	cargo	
+1	0.150	film	world	cinema	lankan	festival	international	
+2	0.502	country	athukorala	chairman	million	bureau	promotions	
+3	0.012	team	league	world	win	year	game	
+4	0.064	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism focussing on the $92 billion German source market
+0	0.418	srilankan	airlines	france	travel	french	cargo	
+1	0.190	film	world	cinema	lankan	festival	international	
+2	0.340	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.052	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Change lives and win big with findmyfare.com’s Insta Booking Challenge
+0	0.443	srilankan	airlines	france	travel	french	cargo	
+1	0.169	film	world	cinema	lankan	festival	international	
+2	0.292	country	athukorala	chairman	million	bureau	promotions	
+3	0.076	team	league	world	win	year	game	
+4	0.019	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism blitz on Sony Six for Sanga Farewell
+0	0.183	srilankan	airlines	france	travel	french	cargo	
+1	0.033	film	world	cinema	lankan	festival	international	
+2	0.361	country	athukorala	chairman	million	bureau	promotions	
+3	0.344	team	league	world	win	year	game	
+4	0.079	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Warriors move to franchise best 10-0 start
+0	0.049	srilankan	airlines	france	travel	french	cargo	
+1	0.005	film	world	cinema	lankan	festival	international	
+2	0.014	country	athukorala	chairman	million	bureau	promotions	
+3	0.784	team	league	world	win	year	game	
+4	0.149	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Argentina wary of 
+0	0.001	srilankan	airlines	france	travel	french	cargo	
+1	0.012	film	world	cinema	lankan	festival	international	
+2	0.008	country	athukorala	chairman	million	bureau	promotions	
+3	0.906	team	league	world	win	year	game	
+4	0.073	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Hamilton shakes off illness to realise childhood dream
+0	0.001	srilankan	airlines	france	travel	french	cargo	
+1	0.086	film	world	cinema	lankan	festival	international	
+2	0.011	country	athukorala	chairman	million	bureau	promotions	
+3	0.674	team	league	world	win	year	game	
+4	0.229	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Uruguay sunk as perfect Ecuador march on
+0	0.001	srilankan	airlines	france	travel	french	cargo	
+1	0.065	film	world	cinema	lankan	festival	international	
+2	0.048	country	athukorala	chairman	million	bureau	promotions	
+3	0.779	team	league	world	win	year	game	
+4	0.107	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Rodriguez snatches draw for Colombia in Chile
+0	0.004	srilankan	airlines	france	travel	french	cargo	
+1	0.111	film	world	cinema	lankan	festival	international	
+2	0.023	country	athukorala	chairman	million	bureau	promotions	
+3	0.833	team	league	world	win	year	game	
+4	0.029	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Eddie Jones takes the reins of Western Stormers
+0	0.080	srilankan	airlines	france	travel	french	cargo	
+1	0.112	film	world	cinema	lankan	festival	international	
+2	0.200	country	athukorala	chairman	million	bureau	promotions	
+3	0.567	team	league	world	win	year	game	
+4	0.041	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Alonso says he has been in 
+0	0.230	srilankan	airlines	france	travel	french	cargo	
+1	0.004	film	world	cinema	lankan	festival	international	
+2	0.060	country	athukorala	chairman	million	bureau	promotions	
+3	0.680	team	league	world	win	year	game	
+4	0.026	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Japan
+0	0.112	srilankan	airlines	france	travel	french	cargo	
+1	0.124	film	world	cinema	lankan	festival	international	
+2	0.124	country	athukorala	chairman	million	bureau	promotions	
+3	0.535	team	league	world	win	year	game	
+4	0.106	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: New Zealand says won
+0	0.004	srilankan	airlines	france	travel	french	cargo	
+1	0.008	film	world	cinema	lankan	festival	international	
+2	0.147	country	athukorala	chairman	million	bureau	promotions	
+3	0.647	team	league	world	win	year	game	
+4	0.194	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Djokovic aiming to end golden year with a bang
+0	0.032	srilankan	airlines	france	travel	french	cargo	
+1	0.009	film	world	cinema	lankan	festival	international	
+2	0.174	country	athukorala	chairman	million	bureau	promotions	
+3	0.732	team	league	world	win	year	game	
+4	0.053	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Lorenzo suffers burns during title celebration
+0	0.003	srilankan	airlines	france	travel	french	cargo	
+1	0.026	film	world	cinema	lankan	festival	international	
+2	0.016	country	athukorala	chairman	million	bureau	promotions	
+3	0.796	team	league	world	win	year	game	
+4	0.158	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Bryant reigns, but Lakers lose at Madison Square Garden
+0	0.005	srilankan	airlines	france	travel	french	cargo	
+1	0.006	film	world	cinema	lankan	festival	international	
+2	0.057	country	athukorala	chairman	million	bureau	promotions	
+3	0.819	team	league	world	win	year	game	
+4	0.113	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: England have potential but lack organisation 
+0	0.003	srilankan	airlines	france	travel	french	cargo	
+1	0.006	film	world	cinema	lankan	festival	international	
+2	0.026	country	athukorala	chairman	million	bureau	promotions	
+3	0.721	team	league	world	win	year	game	
+4	0.244	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Hamilton feeling good after fever and accident
+0	0.020	srilankan	airlines	france	travel	french	cargo	
+1	0.072	film	world	cinema	lankan	festival	international	
+2	0.087	country	athukorala	chairman	million	bureau	promotions	
+3	0.596	team	league	world	win	year	game	
+4	0.225	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Djokovic aiming to end golden year with a bang
+0	0.013	srilankan	airlines	france	travel	french	cargo	
+1	0.005	film	world	cinema	lankan	festival	international	
+2	0.177	country	athukorala	chairman	million	bureau	promotions	
+3	0.741	team	league	world	win	year	game	
+4	0.064	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Kompany out of Belgium’s friendlies with Italy and Spain
+0	0.007	srilankan	airlines	france	travel	french	cargo	
+1	0.394	film	world	cinema	lankan	festival	international	
+2	0.033	country	athukorala	chairman	million	bureau	promotions	
+3	0.529	team	league	world	win	year	game	
+4	0.037	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Coe in the spotlight as world athletics ponders Russia ban
+0	0.056	srilankan	airlines	france	travel	french	cargo	
+1	0.280	film	world	cinema	lankan	festival	international	
+2	0.014	country	athukorala	chairman	million	bureau	promotions	
+3	0.520	team	league	world	win	year	game	
+4	0.130	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Vettel sees 
+0	0.057	srilankan	airlines	france	travel	french	cargo	
+1	0.055	film	world	cinema	lankan	festival	international	
+2	0.072	country	athukorala	chairman	million	bureau	promotions	
+3	0.684	team	league	world	win	year	game	
+4	0.131	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: England to rest Rooney for Spain clash, Vardy injured
+0	0.211	srilankan	airlines	france	travel	french	cargo	
+1	0.042	film	world	cinema	lankan	festival	international	
+2	0.100	country	athukorala	chairman	million	bureau	promotions	
+3	0.512	team	league	world	win	year	game	
+4	0.135	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Blatter out of hospital, confidant tells Reuters TV
+0	0.074	srilankan	airlines	france	travel	french	cargo	
+1	0.021	film	world	cinema	lankan	festival	international	
+2	0.069	country	athukorala	chairman	million	bureau	promotions	
+3	0.739	team	league	world	win	year	game	
+4	0.096	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Jones or White tipped to become next England coach
+0	0.001	srilankan	airlines	france	travel	french	cargo	
+1	0.005	film	world	cinema	lankan	festival	international	
+2	0.170	country	athukorala	chairman	million	bureau	promotions	
+3	0.678	team	league	world	win	year	game	
+4	0.145	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Five enter FIFA presidency race; Bility, Platini sidelined
+0	0.024	srilankan	airlines	france	travel	french	cargo	
+1	0.092	film	world	cinema	lankan	festival	international	
+2	0.009	country	athukorala	chairman	million	bureau	promotions	
+3	0.474	team	league	world	win	year	game	
+4	0.401	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Hamilton owns up to car accident in Monaco
+0	0.087	srilankan	airlines	france	travel	french	cargo	
+1	0.218	film	world	cinema	lankan	festival	international	
+2	0.079	country	athukorala	chairman	million	bureau	promotions	
+3	0.529	team	league	world	win	year	game	
+4	0.087	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: I
+0	0.411	srilankan	airlines	france	travel	french	cargo	
+1	0.279	film	world	cinema	lankan	festival	international	
+2	0.035	country	athukorala	chairman	million	bureau	promotions	
+3	0.236	team	league	world	win	year	game	
+4	0.039	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: No regrets over City move, says 
+0	0.034	srilankan	airlines	france	travel	french	cargo	
+1	0.354	film	world	cinema	lankan	festival	international	
+2	0.005	country	athukorala	chairman	million	bureau	promotions	
+3	0.094	team	league	world	win	year	game	
+4	0.514	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: AdaDerana RSS
+0	0.001	srilankan	airlines	france	travel	french	cargo	
+1	0.005	film	world	cinema	lankan	festival	international	
+2	0.007	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.985	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Severe weather advisory issued for heavy rainfall, strong winds
+0	0.004	srilankan	airlines	france	travel	french	cargo	
+1	0.005	film	world	cinema	lankan	festival	international	
+2	0.009	country	athukorala	chairman	million	bureau	promotions	
+3	0.003	team	league	world	win	year	game	
+4	0.979	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Customs officers further remanded over Rs 125m bribe
+0	0.067	srilankan	airlines	france	travel	french	cargo	
+1	0.163	film	world	cinema	lankan	festival	international	
+2	0.017	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.752	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lankan woman deemed security threat released
+0	0.000	srilankan	airlines	france	travel	french	cargo	
+1	0.000	film	world	cinema	lankan	festival	international	
+2	0.001	country	athukorala	chairman	million	bureau	promotions	
+3	0.000	team	league	world	win	year	game	
+4	0.998	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: JVP summoned over case file by Wijeweera's wife
+0	0.002	srilankan	airlines	france	travel	french	cargo	
+1	0.185	film	world	cinema	lankan	festival	international	
+2	0.002	country	athukorala	chairman	million	bureau	promotions	
+3	0.011	team	league	world	win	year	game	
+4	0.799	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Aung San Suu Kyi wins Myanmar's landmark election
+0	0.002	srilankan	airlines	france	travel	french	cargo	
+1	0.401	film	world	cinema	lankan	festival	international	
+2	0.026	country	athukorala	chairman	million	bureau	promotions	
+3	0.004	team	league	world	win	year	game	
+4	0.567	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Court summons Mahinda and 6 others over SLTB payments
+0	0.001	srilankan	airlines	france	travel	french	cargo	
+1	0.003	film	world	cinema	lankan	festival	international	
+2	0.006	country	athukorala	chairman	million	bureau	promotions	
+3	0.017	team	league	world	win	year	game	
+4	0.974	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Postal workers launch trade union action
+0	0.007	srilankan	airlines	france	travel	french	cargo	
+1	0.007	film	world	cinema	lankan	festival	international	
+2	0.019	country	athukorala	chairman	million	bureau	promotions	
+3	0.021	team	league	world	win	year	game	
+4	0.947	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Space junk WT1190F hits Earth at 11-48am; to be bright as full moon
+0	0.059	srilankan	airlines	france	travel	french	cargo	
+1	0.005	film	world	cinema	lankan	festival	international	
+2	0.001	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.934	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Four mail trains on Northern line cancelled
+0	0.011	srilankan	airlines	france	travel	french	cargo	
+1	0.006	film	world	cinema	lankan	festival	international	
+2	0.039	country	athukorala	chairman	million	bureau	promotions	
+3	0.005	team	league	world	win	year	game	
+4	0.939	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Avant Garde to hold press conference tomorrow
+0	0.009	srilankan	airlines	france	travel	french	cargo	
+1	0.006	film	world	cinema	lankan	festival	international	
+2	0.007	country	athukorala	chairman	million	bureau	promotions	
+3	0.004	team	league	world	win	year	game	
+4	0.974	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: President vows to abolish Executive Presidency
+0	0.002	srilankan	airlines	france	travel	french	cargo	
+1	0.007	film	world	cinema	lankan	festival	international	
+2	0.419	country	athukorala	chairman	million	bureau	promotions	
+3	0.008	team	league	world	win	year	game	
+4	0.563	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Acting CJ takes oath
+0	0.006	srilankan	airlines	france	travel	french	cargo	
+1	0.028	film	world	cinema	lankan	festival	international	
+2	0.019	country	athukorala	chairman	million	bureau	promotions	
+3	0.004	team	league	world	win	year	game	
+4	0.943	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: TID now investigates KP- AG
+0	0.008	srilankan	airlines	france	travel	french	cargo	
+1	0.004	film	world	cinema	lankan	festival	international	
+2	0.003	country	athukorala	chairman	million	bureau	promotions	
+3	0.003	team	league	world	win	year	game	
+4	0.982	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Govt. to sign bilateral air service agreement with Serbia
+0	0.488	srilankan	airlines	france	travel	french	cargo	
+1	0.010	film	world	cinema	lankan	festival	international	
+2	0.082	country	athukorala	chairman	million	bureau	promotions	
+3	0.004	team	league	world	win	year	game	
+4	0.416	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka to usher in a capital oriented budget- Ravi
+0	0.130	srilankan	airlines	france	travel	french	cargo	
+1	0.258	film	world	cinema	lankan	festival	international	
+2	0.289	country	athukorala	chairman	million	bureau	promotions	
+3	0.014	team	league	world	win	year	game	
+4	0.310	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: A1 construction cost up by Rs. 2 billion, says Namal
+0	0.062	srilankan	airlines	france	travel	french	cargo	
+1	0.455	film	world	cinema	lankan	festival	international	
+2	0.044	country	athukorala	chairman	million	bureau	promotions	
+3	0.003	team	league	world	win	year	game	
+4	0.434	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Special traffic plan near Parliament today
+0	0.002	srilankan	airlines	france	travel	french	cargo	
+1	0.011	film	world	cinema	lankan	festival	international	
+2	0.260	country	athukorala	chairman	million	bureau	promotions	
+3	0.462	team	league	world	win	year	game	
+4	0.266	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Last rites of Ven. Sobitha Thero today
+0	0.013	srilankan	airlines	france	travel	french	cargo	
+1	0.224	film	world	cinema	lankan	festival	international	
+2	0.404	country	athukorala	chairman	million	bureau	promotions	
+3	0.022	team	league	world	win	year	game	
+4	0.337	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Train services on Northern line disrupted
+0	0.078	srilankan	airlines	france	travel	french	cargo	
+1	0.220	film	world	cinema	lankan	festival	international	
+2	0.018	country	athukorala	chairman	million	bureau	promotions	
+3	0.014	team	league	world	win	year	game	
+4	0.670	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: LTTE suspects; can’t consider as Full-fledge release 
+0	0.002	srilankan	airlines	france	travel	french	cargo	
+1	0.324	film	world	cinema	lankan	festival	international	
+2	0.004	country	athukorala	chairman	million	bureau	promotions	
+3	0.176	team	league	world	win	year	game	
+4	0.494	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Rainy weather prevails
+0	0.009	srilankan	airlines	france	travel	french	cargo	
+1	0.009	film	world	cinema	lankan	festival	international	
+2	0.013	country	athukorala	chairman	million	bureau	promotions	
+3	0.005	team	league	world	win	year	game	
+4	0.963	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Justin Bieber: I Had Tears in My Eyes Watching Amy Winehouse Doc
+0	0.004	srilankan	airlines	france	travel	french	cargo	
+1	0.759	film	world	cinema	lankan	festival	international	
+2	0.009	country	athukorala	chairman	million	bureau	promotions	
+3	0.162	team	league	world	win	year	game	
+4	0.066	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Ronaldo admits being casanova
+0	0.003	srilankan	airlines	france	travel	french	cargo	
+1	0.891	film	world	cinema	lankan	festival	international	
+2	0.014	country	athukorala	chairman	million	bureau	promotions	
+3	0.006	team	league	world	win	year	game	
+4	0.085	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Shops closed in Jaffna, Kilinochci and Baticalo due to Harthal
+0	0.019	srilankan	airlines	france	travel	french	cargo	
+1	0.336	film	world	cinema	lankan	festival	international	
+2	0.003	country	athukorala	chairman	million	bureau	promotions	
+3	0.003	team	league	world	win	year	game	
+4	0.639	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Court summons JVP over Wijeweeras books
+0	0.008	srilankan	airlines	france	travel	french	cargo	
+1	0.509	film	world	cinema	lankan	festival	international	
+2	0.006	country	athukorala	chairman	million	bureau	promotions	
+3	0.003	team	league	world	win	year	game	
+4	0.474	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: John Lennon book wins Goldsmiths Prize
+0	0.003	srilankan	airlines	france	travel	french	cargo	
+1	0.826	film	world	cinema	lankan	festival	international	
+2	0.012	country	athukorala	chairman	million	bureau	promotions	
+3	0.004	team	league	world	win	year	game	
+4	0.154	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Volkswagen sets emissions scandal amnesty deadline
+0	0.003	srilankan	airlines	france	travel	french	cargo	
+1	0.855	film	world	cinema	lankan	festival	international	
+2	0.008	country	athukorala	chairman	million	bureau	promotions	
+3	0.007	team	league	world	win	year	game	
+4	0.126	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: 3 days, 27 deals: India most open, says PM Narendra Modi in UK
+0	0.049	srilankan	airlines	france	travel	french	cargo	
+1	0.618	film	world	cinema	lankan	festival	international	
+2	0.011	country	athukorala	chairman	million	bureau	promotions	
+3	0.007	team	league	world	win	year	game	
+4	0.315	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: AB de Villiers Warns Virat Kohli
+0	0.109	srilankan	airlines	france	travel	french	cargo	
+1	0.802	film	world	cinema	lankan	festival	international	
+2	0.008	country	athukorala	chairman	million	bureau	promotions	
+3	0.072	team	league	world	win	year	game	
+4	0.008	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: WT1190F: No space debris sighted
+0	0.001	srilankan	airlines	france	travel	french	cargo	
+1	0.005	film	world	cinema	lankan	festival	international	
+2	0.003	country	athukorala	chairman	million	bureau	promotions	
+3	0.003	team	league	world	win	year	game	
+4	0.987	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Mass scale fuel racket raided by the police
+0	0.008	srilankan	airlines	france	travel	french	cargo	
+1	0.855	film	world	cinema	lankan	festival	international	
+2	0.017	country	athukorala	chairman	million	bureau	promotions	
+3	0.021	team	league	world	win	year	game	
+4	0.099	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Myanmar election: Suu Kyis NLD wins landslide victory
+0	0.001	srilankan	airlines	france	travel	french	cargo	
+1	0.006	film	world	cinema	lankan	festival	international	
+2	0.002	country	athukorala	chairman	million	bureau	promotions	
+3	0.004	team	league	world	win	year	game	
+4	0.987	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Adele and Elvis Presley Hold Tight On Top Of UK Charts
+0	0.002	srilankan	airlines	france	travel	french	cargo	
+1	0.750	film	world	cinema	lankan	festival	international	
+2	0.209	country	athukorala	chairman	million	bureau	promotions	
+3	0.005	team	league	world	win	year	game	
+4	0.033	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Rupee at record low on importer dlr demand 
+0	0.034	srilankan	airlines	france	travel	french	cargo	
+1	0.823	film	world	cinema	lankan	festival	international	
+2	0.106	country	athukorala	chairman	million	bureau	promotions	
+3	0.021	team	league	world	win	year	game	
+4	0.017	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sampath Group’s 9-month PBT up 42% to Rs.7.4 bn
+0	0.192	srilankan	airlines	france	travel	french	cargo	
+1	0.341	film	world	cinema	lankan	festival	international	
+2	0.431	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.035	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: JVP has control in country’s political sphere: Anura
+0	0.002	srilankan	airlines	france	travel	french	cargo	
+1	0.489	film	world	cinema	lankan	festival	international	
+2	0.005	country	athukorala	chairman	million	bureau	promotions	
+3	0.004	team	league	world	win	year	game	
+4	0.501	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Paris rocked by series of deadly shootings, blasts
+0	0.359	srilankan	airlines	france	travel	french	cargo	
+1	0.237	film	world	cinema	lankan	festival	international	
+2	0.002	country	athukorala	chairman	million	bureau	promotions	
+3	0.136	team	league	world	win	year	game	
+4	0.267	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: President condemns Paris attack
+0	0.108	srilankan	airlines	france	travel	french	cargo	
+1	0.123	film	world	cinema	lankan	festival	international	
+2	0.035	country	athukorala	chairman	million	bureau	promotions	
+3	0.075	team	league	world	win	year	game	
+4	0.660	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Thanha Rathi Ranga wins at Derana Film Awards 2015
+0	0.539	srilankan	airlines	france	travel	french	cargo	
+1	0.015	film	world	cinema	lankan	festival	international	
+2	0.010	country	athukorala	chairman	million	bureau	promotions	
+3	0.005	team	league	world	win	year	game	
+4	0.430	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Full report of Budget-2016 
+0	0.878	srilankan	airlines	france	travel	french	cargo	
+1	0.039	film	world	cinema	lankan	festival	international	
+2	0.025	country	athukorala	chairman	million	bureau	promotions	
+3	0.021	team	league	world	win	year	game	
+4	0.037	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: 80 hostages freed as special forces storm Mali hotel
+0	0.015	srilankan	airlines	france	travel	french	cargo	
+1	0.102	film	world	cinema	lankan	festival	international	
+2	0.008	country	athukorala	chairman	million	bureau	promotions	
+3	0.240	team	league	world	win	year	game	
+4	0.636	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Gunmen take 170 hostages at a hotel in Mali
+0	0.228	srilankan	airlines	france	travel	french	cargo	
+1	0.255	film	world	cinema	lankan	festival	international	
+2	0.008	country	athukorala	chairman	million	bureau	promotions	
+3	0.006	team	league	world	win	year	game	
+4	0.504	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sarath Kumara Gunaratne released on bail
+0	0.005	srilankan	airlines	france	travel	french	cargo	
+1	0.157	film	world	cinema	lankan	festival	international	
+2	0.079	country	athukorala	chairman	million	bureau	promotions	
+3	0.008	team	league	world	win	year	game	
+4	0.751	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Attempts to celebrate Mahaviru Day in the North
+0	0.007	srilankan	airlines	france	travel	french	cargo	
+1	0.181	film	world	cinema	lankan	festival	international	
+2	0.031	country	athukorala	chairman	million	bureau	promotions	
+3	0.063	team	league	world	win	year	game	
+4	0.719	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Chennai may not host India-SL World T20 matches
+0	0.006	srilankan	airlines	france	travel	french	cargo	
+1	0.226	film	world	cinema	lankan	festival	international	
+2	0.066	country	athukorala	chairman	million	bureau	promotions	
+3	0.213	team	league	world	win	year	game	
+4	0.489	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Grand Hyatt board remains unchanged-official
+0	0.005	srilankan	airlines	france	travel	french	cargo	
+1	0.218	film	world	cinema	lankan	festival	international	
+2	0.345	country	athukorala	chairman	million	bureau	promotions	
+3	0.152	team	league	world	win	year	game	
+4	0.281	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Thilakaratne new CAA Chairman
+0	0.003	srilankan	airlines	france	travel	french	cargo	
+1	0.012	film	world	cinema	lankan	festival	international	
+2	0.814	country	athukorala	chairman	million	bureau	promotions	
+3	0.051	team	league	world	win	year	game	
+4	0.121	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: PRECIFAC records statement from MR
+0	0.011	srilankan	airlines	france	travel	french	cargo	
+1	0.036	film	world	cinema	lankan	festival	international	
+2	0.010	country	athukorala	chairman	million	bureau	promotions	
+3	0.014	team	league	world	win	year	game	
+4	0.928	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Request to sell Sicille's jewellery to pay depositors
+0	0.015	srilankan	airlines	france	travel	french	cargo	
+1	0.022	film	world	cinema	lankan	festival	international	
+2	0.069	country	athukorala	chairman	million	bureau	promotions	
+3	0.021	team	league	world	win	year	game	
+4	0.873	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: President’s, PM’s residencies to be relocated: Champika
+0	0.143	srilankan	airlines	france	travel	french	cargo	
+1	0.180	film	world	cinema	lankan	festival	international	
+2	0.368	country	athukorala	chairman	million	bureau	promotions	
+3	0.086	team	league	world	win	year	game	
+4	0.223	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Standard house number plates from CMC
+0	0.024	srilankan	airlines	france	travel	french	cargo	
+1	0.056	film	world	cinema	lankan	festival	international	
+2	0.427	country	athukorala	chairman	million	bureau	promotions	
+3	0.074	team	league	world	win	year	game	
+4	0.419	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: CAA Chairman resigns
+0	0.003	srilankan	airlines	france	travel	french	cargo	
+1	0.003	film	world	cinema	lankan	festival	international	
+2	0.364	country	athukorala	chairman	million	bureau	promotions	
+3	0.413	team	league	world	win	year	game	
+4	0.215	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: I don’t think govt will scrap Exec. Presidency-MR
+0	0.122	srilankan	airlines	france	travel	french	cargo	
+1	0.072	film	world	cinema	lankan	festival	international	
+2	0.218	country	athukorala	chairman	million	bureau	promotions	
+3	0.009	team	league	world	win	year	game	
+4	0.579	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: ?FCID visits CSN again
+0	0.018	srilankan	airlines	france	travel	french	cargo	
+1	0.537	film	world	cinema	lankan	festival	international	
+2	0.041	country	athukorala	chairman	million	bureau	promotions	
+3	0.007	team	league	world	win	year	game	
+4	0.397	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Cabinet to be briefed on Budget
+0	0.079	srilankan	airlines	france	travel	french	cargo	
+1	0.224	film	world	cinema	lankan	festival	international	
+2	0.037	country	athukorala	chairman	million	bureau	promotions	
+3	0.020	team	league	world	win	year	game	
+4	0.641	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Paris attacks 'mastermind' killed in raid
+0	0.092	srilankan	airlines	france	travel	french	cargo	
+1	0.168	film	world	cinema	lankan	festival	international	
+2	0.230	country	athukorala	chairman	million	bureau	promotions	
+3	0.181	team	league	world	win	year	game	
+4	0.328	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Google live traffic in SL
+0	0.092	srilankan	airlines	france	travel	french	cargo	
+1	0.168	film	world	cinema	lankan	festival	international	
+2	0.230	country	athukorala	chairman	million	bureau	promotions	
+3	0.181	team	league	world	win	year	game	
+4	0.328	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Govt. to probe UN Working Group claims
+0	0.002	srilankan	airlines	france	travel	french	cargo	
+1	0.013	film	world	cinema	lankan	festival	international	
+2	0.136	country	athukorala	chairman	million	bureau	promotions	
+3	0.309	team	league	world	win	year	game	
+4	0.540	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Nishan Dhanasinghe new Prisons Commissioner
+0	0.020	srilankan	airlines	france	travel	french	cargo	
+1	0.012	film	world	cinema	lankan	festival	international	
+2	0.144	country	athukorala	chairman	million	bureau	promotions	
+3	0.119	team	league	world	win	year	game	
+4	0.705	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: ‘Ceylon Tea’ brand likely to be reconceptualised: Minister
+0	0.342	srilankan	airlines	france	travel	french	cargo	
+1	0.322	film	world	cinema	lankan	festival	international	
+2	0.295	country	athukorala	chairman	million	bureau	promotions	
+3	0.016	team	league	world	win	year	game	
+4	0.026	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: No more protectionist policies for industries under new regime
+0	0.298	srilankan	airlines	france	travel	french	cargo	
+1	0.179	film	world	cinema	lankan	festival	international	
+2	0.163	country	athukorala	chairman	million	bureau	promotions	
+3	0.056	team	league	world	win	year	game	
+4	0.303	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka set to pursue pro-western trade and foreign policy: Harsha
+0	0.200	srilankan	airlines	france	travel	french	cargo	
+1	0.176	film	world	cinema	lankan	festival	international	
+2	0.326	country	athukorala	chairman	million	bureau	promotions	
+3	0.003	team	league	world	win	year	game	
+4	0.295	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Another twist in Grand Hyatt saga
+0	0.092	srilankan	airlines	france	travel	french	cargo	
+1	0.168	film	world	cinema	lankan	festival	international	
+2	0.230	country	athukorala	chairman	million	bureau	promotions	
+3	0.181	team	league	world	win	year	game	
+4	0.328	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Anantaya promises unmatched dining experience 
+0	0.981	srilankan	airlines	france	travel	french	cargo	
+1	0.002	film	world	cinema	lankan	festival	international	
+2	0.008	country	athukorala	chairman	million	bureau	promotions	
+3	0.002	team	league	world	win	year	game	
+4	0.006	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: SriLankan expands reach in Central Asia with Siberian Airlines 
+0	0.991	srilankan	airlines	france	travel	french	cargo	
+1	0.003	film	world	cinema	lankan	festival	international	
+2	0.003	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.002	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Experience the sensational Seychelles with SriLankan Holidays 
+0	0.995	srilankan	airlines	france	travel	french	cargo	
+1	0.001	film	world	cinema	lankan	festival	international	
+2	0.001	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.002	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: 100 kg to over 100 cities with SriLankan Cargo’s “Bag-It” 
+0	0.994	srilankan	airlines	france	travel	french	cargo	
+1	0.001	film	world	cinema	lankan	festival	international	
+2	0.002	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.003	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: SriLankan Airlines SimNet wins ICT Award 
+0	0.884	srilankan	airlines	france	travel	french	cargo	
+1	0.002	film	world	cinema	lankan	festival	international	
+2	0.103	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.011	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: ILFC and SriLankan Airlines sign 12-year lease agreement for three A350-900s 
+0	0.864	srilankan	airlines	france	travel	french	cargo	
+1	0.003	film	world	cinema	lankan	festival	international	
+2	0.102	country	athukorala	chairman	million	bureau	promotions	
+3	0.002	team	league	world	win	year	game	
+4	0.029	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism showcases at World Travel Mart  London with 64 Industry Partners
+0	0.661	srilankan	airlines	france	travel	french	cargo	
+1	0.002	film	world	cinema	lankan	festival	international	
+2	0.176	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.159	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism comes board for ITB Asia 2015 Travel Show
+0	0.764	srilankan	airlines	france	travel	french	cargo	
+1	0.002	film	world	cinema	lankan	festival	international	
+2	0.150	country	athukorala	chairman	million	bureau	promotions	
+3	0.002	team	league	world	win	year	game	
+4	0.083	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism showcase “One Island, Thousand Treasures” at  IFTM Travel Fair Paris , France 2015
+0	0.442	srilankan	airlines	france	travel	french	cargo	
+1	0.001	film	world	cinema	lankan	festival	international	
+2	0.481	country	athukorala	chairman	million	bureau	promotions	
+3	0.003	team	league	world	win	year	game	
+4	0.074	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Tourism Receipts touch $2.1 billion as at end September 2015
+0	0.333	srilankan	airlines	france	travel	french	cargo	
+1	0.004	film	world	cinema	lankan	festival	international	
+2	0.623	country	athukorala	chairman	million	bureau	promotions	
+3	0.011	team	league	world	win	year	game	
+4	0.029	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: The 1st ever Cruise Tourism Marketing Plan presented to the New Tourism Minister 
+0	0.256	srilankan	airlines	france	travel	french	cargo	
+1	0.002	film	world	cinema	lankan	festival	international	
+2	0.678	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.063	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Tourism new ideas, new concepts and dreams- Sri Lanka must take the chance
+0	0.105	srilankan	airlines	france	travel	french	cargo	
+1	0.208	film	world	cinema	lankan	festival	international	
+2	0.634	country	athukorala	chairman	million	bureau	promotions	
+3	0.003	team	league	world	win	year	game	
+4	0.049	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism celebrate ‘World Tourism Day' to upgrade industry competitiveness
+0	0.150	srilankan	airlines	france	travel	french	cargo	
+1	0.393	film	world	cinema	lankan	festival	international	
+2	0.320	country	athukorala	chairman	million	bureau	promotions	
+3	0.002	team	league	world	win	year	game	
+4	0.135	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka ride the wave at Japan Tourism Expo 2015
+0	0.124	srilankan	airlines	france	travel	french	cargo	
+1	0.521	film	world	cinema	lankan	festival	international	
+2	0.206	country	athukorala	chairman	million	bureau	promotions	
+3	0.003	team	league	world	win	year	game	
+4	0.146	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Scandinavian markets grow by 32%: Sri Lanka Tourism focused marketing drive
+0	0.415	srilankan	airlines	france	travel	french	cargo	
+1	0.003	film	world	cinema	lankan	festival	international	
+2	0.551	country	athukorala	chairman	million	bureau	promotions	
+3	0.002	team	league	world	win	year	game	
+4	0.029	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Tourism Record in September: arrivals jump 35.9% to cross 1.3 million
+0	0.474	srilankan	airlines	france	travel	french	cargo	
+1	0.011	film	world	cinema	lankan	festival	international	
+2	0.488	country	athukorala	chairman	million	bureau	promotions	
+3	0.004	team	league	world	win	year	game	
+4	0.022	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism launches Community Aid Tourism with Olympic Gold medallion
+0	0.194	srilankan	airlines	france	travel	french	cargo	
+1	0.005	film	world	cinema	lankan	festival	international	
+2	0.719	country	athukorala	chairman	million	bureau	promotions	
+3	0.021	team	league	world	win	year	game	
+4	0.061	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism with Pink my Tuk launch Global Online video competition
+0	0.185	srilankan	airlines	france	travel	french	cargo	
+1	0.108	film	world	cinema	lankan	festival	international	
+2	0.540	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.166	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka - Cultural focus country at Key Italian Travel Fair TTG
+0	0.355	srilankan	airlines	france	travel	french	cargo	
+1	0.061	film	world	cinema	lankan	festival	international	
+2	0.506	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.077	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Mr and Miss UK commends Sri Lanka- Destination of the Year title
+0	0.047	srilankan	airlines	france	travel	french	cargo	
+1	0.003	film	world	cinema	lankan	festival	international	
+2	0.599	country	athukorala	chairman	million	bureau	promotions	
+3	0.012	team	league	world	win	year	game	
+4	0.339	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism to highlight the 1706th Esala Perahera at Japan JATA World Expo 2015
+0	0.298	srilankan	airlines	france	travel	french	cargo	
+1	0.012	film	world	cinema	lankan	festival	international	
+2	0.676	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.013	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism enter China's growing religious tourism business     
+0	0.271	srilankan	airlines	france	travel	french	cargo	
+1	0.002	film	world	cinema	lankan	festival	international	
+2	0.679	country	athukorala	chairman	million	bureau	promotions	
+3	0.032	team	league	world	win	year	game	
+4	0.016	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism, Tea board and Sri Lankan Airlines quest for Guinness Record
+0	0.276	srilankan	airlines	france	travel	french	cargo	
+1	0.152	film	world	cinema	lankan	festival	international	
+2	0.499	country	athukorala	chairman	million	bureau	promotions	
+3	0.009	team	league	world	win	year	game	
+4	0.064	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism focussing on the $92 billion German source market
+0	0.417	srilankan	airlines	france	travel	french	cargo	
+1	0.196	film	world	cinema	lankan	festival	international	
+2	0.338	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.049	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Change lives and win big with findmyfare.com’s Insta Booking Challenge
+0	0.443	srilankan	airlines	france	travel	french	cargo	
+1	0.161	film	world	cinema	lankan	festival	international	
+2	0.292	country	athukorala	chairman	million	bureau	promotions	
+3	0.080	team	league	world	win	year	game	
+4	0.023	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism blitz on Sony Six for Sanga Farewell
+0	0.182	srilankan	airlines	france	travel	french	cargo	
+1	0.032	film	world	cinema	lankan	festival	international	
+2	0.365	country	athukorala	chairman	million	bureau	promotions	
+3	0.340	team	league	world	win	year	game	
+4	0.081	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: NBA Kings forward Cousins suspended one game
+0	0.068	srilankan	airlines	france	travel	french	cargo	
+1	0.004	film	world	cinema	lankan	festival	international	
+2	0.017	country	athukorala	chairman	million	bureau	promotions	
+3	0.522	team	league	world	win	year	game	
+4	0.389	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Citroen to take a year out of world championship
+0	0.207	srilankan	airlines	france	travel	french	cargo	
+1	0.117	film	world	cinema	lankan	festival	international	
+2	0.230	country	athukorala	chairman	million	bureau	promotions	
+3	0.286	team	league	world	win	year	game	
+4	0.161	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Cotto says boxing win will be enough against Alvarez
+0	0.362	srilankan	airlines	france	travel	french	cargo	
+1	0.063	film	world	cinema	lankan	festival	international	
+2	0.246	country	athukorala	chairman	million	bureau	promotions	
+3	0.232	team	league	world	win	year	game	
+4	0.097	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Dominguez stripped of 2009 steeplechase world title
+0	0.010	srilankan	airlines	france	travel	french	cargo	
+1	0.177	film	world	cinema	lankan	festival	international	
+2	0.101	country	athukorala	chairman	million	bureau	promotions	
+3	0.339	team	league	world	win	year	game	
+4	0.373	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Record-seeking Vardy fighting to be fit for Leicester
+0	0.152	srilankan	airlines	france	travel	french	cargo	
+1	0.048	film	world	cinema	lankan	festival	international	
+2	0.048	country	athukorala	chairman	million	bureau	promotions	
+3	0.432	team	league	world	win	year	game	
+4	0.319	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Wenger calls for routine blood tests
+0	0.316	srilankan	airlines	france	travel	french	cargo	
+1	0.004	film	world	cinema	lankan	festival	international	
+2	0.030	country	athukorala	chairman	million	bureau	promotions	
+3	0.463	team	league	world	win	year	game	
+4	0.187	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: British captain Smith hints at Edmund debut in Davis Cup final
+0	0.007	srilankan	airlines	france	travel	french	cargo	
+1	0.007	film	world	cinema	lankan	festival	international	
+2	0.325	country	athukorala	chairman	million	bureau	promotions	
+3	0.414	team	league	world	win	year	game	
+4	0.248	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Federer repels Nishikori fightback to win group
+0	0.147	srilankan	airlines	france	travel	french	cargo	
+1	0.069	film	world	cinema	lankan	festival	international	
+2	0.016	country	athukorala	chairman	million	bureau	promotions	
+3	0.586	team	league	world	win	year	game	
+4	0.182	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Lomu to have public memorial, Queen sends condolences
+0	0.078	srilankan	airlines	france	travel	french	cargo	
+1	0.111	film	world	cinema	lankan	festival	international	
+2	0.027	country	athukorala	chairman	million	bureau	promotions	
+3	0.285	team	league	world	win	year	game	
+4	0.498	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Nadal
+0	0.139	srilankan	airlines	france	travel	french	cargo	
+1	0.020	film	world	cinema	lankan	festival	international	
+2	0.184	country	athukorala	chairman	million	bureau	promotions	
+3	0.535	team	league	world	win	year	game	
+4	0.122	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Australian Jones set to be appointed England coach 
+0	0.001	srilankan	airlines	france	travel	french	cargo	
+1	0.176	film	world	cinema	lankan	festival	international	
+2	0.173	country	athukorala	chairman	million	bureau	promotions	
+3	0.371	team	league	world	win	year	game	
+4	0.278	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Russia could miss world indoors as IAAF wants 
+0	0.014	srilankan	airlines	france	travel	french	cargo	
+1	0.492	film	world	cinema	lankan	festival	international	
+2	0.026	country	athukorala	chairman	million	bureau	promotions	
+3	0.303	team	league	world	win	year	game	
+4	0.165	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sturridge declares himself fit ahead of Man City clash
+0	0.266	srilankan	airlines	france	travel	french	cargo	
+1	0.004	film	world	cinema	lankan	festival	international	
+2	0.155	country	athukorala	chairman	million	bureau	promotions	
+3	0.295	team	league	world	win	year	game	
+4	0.281	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Messi return to reunite 
+0	0.265	srilankan	airlines	france	travel	french	cargo	
+1	0.010	film	world	cinema	lankan	festival	international	
+2	0.079	country	athukorala	chairman	million	bureau	promotions	
+3	0.437	team	league	world	win	year	game	
+4	0.209	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: NZ Rugby continues to mourn Lomu as McCaw retires
+0	0.103	srilankan	airlines	france	travel	french	cargo	
+1	0.074	film	world	cinema	lankan	festival	international	
+2	0.183	country	athukorala	chairman	million	bureau	promotions	
+3	0.425	team	league	world	win	year	game	
+4	0.215	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Man City
+0	0.133	srilankan	airlines	france	travel	french	cargo	
+1	0.008	film	world	cinema	lankan	festival	international	
+2	0.126	country	athukorala	chairman	million	bureau	promotions	
+3	0.448	team	league	world	win	year	game	
+4	0.285	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Wenger thanks England for support after Paris attacks
+0	0.091	srilankan	airlines	france	travel	french	cargo	
+1	0.029	film	world	cinema	lankan	festival	international	
+2	0.318	country	athukorala	chairman	million	bureau	promotions	
+3	0.196	team	league	world	win	year	game	
+4	0.365	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: I do 
+0	0.142	srilankan	airlines	france	travel	french	cargo	
+1	0.015	film	world	cinema	lankan	festival	international	
+2	0.159	country	athukorala	chairman	million	bureau	promotions	
+3	0.409	team	league	world	win	year	game	
+4	0.276	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Nadal cuts Murray down to size to reach semi-finals
+0	0.021	srilankan	airlines	france	travel	french	cargo	
+1	0.223	film	world	cinema	lankan	festival	international	
+2	0.118	country	athukorala	chairman	million	bureau	promotions	
+3	0.445	team	league	world	win	year	game	
+4	0.193	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Loan spells made me better player, says Arsenal
+0	0.170	srilankan	airlines	france	travel	french	cargo	
+1	0.005	film	world	cinema	lankan	festival	international	
+2	0.020	country	athukorala	chairman	million	bureau	promotions	
+3	0.424	team	league	world	win	year	game	
+4	0.381	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sterling has point to prove as Man City face Liverpool
+0	0.004	srilankan	airlines	france	travel	french	cargo	
+1	0.226	film	world	cinema	lankan	festival	international	
+2	0.052	country	athukorala	chairman	million	bureau	promotions	
+3	0.316	team	league	world	win	year	game	
+4	0.403	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Crushed by Lomu, but England united in grief at his death
+0	0.074	srilankan	airlines	france	travel	french	cargo	
+1	0.030	film	world	cinema	lankan	festival	international	
+2	0.080	country	athukorala	chairman	million	bureau	promotions	
+3	0.456	team	league	world	win	year	game	
+4	0.359	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Blatter, Platini lose appeals against provisional FIFA bans
+0	0.028	srilankan	airlines	france	travel	french	cargo	
+1	0.007	film	world	cinema	lankan	festival	international	
+2	0.014	country	athukorala	chairman	million	bureau	promotions	
+3	0.695	team	league	world	win	year	game	
+4	0.256	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: AdaDerana RSS
+0	0.423	srilankan	airlines	france	travel	french	cargo	
+1	0.540	film	world	cinema	lankan	festival	international	
+2	0.014	country	athukorala	chairman	million	bureau	promotions	
+3	0.008	team	league	world	win	year	game	
+4	0.015	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: 100,000 houses for slum dwellers
+0	0.048	srilankan	airlines	france	travel	french	cargo	
+1	0.166	film	world	cinema	lankan	festival	international	
+2	0.097	country	athukorala	chairman	million	bureau	promotions	
+3	0.017	team	league	world	win	year	game	
+4	0.671	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Taxes for leasing land to foreigners removed
+0	0.063	srilankan	airlines	france	travel	french	cargo	
+1	0.149	film	world	cinema	lankan	festival	international	
+2	0.337	country	athukorala	chairman	million	bureau	promotions	
+3	0.011	team	league	world	win	year	game	
+4	0.440	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: 50 licenses for duty free Gold importation
+0	0.015	srilankan	airlines	france	travel	french	cargo	
+1	0.333	film	world	cinema	lankan	festival	international	
+2	0.344	country	athukorala	chairman	million	bureau	promotions	
+3	0.192	team	league	world	win	year	game	
+4	0.117	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Rs. 1 million life insurance scheme for fishermen
+0	0.027	srilankan	airlines	france	travel	french	cargo	
+1	0.063	film	world	cinema	lankan	festival	international	
+2	0.466	country	athukorala	chairman	million	bureau	promotions	
+3	0.013	team	league	world	win	year	game	
+4	0.430	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: 400g Powdered Milk price reduced to Rs. 295
+0	0.073	srilankan	airlines	france	travel	french	cargo	
+1	0.214	film	world	cinema	lankan	festival	international	
+2	0.588	country	athukorala	chairman	million	bureau	promotions	
+3	0.076	team	league	world	win	year	game	
+4	0.049	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Certified price for rice
+0	0.012	srilankan	airlines	france	travel	french	cargo	
+1	0.460	film	world	cinema	lankan	festival	international	
+2	0.492	country	athukorala	chairman	million	bureau	promotions	
+3	0.006	team	league	world	win	year	game	
+4	0.030	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Entrepreneurs to get 50% income tax reduction
+0	0.530	srilankan	airlines	france	travel	french	cargo	
+1	0.112	film	world	cinema	lankan	festival	international	
+2	0.295	country	athukorala	chairman	million	bureau	promotions	
+3	0.016	team	league	world	win	year	game	
+4	0.047	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Gunmen take 170 hostage at Mali hotel 
+0	0.050	srilankan	airlines	france	travel	french	cargo	
+1	0.199	film	world	cinema	lankan	festival	international	
+2	0.055	country	athukorala	chairman	million	bureau	promotions	
+3	0.087	team	league	world	win	year	game	
+4	0.610	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: LIVE UPDATES- Budget 2016
+0	0.148	srilankan	airlines	france	travel	french	cargo	
+1	0.126	film	world	cinema	lankan	festival	international	
+2	0.327	country	athukorala	chairman	million	bureau	promotions	
+3	0.001	team	league	world	win	year	game	
+4	0.398	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: PM wants to consolidate economic relations with Bangladesh
+0	0.221	srilankan	airlines	france	travel	french	cargo	
+1	0.012	film	world	cinema	lankan	festival	international	
+2	0.340	country	athukorala	chairman	million	bureau	promotions	
+3	0.025	team	league	world	win	year	game	
+4	0.401	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Sarath Kumara Gunaratne released on bail
+0	0.012	srilankan	airlines	france	travel	french	cargo	
+1	0.014	film	world	cinema	lankan	festival	international	
+2	0.027	country	athukorala	chairman	million	bureau	promotions	
+3	0.049	team	league	world	win	year	game	
+4	0.898	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Questions over floating armoury in Indian territorial waters
+0	0.007	srilankan	airlines	france	travel	french	cargo	
+1	0.034	film	world	cinema	lankan	festival	international	
+2	0.005	country	athukorala	chairman	million	bureau	promotions	
+3	0.148	team	league	world	win	year	game	
+4	0.806	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Hasitha Thilakeratne appointed CAA chairman
+0	0.010	srilankan	airlines	france	travel	french	cargo	
+1	0.056	film	world	cinema	lankan	festival	international	
+2	0.724	country	athukorala	chairman	million	bureau	promotions	
+3	0.074	team	league	world	win	year	game	
+4	0.136	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Ex-President arrives at PRECIFAC
+0	0.260	srilankan	airlines	france	travel	french	cargo	
+1	0.008	film	world	cinema	lankan	festival	international	
+2	0.024	country	athukorala	chairman	million	bureau	promotions	
+3	0.043	team	league	world	win	year	game	
+4	0.666	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Macedonia bars refugees from Sri Lanka
+0	0.036	srilankan	airlines	france	travel	french	cargo	
+1	0.108	film	world	cinema	lankan	festival	international	
+2	0.073	country	athukorala	chairman	million	bureau	promotions	
+3	0.285	team	league	world	win	year	game	
+4	0.497	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Paris attacks- Abdelhamid Abaaoud 'died in Saint Denis raid'
+0	0.487	srilankan	airlines	france	travel	french	cargo	
+1	0.079	film	world	cinema	lankan	festival	international	
+2	0.009	country	athukorala	chairman	million	bureau	promotions	
+3	0.067	team	league	world	win	year	game	
+4	0.358	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Police makes arrest over Maldives man assault
+0	0.009	srilankan	airlines	france	travel	french	cargo	
+1	0.006	film	world	cinema	lankan	festival	international	
+2	0.037	country	athukorala	chairman	million	bureau	promotions	
+3	0.056	team	league	world	win	year	game	
+4	0.891	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: Akila explains why voucher system for school uniforms is better
+0	0.323	srilankan	airlines	france	travel	french	cargo	
+1	0.017	film	world	cinema	lankan	festival	international	
+2	0.408	country	athukorala	chairman	million	bureau	promotions	
+3	0.066	team	league	world	win	year	game	
+4	0.186	police	minister	president	students	arrested	prime	
+top 6 words in each topic with proportions for document: New  Ambassadors and High Commissioners appointed
+0	0.004	srilankan	airlines	france	travel	french	cargo	
+1	0.023	film	world	cinema	lankan	festival	international	
+2	0.487	country	athukorala	chairman	million	bureau	promotions	
+3	0.003	team	league	world	win	year	game	
+4	0.483	police	minister	president	students	arrested	prime	

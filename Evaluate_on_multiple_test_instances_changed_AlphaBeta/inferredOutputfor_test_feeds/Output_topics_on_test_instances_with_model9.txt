@@ -1,0 +1,2111 @@
+Model LogLikelihood : -123493.17177543517
+top 6 words in each topic with proportions for document: Video: Spectacular breakup of WT1190F seen by team of Airborne Astronomers
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.000	world	cup	carter	year	blacks	rugby	
+2	0.989	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.008	president	arrested	police	blast	maldives	found	
+6	0.000	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.001	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Video: SLFP can’t win under current chairman: Lohan
+0	0.003	athukorala	country	world	chairman	million	bureau	
+1	0.001	world	cup	carter	year	blacks	rugby	
+2	0.605	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.387	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.002	team	game	set	time	victory	win	
+8	0.001	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Video: 24 ex-LTTEers released on bail
+0	0.004	athukorala	country	world	chairman	million	bureau	
+1	0.011	world	cup	carter	year	blacks	rugby	
+2	0.011	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.967	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.003	team	game	set	time	victory	win	
+8	0.002	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Circular issued against adding sugar into tea
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.942	world	cup	carter	year	blacks	rugby	
+2	0.002	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.001	president	arrested	police	blast	maldives	found	
+6	0.000	film	france	lankan	travel	cinema	festival	
+7	0.054	team	game	set	time	victory	win	
+8	0.001	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Video: JVP sued by Wijeweera's wife Chitranganie
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.163	world	cup	carter	year	blacks	rugby	
+2	0.002	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.832	president	arrested	police	blast	maldives	found	
+6	0.000	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.000	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Lankan mother deemed a security threat, freed
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.000	world	cup	carter	year	blacks	rugby	
+2	0.512	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.486	president	arrested	police	blast	maldives	found	
+6	0.000	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.000	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: No space debris sighted
+0	0.002	athukorala	country	world	chairman	million	bureau	
+1	0.001	world	cup	carter	year	blacks	rugby	
+2	0.574	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.417	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.003	team	game	set	time	victory	win	
+8	0.001	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Video: Northern hartal still underway
+0	0.002	athukorala	country	world	chairman	million	bureau	
+1	0.015	world	cup	carter	year	blacks	rugby	
+2	0.456	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.002	hamilton	race	lankan	rosberg	release	time	
+5	0.051	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.005	team	game	set	time	victory	win	
+8	0.466	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Suu Kyi's National League wins majority in Myanmar
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.034	world	cup	carter	year	blacks	rugby	
+2	0.891	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.072	president	arrested	police	blast	maldives	found	
+6	0.000	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.001	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Summons on MR by Commercial High Court
+0	0.003	athukorala	country	world	chairman	million	bureau	
+1	0.004	world	cup	carter	year	blacks	rugby	
+2	0.745	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.002	hamilton	race	lankan	rosberg	release	time	
+5	0.230	president	arrested	police	blast	maldives	found	
+6	0.002	film	france	lankan	travel	cinema	festival	
+7	0.010	team	game	set	time	victory	win	
+8	0.002	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Navy begins transfer of Avant Garde weapons
+0	0.002	athukorala	country	world	chairman	million	bureau	
+1	0.002	world	cup	carter	year	blacks	rugby	
+2	0.975	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.013	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.004	team	game	set	time	victory	win	
+8	0.001	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Avant Garde press briefing called off
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.004	world	cup	carter	year	blacks	rugby	
+2	0.364	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.626	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.004	team	game	set	time	victory	win	
+8	0.001	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Postal union announces sick note campaign
+0	0.002	athukorala	country	world	chairman	million	bureau	
+1	0.008	world	cup	carter	year	blacks	rugby	
+2	0.568	minister	police	students	prime	ministry	committee	
+3	0.007	league	city	chelsea	goal	points	champions	
+4	0.002	hamilton	race	lankan	rosberg	release	time	
+5	0.354	president	arrested	police	blast	maldives	found	
+6	0.003	film	france	lankan	travel	cinema	festival	
+7	0.053	team	game	set	time	victory	win	
+8	0.004	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Video: President calls for full report from IGP
+0	0.158	athukorala	country	world	chairman	million	bureau	
+1	0.073	world	cup	carter	year	blacks	rugby	
+2	0.214	minister	police	students	prime	ministry	committee	
+3	0.057	league	city	chelsea	goal	points	champions	
+4	0.058	hamilton	race	lankan	rosberg	release	time	
+5	0.097	president	arrested	police	blast	maldives	found	
+6	0.073	film	france	lankan	travel	cinema	festival	
+7	0.176	team	game	set	time	victory	win	
+8	0.095	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: 60-year-old found dead with stab injuries
+0	0.029	athukorala	country	world	chairman	million	bureau	
+1	0.004	world	cup	carter	year	blacks	rugby	
+2	0.606	minister	police	students	prime	ministry	committee	
+3	0.002	league	city	chelsea	goal	points	champions	
+4	0.004	hamilton	race	lankan	rosberg	release	time	
+5	0.304	president	arrested	police	blast	maldives	found	
+6	0.003	film	france	lankan	travel	cinema	festival	
+7	0.041	team	game	set	time	victory	win	
+8	0.007	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Colombo DC refuses to restrain UNP leadership
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.000	world	cup	carter	year	blacks	rugby	
+2	0.567	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.427	president	arrested	police	blast	maldives	found	
+6	0.000	film	france	lankan	travel	cinema	festival	
+7	0.002	team	game	set	time	victory	win	
+8	0.001	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Video: Stage set for 'Snoopy' spectacle
+0	0.158	athukorala	country	world	chairman	million	bureau	
+1	0.073	world	cup	carter	year	blacks	rugby	
+2	0.214	minister	police	students	prime	ministry	committee	
+3	0.057	league	city	chelsea	goal	points	champions	
+4	0.058	hamilton	race	lankan	rosberg	release	time	
+5	0.097	president	arrested	police	blast	maldives	found	
+6	0.073	film	france	lankan	travel	cinema	festival	
+7	0.176	team	game	set	time	victory	win	
+8	0.095	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Video: No-fly zone declared tomorrow
+0	0.039	athukorala	country	world	chairman	million	bureau	
+1	0.002	world	cup	carter	year	blacks	rugby	
+2	0.216	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.382	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.002	team	game	set	time	victory	win	
+8	0.358	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Video: President vows to abolish Executive Presidency
+0	0.188	athukorala	country	world	chairman	million	bureau	
+1	0.004	world	cup	carter	year	blacks	rugby	
+2	0.155	minister	police	students	prime	ministry	committee	
+3	0.002	league	city	chelsea	goal	points	champions	
+4	0.002	hamilton	race	lankan	rosberg	release	time	
+5	0.008	president	arrested	police	blast	maldives	found	
+6	0.069	film	france	lankan	travel	cinema	festival	
+7	0.098	team	game	set	time	victory	win	
+8	0.474	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Coal: South Africa to provide concession
+0	0.265	athukorala	country	world	chairman	million	bureau	
+1	0.038	world	cup	carter	year	blacks	rugby	
+2	0.051	minister	police	students	prime	ministry	committee	
+3	0.003	league	city	chelsea	goal	points	champions	
+4	0.010	hamilton	race	lankan	rosberg	release	time	
+5	0.060	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.192	team	game	set	time	victory	win	
+8	0.382	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Alibaba’s ‘Singles Day’ shopping spree
+0	0.146	athukorala	country	world	chairman	million	bureau	
+1	0.002	world	cup	carter	year	blacks	rugby	
+2	0.015	minister	police	students	prime	ministry	committee	
+3	0.003	league	city	chelsea	goal	points	champions	
+4	0.003	hamilton	race	lankan	rosberg	release	time	
+5	0.262	president	arrested	police	blast	maldives	found	
+6	0.013	film	france	lankan	travel	cinema	festival	
+7	0.037	team	game	set	time	victory	win	
+8	0.518	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: GE gets largest deal in 100-year history in India
+0	0.194	athukorala	country	world	chairman	million	bureau	
+1	0.001	world	cup	carter	year	blacks	rugby	
+2	0.135	minister	police	students	prime	ministry	committee	
+3	0.002	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.017	president	arrested	police	blast	maldives	found	
+6	0.002	film	france	lankan	travel	cinema	festival	
+7	0.014	team	game	set	time	victory	win	
+8	0.633	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Agreement signed for Ceylon tea global campaign 
+0	0.006	athukorala	country	world	chairman	million	bureau	
+1	0.077	world	cup	carter	year	blacks	rugby	
+2	0.089	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.002	hamilton	race	lankan	rosberg	release	time	
+5	0.003	president	arrested	police	blast	maldives	found	
+6	0.180	film	france	lankan	travel	cinema	festival	
+7	0.002	team	game	set	time	victory	win	
+8	0.640	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Virtusa-Polaris deal to bring more business for Lankan operations  
+0	0.068	athukorala	country	world	chairman	million	bureau	
+1	0.023	world	cup	carter	year	blacks	rugby	
+2	0.006	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.020	president	arrested	police	blast	maldives	found	
+6	0.000	film	france	lankan	travel	cinema	festival	
+7	0.002	team	game	set	time	victory	win	
+8	0.880	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Coconut Water as energy drink
+0	0.005	athukorala	country	world	chairman	million	bureau	
+1	0.002	world	cup	carter	year	blacks	rugby	
+2	0.006	minister	police	students	prime	ministry	committee	
+3	0.002	league	city	chelsea	goal	points	champions	
+4	0.002	hamilton	race	lankan	rosberg	release	time	
+5	0.002	president	arrested	police	blast	maldives	found	
+6	0.005	film	france	lankan	travel	cinema	festival	
+7	0.005	team	game	set	time	victory	win	
+8	0.973	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Western Megapolis development plan to be launched in February 
+0	0.042	athukorala	country	world	chairman	million	bureau	
+1	0.047	world	cup	carter	year	blacks	rugby	
+2	0.139	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.072	president	arrested	police	blast	maldives	found	
+6	0.000	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.698	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Massive increase in tax revenues from budget 2016  
+0	0.019	athukorala	country	world	chairman	million	bureau	
+1	0.076	world	cup	carter	year	blacks	rugby	
+2	0.304	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.003	president	arrested	police	blast	maldives	found	
+6	0.000	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.597	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Anantaya promises unmatched dining experience 
+0	0.069	athukorala	country	world	chairman	million	bureau	
+1	0.001	world	cup	carter	year	blacks	rugby	
+2	0.337	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.001	president	arrested	police	blast	maldives	found	
+6	0.000	film	france	lankan	travel	cinema	festival	
+7	0.007	team	game	set	time	victory	win	
+8	0.584	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: SriLankan expands reach in Central Asia with Siberian Airlines 
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.000	world	cup	carter	year	blacks	rugby	
+2	0.002	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.476	hamilton	race	lankan	rosberg	release	time	
+5	0.000	president	arrested	police	blast	maldives	found	
+6	0.108	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.412	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Experience the sensational Seychelles with SriLankan Holidays 
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.001	world	cup	carter	year	blacks	rugby	
+2	0.031	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.409	hamilton	race	lankan	rosberg	release	time	
+5	0.001	president	arrested	police	blast	maldives	found	
+6	0.087	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.468	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: 100 kg to over 100 cities with SriLankan Cargo’s “Bag-It” 
+0	0.004	athukorala	country	world	chairman	million	bureau	
+1	0.073	world	cup	carter	year	blacks	rugby	
+2	0.002	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.005	hamilton	race	lankan	rosberg	release	time	
+5	0.001	president	arrested	police	blast	maldives	found	
+6	0.056	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.858	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: SriLankan Airlines SimNet wins ICT Award 
+0	0.122	athukorala	country	world	chairman	million	bureau	
+1	0.029	world	cup	carter	year	blacks	rugby	
+2	0.044	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.003	president	arrested	police	blast	maldives	found	
+6	0.099	film	france	lankan	travel	cinema	festival	
+7	0.003	team	game	set	time	victory	win	
+8	0.697	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: ILFC and SriLankan Airlines sign 12-year lease agreement for three A350-900s 
+0	0.200	athukorala	country	world	chairman	million	bureau	
+1	0.002	world	cup	carter	year	blacks	rugby	
+2	0.110	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.001	president	arrested	police	blast	maldives	found	
+6	0.583	film	france	lankan	travel	cinema	festival	
+7	0.101	team	game	set	time	victory	win	
+8	0.002	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism showcases at World Travel Mart  London with 64 Industry Partners
+0	0.026	athukorala	country	world	chairman	million	bureau	
+1	0.011	world	cup	carter	year	blacks	rugby	
+2	0.163	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.001	president	arrested	police	blast	maldives	found	
+6	0.631	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.164	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism comes board for ITB Asia 2015 Travel Show
+0	0.045	athukorala	country	world	chairman	million	bureau	
+1	0.002	world	cup	carter	year	blacks	rugby	
+2	0.024	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.100	president	arrested	police	blast	maldives	found	
+6	0.543	film	france	lankan	travel	cinema	festival	
+7	0.002	team	game	set	time	victory	win	
+8	0.282	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism showcase “One Island, Thousand Treasures” at  IFTM Travel Fair Paris , France 2015
+0	0.349	athukorala	country	world	chairman	million	bureau	
+1	0.007	world	cup	carter	year	blacks	rugby	
+2	0.071	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.074	president	arrested	police	blast	maldives	found	
+6	0.331	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.165	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Tourism Receipts touch $2.1 billion as at end September 2015
+0	0.495	athukorala	country	world	chairman	million	bureau	
+1	0.129	world	cup	carter	year	blacks	rugby	
+2	0.025	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.047	president	arrested	police	blast	maldives	found	
+6	0.013	film	france	lankan	travel	cinema	festival	
+7	0.003	team	game	set	time	victory	win	
+8	0.287	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: The 1st ever Cruise Tourism Marketing Plan presented to the New Tourism Minister 
+0	0.445	athukorala	country	world	chairman	million	bureau	
+1	0.004	world	cup	carter	year	blacks	rugby	
+2	0.170	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.025	president	arrested	police	blast	maldives	found	
+6	0.198	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.156	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Tourism new ideas, new concepts and dreams- Sri Lanka must take the chance
+0	0.483	athukorala	country	world	chairman	million	bureau	
+1	0.084	world	cup	carter	year	blacks	rugby	
+2	0.103	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.007	president	arrested	police	blast	maldives	found	
+6	0.002	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.319	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism celebrate ‘World Tourism Day' to upgrade industry competitiveness
+0	0.375	athukorala	country	world	chairman	million	bureau	
+1	0.165	world	cup	carter	year	blacks	rugby	
+2	0.056	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.087	president	arrested	police	blast	maldives	found	
+6	0.027	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.289	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka ride the wave at Japan Tourism Expo 2015
+0	0.295	athukorala	country	world	chairman	million	bureau	
+1	0.205	world	cup	carter	year	blacks	rugby	
+2	0.108	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.020	president	arrested	police	blast	maldives	found	
+6	0.319	film	france	lankan	travel	cinema	festival	
+7	0.006	team	game	set	time	victory	win	
+8	0.043	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Scandinavian markets grow by 32%: Sri Lanka Tourism focused marketing drive
+0	0.586	athukorala	country	world	chairman	million	bureau	
+1	0.002	world	cup	carter	year	blacks	rugby	
+2	0.064	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.004	president	arrested	police	blast	maldives	found	
+6	0.124	film	france	lankan	travel	cinema	festival	
+7	0.002	team	game	set	time	victory	win	
+8	0.216	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Tourism Record in September: arrivals jump 35.9% to cross 1.3 million
+0	0.468	athukorala	country	world	chairman	million	bureau	
+1	0.008	world	cup	carter	year	blacks	rugby	
+2	0.053	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.002	hamilton	race	lankan	rosberg	release	time	
+5	0.006	president	arrested	police	blast	maldives	found	
+6	0.292	film	france	lankan	travel	cinema	festival	
+7	0.005	team	game	set	time	victory	win	
+8	0.164	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism launches Community Aid Tourism with Olympic Gold medallion
+0	0.533	athukorala	country	world	chairman	million	bureau	
+1	0.103	world	cup	carter	year	blacks	rugby	
+2	0.091	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.001	president	arrested	police	blast	maldives	found	
+6	0.160	film	france	lankan	travel	cinema	festival	
+7	0.002	team	game	set	time	victory	win	
+8	0.108	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism with Pink my Tuk launch Global Online video competition
+0	0.338	athukorala	country	world	chairman	million	bureau	
+1	0.001	world	cup	carter	year	blacks	rugby	
+2	0.054	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.053	hamilton	race	lankan	rosberg	release	time	
+5	0.160	president	arrested	police	blast	maldives	found	
+6	0.156	film	france	lankan	travel	cinema	festival	
+7	0.027	team	game	set	time	victory	win	
+8	0.211	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka - Cultural focus country at Key Italian Travel Fair TTG
+0	0.357	athukorala	country	world	chairman	million	bureau	
+1	0.002	world	cup	carter	year	blacks	rugby	
+2	0.109	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.051	hamilton	race	lankan	rosberg	release	time	
+5	0.040	president	arrested	police	blast	maldives	found	
+6	0.253	film	france	lankan	travel	cinema	festival	
+7	0.009	team	game	set	time	victory	win	
+8	0.179	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Mr and Miss UK commends Sri Lanka- Destination of the Year title
+0	0.527	athukorala	country	world	chairman	million	bureau	
+1	0.057	world	cup	carter	year	blacks	rugby	
+2	0.254	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.104	president	arrested	police	blast	maldives	found	
+6	0.012	film	france	lankan	travel	cinema	festival	
+7	0.005	team	game	set	time	victory	win	
+8	0.039	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism to highlight the 1706th Esala Perahera at Japan JATA World Expo 2015
+0	0.592	athukorala	country	world	chairman	million	bureau	
+1	0.002	world	cup	carter	year	blacks	rugby	
+2	0.049	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.011	president	arrested	police	blast	maldives	found	
+6	0.194	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.150	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism enter China's growing religious tourism business     
+0	0.405	athukorala	country	world	chairman	million	bureau	
+1	0.071	world	cup	carter	year	blacks	rugby	
+2	0.045	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.016	president	arrested	police	blast	maldives	found	
+6	0.179	film	france	lankan	travel	cinema	festival	
+7	0.004	team	game	set	time	victory	win	
+8	0.279	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism, Tea board and Sri Lankan Airlines quest for Guinness Record
+0	0.320	athukorala	country	world	chairman	million	bureau	
+1	0.116	world	cup	carter	year	blacks	rugby	
+2	0.045	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.049	president	arrested	police	blast	maldives	found	
+6	0.218	film	france	lankan	travel	cinema	festival	
+7	0.006	team	game	set	time	victory	win	
+8	0.245	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism focussing on the $92 billion German source market
+0	0.275	athukorala	country	world	chairman	million	bureau	
+1	0.002	world	cup	carter	year	blacks	rugby	
+2	0.047	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.053	president	arrested	police	blast	maldives	found	
+6	0.437	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.185	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Change lives and win big with findmyfare.com’s Insta Booking Challenge
+0	0.148	athukorala	country	world	chairman	million	bureau	
+1	0.105	world	cup	carter	year	blacks	rugby	
+2	0.051	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.003	hamilton	race	lankan	rosberg	release	time	
+5	0.004	president	arrested	police	blast	maldives	found	
+6	0.489	film	france	lankan	travel	cinema	festival	
+7	0.043	team	game	set	time	victory	win	
+8	0.157	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism blitz on Sony Six for Sanga Farewell
+0	0.220	athukorala	country	world	chairman	million	bureau	
+1	0.443	world	cup	carter	year	blacks	rugby	
+2	0.084	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.002	president	arrested	police	blast	maldives	found	
+6	0.115	film	france	lankan	travel	cinema	festival	
+7	0.005	team	game	set	time	victory	win	
+8	0.129	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Warriors move to franchise best 10-0 start
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.187	world	cup	carter	year	blacks	rugby	
+2	0.073	minister	police	students	prime	ministry	committee	
+3	0.401	league	city	chelsea	goal	points	champions	
+4	0.002	hamilton	race	lankan	rosberg	release	time	
+5	0.004	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.226	team	game	set	time	victory	win	
+8	0.104	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Argentina wary of 
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.001	world	cup	carter	year	blacks	rugby	
+2	0.033	minister	police	students	prime	ministry	committee	
+3	0.894	league	city	chelsea	goal	points	champions	
+4	0.004	hamilton	race	lankan	rosberg	release	time	
+5	0.002	president	arrested	police	blast	maldives	found	
+6	0.000	film	france	lankan	travel	cinema	festival	
+7	0.037	team	game	set	time	victory	win	
+8	0.029	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Hamilton shakes off illness to realise childhood dream
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.002	world	cup	carter	year	blacks	rugby	
+2	0.151	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.645	hamilton	race	lankan	rosberg	release	time	
+5	0.006	president	arrested	police	blast	maldives	found	
+6	0.000	film	france	lankan	travel	cinema	festival	
+7	0.193	team	game	set	time	victory	win	
+8	0.001	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Uruguay sunk as perfect Ecuador march on
+0	0.002	athukorala	country	world	chairman	million	bureau	
+1	0.001	world	cup	carter	year	blacks	rugby	
+2	0.002	minister	police	students	prime	ministry	committee	
+3	0.007	league	city	chelsea	goal	points	champions	
+4	0.740	hamilton	race	lankan	rosberg	release	time	
+5	0.005	president	arrested	police	blast	maldives	found	
+6	0.002	film	france	lankan	travel	cinema	festival	
+7	0.236	team	game	set	time	victory	win	
+8	0.005	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Rodriguez snatches draw for Colombia in Chile
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.000	world	cup	carter	year	blacks	rugby	
+2	0.012	minister	police	students	prime	ministry	committee	
+3	0.651	league	city	chelsea	goal	points	champions	
+4	0.049	hamilton	race	lankan	rosberg	release	time	
+5	0.001	president	arrested	police	blast	maldives	found	
+6	0.056	film	france	lankan	travel	cinema	festival	
+7	0.219	team	game	set	time	victory	win	
+8	0.009	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Eddie Jones takes the reins of Western Stormers
+0	0.002	athukorala	country	world	chairman	million	bureau	
+1	0.620	world	cup	carter	year	blacks	rugby	
+2	0.008	minister	police	students	prime	ministry	committee	
+3	0.002	league	city	chelsea	goal	points	champions	
+4	0.123	hamilton	race	lankan	rosberg	release	time	
+5	0.002	president	arrested	police	blast	maldives	found	
+6	0.011	film	france	lankan	travel	cinema	festival	
+7	0.090	team	game	set	time	victory	win	
+8	0.141	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Alonso says he has been in 
+0	0.018	athukorala	country	world	chairman	million	bureau	
+1	0.302	world	cup	carter	year	blacks	rugby	
+2	0.121	minister	police	students	prime	ministry	committee	
+3	0.018	league	city	chelsea	goal	points	champions	
+4	0.045	hamilton	race	lankan	rosberg	release	time	
+5	0.001	president	arrested	police	blast	maldives	found	
+6	0.003	film	france	lankan	travel	cinema	festival	
+7	0.375	team	game	set	time	victory	win	
+8	0.119	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Japan
+0	0.002	athukorala	country	world	chairman	million	bureau	
+1	0.021	world	cup	carter	year	blacks	rugby	
+2	0.055	minister	police	students	prime	ministry	committee	
+3	0.441	league	city	chelsea	goal	points	champions	
+4	0.212	hamilton	race	lankan	rosberg	release	time	
+5	0.006	president	arrested	police	blast	maldives	found	
+6	0.006	film	france	lankan	travel	cinema	festival	
+7	0.106	team	game	set	time	victory	win	
+8	0.151	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: New Zealand says won
+0	0.007	athukorala	country	world	chairman	million	bureau	
+1	0.007	world	cup	carter	year	blacks	rugby	
+2	0.021	minister	police	students	prime	ministry	committee	
+3	0.216	league	city	chelsea	goal	points	champions	
+4	0.003	hamilton	race	lankan	rosberg	release	time	
+5	0.116	president	arrested	police	blast	maldives	found	
+6	0.002	film	france	lankan	travel	cinema	festival	
+7	0.470	team	game	set	time	victory	win	
+8	0.157	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Djokovic aiming to end golden year with a bang
+0	0.059	athukorala	country	world	chairman	million	bureau	
+1	0.012	world	cup	carter	year	blacks	rugby	
+2	0.041	minister	police	students	prime	ministry	committee	
+3	0.140	league	city	chelsea	goal	points	champions	
+4	0.099	hamilton	race	lankan	rosberg	release	time	
+5	0.001	president	arrested	police	blast	maldives	found	
+6	0.058	film	france	lankan	travel	cinema	festival	
+7	0.553	team	game	set	time	victory	win	
+8	0.036	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Lorenzo suffers burns during title celebration
+0	0.006	athukorala	country	world	chairman	million	bureau	
+1	0.195	world	cup	carter	year	blacks	rugby	
+2	0.073	minister	police	students	prime	ministry	committee	
+3	0.638	league	city	chelsea	goal	points	champions	
+4	0.039	hamilton	race	lankan	rosberg	release	time	
+5	0.002	president	arrested	police	blast	maldives	found	
+6	0.002	film	france	lankan	travel	cinema	festival	
+7	0.044	team	game	set	time	victory	win	
+8	0.001	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Bryant reigns, but Lakers lose at Madison Square Garden
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.127	world	cup	carter	year	blacks	rugby	
+2	0.003	minister	police	students	prime	ministry	committee	
+3	0.383	league	city	chelsea	goal	points	champions	
+4	0.237	hamilton	race	lankan	rosberg	release	time	
+5	0.003	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.161	team	game	set	time	victory	win	
+8	0.087	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: England have potential but lack organisation 
+0	0.005	athukorala	country	world	chairman	million	bureau	
+1	0.732	world	cup	carter	year	blacks	rugby	
+2	0.156	minister	police	students	prime	ministry	committee	
+3	0.018	league	city	chelsea	goal	points	champions	
+4	0.074	hamilton	race	lankan	rosberg	release	time	
+5	0.005	president	arrested	police	blast	maldives	found	
+6	0.002	film	france	lankan	travel	cinema	festival	
+7	0.005	team	game	set	time	victory	win	
+8	0.004	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Hamilton feeling good after fever and accident
+0	0.023	athukorala	country	world	chairman	million	bureau	
+1	0.162	world	cup	carter	year	blacks	rugby	
+2	0.070	minister	police	students	prime	ministry	committee	
+3	0.296	league	city	chelsea	goal	points	champions	
+4	0.310	hamilton	race	lankan	rosberg	release	time	
+5	0.017	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.119	team	game	set	time	victory	win	
+8	0.003	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Djokovic aiming to end golden year with a bang
+0	0.067	athukorala	country	world	chairman	million	bureau	
+1	0.008	world	cup	carter	year	blacks	rugby	
+2	0.048	minister	police	students	prime	ministry	committee	
+3	0.143	league	city	chelsea	goal	points	champions	
+4	0.098	hamilton	race	lankan	rosberg	release	time	
+5	0.001	president	arrested	police	blast	maldives	found	
+6	0.046	film	france	lankan	travel	cinema	festival	
+7	0.553	team	game	set	time	victory	win	
+8	0.035	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Kompany out of Belgium’s friendlies with Italy and Spain
+0	0.008	athukorala	country	world	chairman	million	bureau	
+1	0.585	world	cup	carter	year	blacks	rugby	
+2	0.003	minister	police	students	prime	ministry	committee	
+3	0.151	league	city	chelsea	goal	points	champions	
+4	0.145	hamilton	race	lankan	rosberg	release	time	
+5	0.003	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.092	team	game	set	time	victory	win	
+8	0.011	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Coe in the spotlight as world athletics ponders Russia ban
+0	0.014	athukorala	country	world	chairman	million	bureau	
+1	0.419	world	cup	carter	year	blacks	rugby	
+2	0.105	minister	police	students	prime	ministry	committee	
+3	0.279	league	city	chelsea	goal	points	champions	
+4	0.063	hamilton	race	lankan	rosberg	release	time	
+5	0.004	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.112	team	game	set	time	victory	win	
+8	0.002	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Vettel sees 
+0	0.002	athukorala	country	world	chairman	million	bureau	
+1	0.036	world	cup	carter	year	blacks	rugby	
+2	0.154	minister	police	students	prime	ministry	committee	
+3	0.013	league	city	chelsea	goal	points	champions	
+4	0.416	hamilton	race	lankan	rosberg	release	time	
+5	0.001	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.367	team	game	set	time	victory	win	
+8	0.010	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: England to rest Rooney for Spain clash, Vardy injured
+0	0.057	athukorala	country	world	chairman	million	bureau	
+1	0.090	world	cup	carter	year	blacks	rugby	
+2	0.080	minister	police	students	prime	ministry	committee	
+3	0.093	league	city	chelsea	goal	points	champions	
+4	0.096	hamilton	race	lankan	rosberg	release	time	
+5	0.013	president	arrested	police	blast	maldives	found	
+6	0.062	film	france	lankan	travel	cinema	festival	
+7	0.456	team	game	set	time	victory	win	
+8	0.051	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Blatter out of hospital, confidant tells Reuters TV
+0	0.006	athukorala	country	world	chairman	million	bureau	
+1	0.453	world	cup	carter	year	blacks	rugby	
+2	0.042	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.016	hamilton	race	lankan	rosberg	release	time	
+5	0.002	president	arrested	police	blast	maldives	found	
+6	0.000	film	france	lankan	travel	cinema	festival	
+7	0.362	team	game	set	time	victory	win	
+8	0.119	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Jones or White tipped to become next England coach
+0	0.017	athukorala	country	world	chairman	million	bureau	
+1	0.503	world	cup	carter	year	blacks	rugby	
+2	0.036	minister	police	students	prime	ministry	committee	
+3	0.220	league	city	chelsea	goal	points	champions	
+4	0.099	hamilton	race	lankan	rosberg	release	time	
+5	0.009	president	arrested	police	blast	maldives	found	
+6	0.035	film	france	lankan	travel	cinema	festival	
+7	0.081	team	game	set	time	victory	win	
+8	0.001	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Five enter FIFA presidency race; Bility, Platini sidelined
+0	0.002	athukorala	country	world	chairman	million	bureau	
+1	0.114	world	cup	carter	year	blacks	rugby	
+2	0.151	minister	police	students	prime	ministry	committee	
+3	0.304	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.254	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.134	team	game	set	time	victory	win	
+8	0.038	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Hamilton owns up to car accident in Monaco
+0	0.052	athukorala	country	world	chairman	million	bureau	
+1	0.205	world	cup	carter	year	blacks	rugby	
+2	0.059	minister	police	students	prime	ministry	committee	
+3	0.221	league	city	chelsea	goal	points	champions	
+4	0.344	hamilton	race	lankan	rosberg	release	time	
+5	0.003	president	arrested	police	blast	maldives	found	
+6	0.004	film	france	lankan	travel	cinema	festival	
+7	0.108	team	game	set	time	victory	win	
+8	0.005	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: I
+0	0.006	athukorala	country	world	chairman	million	bureau	
+1	0.019	world	cup	carter	year	blacks	rugby	
+2	0.044	minister	police	students	prime	ministry	committee	
+3	0.225	league	city	chelsea	goal	points	champions	
+4	0.655	hamilton	race	lankan	rosberg	release	time	
+5	0.004	president	arrested	police	blast	maldives	found	
+6	0.009	film	france	lankan	travel	cinema	festival	
+7	0.007	team	game	set	time	victory	win	
+8	0.031	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: No regrets over City move, says 
+0	0.002	athukorala	country	world	chairman	million	bureau	
+1	0.007	world	cup	carter	year	blacks	rugby	
+2	0.254	minister	police	students	prime	ministry	committee	
+3	0.048	league	city	chelsea	goal	points	champions	
+4	0.562	hamilton	race	lankan	rosberg	release	time	
+5	0.111	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.003	team	game	set	time	victory	win	
+8	0.013	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: AdaDerana RSS
+0	0.002	athukorala	country	world	chairman	million	bureau	
+1	0.000	world	cup	carter	year	blacks	rugby	
+2	0.292	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.699	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.003	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Severe weather advisory issued for heavy rainfall, strong winds
+0	0.003	athukorala	country	world	chairman	million	bureau	
+1	0.044	world	cup	carter	year	blacks	rugby	
+2	0.694	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.004	hamilton	race	lankan	rosberg	release	time	
+5	0.225	president	arrested	police	blast	maldives	found	
+6	0.019	film	france	lankan	travel	cinema	festival	
+7	0.004	team	game	set	time	victory	win	
+8	0.006	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Customs officers further remanded over Rs 125m bribe
+0	0.011	athukorala	country	world	chairman	million	bureau	
+1	0.001	world	cup	carter	year	blacks	rugby	
+2	0.175	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.025	hamilton	race	lankan	rosberg	release	time	
+5	0.553	president	arrested	police	blast	maldives	found	
+6	0.216	film	france	lankan	travel	cinema	festival	
+7	0.003	team	game	set	time	victory	win	
+8	0.016	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lankan woman deemed security threat released
+0	0.000	athukorala	country	world	chairman	million	bureau	
+1	0.000	world	cup	carter	year	blacks	rugby	
+2	0.512	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.486	president	arrested	police	blast	maldives	found	
+6	0.000	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.000	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: JVP summoned over case file by Wijeweera's wife
+0	0.002	athukorala	country	world	chairman	million	bureau	
+1	0.200	world	cup	carter	year	blacks	rugby	
+2	0.042	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.213	hamilton	race	lankan	rosberg	release	time	
+5	0.539	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.002	team	game	set	time	victory	win	
+8	0.001	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Aung San Suu Kyi wins Myanmar's landmark election
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.007	world	cup	carter	year	blacks	rugby	
+2	0.524	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.371	hamilton	race	lankan	rosberg	release	time	
+5	0.006	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.002	team	game	set	time	victory	win	
+8	0.088	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Court summons Mahinda and 6 others over SLTB payments
+0	0.004	athukorala	country	world	chairman	million	bureau	
+1	0.002	world	cup	carter	year	blacks	rugby	
+2	0.208	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.767	president	arrested	police	blast	maldives	found	
+6	0.002	film	france	lankan	travel	cinema	festival	
+7	0.015	team	game	set	time	victory	win	
+8	0.001	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Postal workers launch trade union action
+0	0.005	athukorala	country	world	chairman	million	bureau	
+1	0.023	world	cup	carter	year	blacks	rugby	
+2	0.510	minister	police	students	prime	ministry	committee	
+3	0.007	league	city	chelsea	goal	points	champions	
+4	0.002	hamilton	race	lankan	rosberg	release	time	
+5	0.429	president	arrested	police	blast	maldives	found	
+6	0.003	film	france	lankan	travel	cinema	festival	
+7	0.004	team	game	set	time	victory	win	
+8	0.019	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Space junk WT1190F hits Earth at 11-48am; to be bright as full moon
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.000	world	cup	carter	year	blacks	rugby	
+2	0.320	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.618	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.058	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Four mail trains on Northern line cancelled
+0	0.003	athukorala	country	world	chairman	million	bureau	
+1	0.003	world	cup	carter	year	blacks	rugby	
+2	0.031	minister	police	students	prime	ministry	committee	
+3	0.002	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.828	president	arrested	police	blast	maldives	found	
+6	0.002	film	france	lankan	travel	cinema	festival	
+7	0.003	team	game	set	time	victory	win	
+8	0.126	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Avant Garde to hold press conference tomorrow
+0	0.003	athukorala	country	world	chairman	million	bureau	
+1	0.002	world	cup	carter	year	blacks	rugby	
+2	0.236	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.003	hamilton	race	lankan	rosberg	release	time	
+5	0.728	president	arrested	police	blast	maldives	found	
+6	0.002	film	france	lankan	travel	cinema	festival	
+7	0.005	team	game	set	time	victory	win	
+8	0.020	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: President vows to abolish Executive Presidency
+0	0.178	athukorala	country	world	chairman	million	bureau	
+1	0.007	world	cup	carter	year	blacks	rugby	
+2	0.279	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.379	president	arrested	police	blast	maldives	found	
+6	0.003	film	france	lankan	travel	cinema	festival	
+7	0.006	team	game	set	time	victory	win	
+8	0.147	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Acting CJ takes oath
+0	0.006	athukorala	country	world	chairman	million	bureau	
+1	0.002	world	cup	carter	year	blacks	rugby	
+2	0.458	minister	police	students	prime	ministry	committee	
+3	0.002	league	city	chelsea	goal	points	champions	
+4	0.006	hamilton	race	lankan	rosberg	release	time	
+5	0.482	president	arrested	police	blast	maldives	found	
+6	0.016	film	france	lankan	travel	cinema	festival	
+7	0.007	team	game	set	time	victory	win	
+8	0.022	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: TID now investigates KP- AG
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.002	world	cup	carter	year	blacks	rugby	
+2	0.213	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.004	hamilton	race	lankan	rosberg	release	time	
+5	0.771	president	arrested	police	blast	maldives	found	
+6	0.002	film	france	lankan	travel	cinema	festival	
+7	0.003	team	game	set	time	victory	win	
+8	0.003	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Govt. to sign bilateral air service agreement with Serbia
+0	0.055	athukorala	country	world	chairman	million	bureau	
+1	0.024	world	cup	carter	year	blacks	rugby	
+2	0.396	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.004	hamilton	race	lankan	rosberg	release	time	
+5	0.045	president	arrested	police	blast	maldives	found	
+6	0.010	film	france	lankan	travel	cinema	festival	
+7	0.005	team	game	set	time	victory	win	
+8	0.459	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka to usher in a capital oriented budget- Ravi
+0	0.209	athukorala	country	world	chairman	million	bureau	
+1	0.090	world	cup	carter	year	blacks	rugby	
+2	0.336	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.002	president	arrested	police	blast	maldives	found	
+6	0.029	film	france	lankan	travel	cinema	festival	
+7	0.003	team	game	set	time	victory	win	
+8	0.328	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: A1 construction cost up by Rs. 2 billion, says Namal
+0	0.008	athukorala	country	world	chairman	million	bureau	
+1	0.001	world	cup	carter	year	blacks	rugby	
+2	0.485	minister	police	students	prime	ministry	committee	
+3	0.023	league	city	chelsea	goal	points	champions	
+4	0.138	hamilton	race	lankan	rosberg	release	time	
+5	0.034	president	arrested	police	blast	maldives	found	
+6	0.026	film	france	lankan	travel	cinema	festival	
+7	0.003	team	game	set	time	victory	win	
+8	0.282	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Special traffic plan near Parliament today
+0	0.012	athukorala	country	world	chairman	million	bureau	
+1	0.010	world	cup	carter	year	blacks	rugby	
+2	0.216	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.009	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.645	team	game	set	time	victory	win	
+8	0.106	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Last rites of Ven. Sobitha Thero today
+0	0.046	athukorala	country	world	chairman	million	bureau	
+1	0.024	world	cup	carter	year	blacks	rugby	
+2	0.217	minister	police	students	prime	ministry	committee	
+3	0.016	league	city	chelsea	goal	points	champions	
+4	0.010	hamilton	race	lankan	rosberg	release	time	
+5	0.158	president	arrested	police	blast	maldives	found	
+6	0.002	film	france	lankan	travel	cinema	festival	
+7	0.091	team	game	set	time	victory	win	
+8	0.436	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Train services on Northern line disrupted
+0	0.008	athukorala	country	world	chairman	million	bureau	
+1	0.008	world	cup	carter	year	blacks	rugby	
+2	0.068	minister	police	students	prime	ministry	committee	
+3	0.159	league	city	chelsea	goal	points	champions	
+4	0.003	hamilton	race	lankan	rosberg	release	time	
+5	0.477	president	arrested	police	blast	maldives	found	
+6	0.004	film	france	lankan	travel	cinema	festival	
+7	0.008	team	game	set	time	victory	win	
+8	0.265	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: LTTE suspects; can’t consider as Full-fledge release 
+0	0.003	athukorala	country	world	chairman	million	bureau	
+1	0.266	world	cup	carter	year	blacks	rugby	
+2	0.111	minister	police	students	prime	ministry	committee	
+3	0.114	league	city	chelsea	goal	points	champions	
+4	0.003	hamilton	race	lankan	rosberg	release	time	
+5	0.442	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.058	team	game	set	time	victory	win	
+8	0.002	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Rainy weather prevails
+0	0.011	athukorala	country	world	chairman	million	bureau	
+1	0.003	world	cup	carter	year	blacks	rugby	
+2	0.663	minister	police	students	prime	ministry	committee	
+3	0.005	league	city	chelsea	goal	points	champions	
+4	0.005	hamilton	race	lankan	rosberg	release	time	
+5	0.271	president	arrested	police	blast	maldives	found	
+6	0.005	film	france	lankan	travel	cinema	festival	
+7	0.008	team	game	set	time	victory	win	
+8	0.028	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Justin Bieber: I Had Tears in My Eyes Watching Amy Winehouse Doc
+0	0.008	athukorala	country	world	chairman	million	bureau	
+1	0.240	world	cup	carter	year	blacks	rugby	
+2	0.076	minister	police	students	prime	ministry	committee	
+3	0.405	league	city	chelsea	goal	points	champions	
+4	0.240	hamilton	race	lankan	rosberg	release	time	
+5	0.004	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.012	team	game	set	time	victory	win	
+8	0.014	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Ronaldo admits being casanova
+0	0.017	athukorala	country	world	chairman	million	bureau	
+1	0.004	world	cup	carter	year	blacks	rugby	
+2	0.111	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.845	hamilton	race	lankan	rosberg	release	time	
+5	0.004	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.013	team	game	set	time	victory	win	
+8	0.005	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Shops closed in Jaffna, Kilinochci and Baticalo due to Harthal
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.002	world	cup	carter	year	blacks	rugby	
+2	0.343	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.337	hamilton	race	lankan	rosberg	release	time	
+5	0.280	president	arrested	police	blast	maldives	found	
+6	0.002	film	france	lankan	travel	cinema	festival	
+7	0.005	team	game	set	time	victory	win	
+8	0.029	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Court summons JVP over Wijeweeras books
+0	0.009	athukorala	country	world	chairman	million	bureau	
+1	0.089	world	cup	carter	year	blacks	rugby	
+2	0.080	minister	police	students	prime	ministry	committee	
+3	0.002	league	city	chelsea	goal	points	champions	
+4	0.164	hamilton	race	lankan	rosberg	release	time	
+5	0.392	president	arrested	police	blast	maldives	found	
+6	0.262	film	france	lankan	travel	cinema	festival	
+7	0.002	team	game	set	time	victory	win	
+8	0.001	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: John Lennon book wins Goldsmiths Prize
+0	0.007	athukorala	country	world	chairman	million	bureau	
+1	0.003	world	cup	carter	year	blacks	rugby	
+2	0.160	minister	police	students	prime	ministry	committee	
+3	0.003	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.004	president	arrested	police	blast	maldives	found	
+6	0.800	film	france	lankan	travel	cinema	festival	
+7	0.015	team	game	set	time	victory	win	
+8	0.009	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Volkswagen sets emissions scandal amnesty deadline
+0	0.006	athukorala	country	world	chairman	million	bureau	
+1	0.022	world	cup	carter	year	blacks	rugby	
+2	0.234	minister	police	students	prime	ministry	committee	
+3	0.005	league	city	chelsea	goal	points	champions	
+4	0.036	hamilton	race	lankan	rosberg	release	time	
+5	0.004	president	arrested	police	blast	maldives	found	
+6	0.654	film	france	lankan	travel	cinema	festival	
+7	0.035	team	game	set	time	victory	win	
+8	0.004	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: 3 days, 27 deals: India most open, says PM Narendra Modi in UK
+0	0.007	athukorala	country	world	chairman	million	bureau	
+1	0.056	world	cup	carter	year	blacks	rugby	
+2	0.296	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.022	hamilton	race	lankan	rosberg	release	time	
+5	0.003	president	arrested	police	blast	maldives	found	
+6	0.446	film	france	lankan	travel	cinema	festival	
+7	0.002	team	game	set	time	victory	win	
+8	0.167	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: AB de Villiers Warns Virat Kohli
+0	0.003	athukorala	country	world	chairman	million	bureau	
+1	0.002	world	cup	carter	year	blacks	rugby	
+2	0.005	minister	police	students	prime	ministry	committee	
+3	0.188	league	city	chelsea	goal	points	champions	
+4	0.005	hamilton	race	lankan	rosberg	release	time	
+5	0.004	president	arrested	police	blast	maldives	found	
+6	0.600	film	france	lankan	travel	cinema	festival	
+7	0.051	team	game	set	time	victory	win	
+8	0.143	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: WT1190F: No space debris sighted
+0	0.003	athukorala	country	world	chairman	million	bureau	
+1	0.002	world	cup	carter	year	blacks	rugby	
+2	0.947	minister	police	students	prime	ministry	committee	
+3	0.002	league	city	chelsea	goal	points	champions	
+4	0.002	hamilton	race	lankan	rosberg	release	time	
+5	0.035	president	arrested	police	blast	maldives	found	
+6	0.004	film	france	lankan	travel	cinema	festival	
+7	0.003	team	game	set	time	victory	win	
+8	0.003	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Mass scale fuel racket raided by the police
+0	0.008	athukorala	country	world	chairman	million	bureau	
+1	0.003	world	cup	carter	year	blacks	rugby	
+2	0.017	minister	police	students	prime	ministry	committee	
+3	0.003	league	city	chelsea	goal	points	champions	
+4	0.002	hamilton	race	lankan	rosberg	release	time	
+5	0.065	president	arrested	police	blast	maldives	found	
+6	0.838	film	france	lankan	travel	cinema	festival	
+7	0.054	team	game	set	time	victory	win	
+8	0.009	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Myanmar election: Suu Kyis NLD wins landslide victory
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.002	world	cup	carter	year	blacks	rugby	
+2	0.898	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.090	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.006	team	game	set	time	victory	win	
+8	0.001	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Adele and Elvis Presley Hold Tight On Top Of UK Charts
+0	0.004	athukorala	country	world	chairman	million	bureau	
+1	0.002	world	cup	carter	year	blacks	rugby	
+2	0.034	minister	police	students	prime	ministry	committee	
+3	0.003	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.008	president	arrested	police	blast	maldives	found	
+6	0.653	film	france	lankan	travel	cinema	festival	
+7	0.003	team	game	set	time	victory	win	
+8	0.292	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Rupee at record low on importer dlr demand 
+0	0.009	athukorala	country	world	chairman	million	bureau	
+1	0.001	world	cup	carter	year	blacks	rugby	
+2	0.005	minister	police	students	prime	ministry	committee	
+3	0.083	league	city	chelsea	goal	points	champions	
+4	0.004	hamilton	race	lankan	rosberg	release	time	
+5	0.007	president	arrested	police	blast	maldives	found	
+6	0.526	film	france	lankan	travel	cinema	festival	
+7	0.015	team	game	set	time	victory	win	
+8	0.351	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sampath Group’s 9-month PBT up 42% to Rs.7.4 bn
+0	0.009	athukorala	country	world	chairman	million	bureau	
+1	0.000	world	cup	carter	year	blacks	rugby	
+2	0.063	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.066	hamilton	race	lankan	rosberg	release	time	
+5	0.100	president	arrested	police	blast	maldives	found	
+6	0.464	film	france	lankan	travel	cinema	festival	
+7	0.002	team	game	set	time	victory	win	
+8	0.295	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: JVP has control in country’s political sphere: Anura
+0	0.003	athukorala	country	world	chairman	million	bureau	
+1	0.084	world	cup	carter	year	blacks	rugby	
+2	0.338	minister	police	students	prime	ministry	committee	
+3	0.004	league	city	chelsea	goal	points	champions	
+4	0.071	hamilton	race	lankan	rosberg	release	time	
+5	0.337	president	arrested	police	blast	maldives	found	
+6	0.046	film	france	lankan	travel	cinema	festival	
+7	0.106	team	game	set	time	victory	win	
+8	0.010	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Paris rocked by series of deadly shootings, blasts
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.162	world	cup	carter	year	blacks	rugby	
+2	0.322	minister	police	students	prime	ministry	committee	
+3	0.026	league	city	chelsea	goal	points	champions	
+4	0.054	hamilton	race	lankan	rosberg	release	time	
+5	0.015	president	arrested	police	blast	maldives	found	
+6	0.261	film	france	lankan	travel	cinema	festival	
+7	0.087	team	game	set	time	victory	win	
+8	0.071	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: President condemns Paris attack
+0	0.011	athukorala	country	world	chairman	million	bureau	
+1	0.091	world	cup	carter	year	blacks	rugby	
+2	0.604	minister	police	students	prime	ministry	committee	
+3	0.030	league	city	chelsea	goal	points	champions	
+4	0.029	hamilton	race	lankan	rosberg	release	time	
+5	0.043	president	arrested	police	blast	maldives	found	
+6	0.019	film	france	lankan	travel	cinema	festival	
+7	0.169	team	game	set	time	victory	win	
+8	0.004	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Thanha Rathi Ranga wins at Derana Film Awards 2015
+0	0.169	athukorala	country	world	chairman	million	bureau	
+1	0.011	world	cup	carter	year	blacks	rugby	
+2	0.158	minister	police	students	prime	ministry	committee	
+3	0.002	league	city	chelsea	goal	points	champions	
+4	0.046	hamilton	race	lankan	rosberg	release	time	
+5	0.218	president	arrested	police	blast	maldives	found	
+6	0.004	film	france	lankan	travel	cinema	festival	
+7	0.014	team	game	set	time	victory	win	
+8	0.379	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Full report of Budget-2016 
+0	0.031	athukorala	country	world	chairman	million	bureau	
+1	0.074	world	cup	carter	year	blacks	rugby	
+2	0.035	minister	police	students	prime	ministry	committee	
+3	0.010	league	city	chelsea	goal	points	champions	
+4	0.012	hamilton	race	lankan	rosberg	release	time	
+5	0.016	president	arrested	police	blast	maldives	found	
+6	0.012	film	france	lankan	travel	cinema	festival	
+7	0.027	team	game	set	time	victory	win	
+8	0.782	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: 80 hostages freed as special forces storm Mali hotel
+0	0.006	athukorala	country	world	chairman	million	bureau	
+1	0.082	world	cup	carter	year	blacks	rugby	
+2	0.300	minister	police	students	prime	ministry	committee	
+3	0.292	league	city	chelsea	goal	points	champions	
+4	0.022	hamilton	race	lankan	rosberg	release	time	
+5	0.217	president	arrested	police	blast	maldives	found	
+6	0.003	film	france	lankan	travel	cinema	festival	
+7	0.062	team	game	set	time	victory	win	
+8	0.018	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Gunmen take 170 hostages at a hotel in Mali
+0	0.004	athukorala	country	world	chairman	million	bureau	
+1	0.003	world	cup	carter	year	blacks	rugby	
+2	0.418	minister	police	students	prime	ministry	committee	
+3	0.017	league	city	chelsea	goal	points	champions	
+4	0.137	hamilton	race	lankan	rosberg	release	time	
+5	0.114	president	arrested	police	blast	maldives	found	
+6	0.011	film	france	lankan	travel	cinema	festival	
+7	0.007	team	game	set	time	victory	win	
+8	0.290	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sarath Kumara Gunaratne released on bail
+0	0.022	athukorala	country	world	chairman	million	bureau	
+1	0.003	world	cup	carter	year	blacks	rugby	
+2	0.149	minister	police	students	prime	ministry	committee	
+3	0.002	league	city	chelsea	goal	points	champions	
+4	0.032	hamilton	race	lankan	rosberg	release	time	
+5	0.698	president	arrested	police	blast	maldives	found	
+6	0.007	film	france	lankan	travel	cinema	festival	
+7	0.009	team	game	set	time	victory	win	
+8	0.078	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Attempts to celebrate Mahaviru Day in the North
+0	0.012	athukorala	country	world	chairman	million	bureau	
+1	0.102	world	cup	carter	year	blacks	rugby	
+2	0.525	minister	police	students	prime	ministry	committee	
+3	0.016	league	city	chelsea	goal	points	champions	
+4	0.041	hamilton	race	lankan	rosberg	release	time	
+5	0.238	president	arrested	police	blast	maldives	found	
+6	0.005	film	france	lankan	travel	cinema	festival	
+7	0.018	team	game	set	time	victory	win	
+8	0.043	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Chennai may not host India-SL World T20 matches
+0	0.048	athukorala	country	world	chairman	million	bureau	
+1	0.054	world	cup	carter	year	blacks	rugby	
+2	0.329	minister	police	students	prime	ministry	committee	
+3	0.004	league	city	chelsea	goal	points	champions	
+4	0.117	hamilton	race	lankan	rosberg	release	time	
+5	0.198	president	arrested	police	blast	maldives	found	
+6	0.039	film	france	lankan	travel	cinema	festival	
+7	0.206	team	game	set	time	victory	win	
+8	0.005	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Grand Hyatt board remains unchanged-official
+0	0.093	athukorala	country	world	chairman	million	bureau	
+1	0.188	world	cup	carter	year	blacks	rugby	
+2	0.106	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.187	president	arrested	police	blast	maldives	found	
+6	0.014	film	france	lankan	travel	cinema	festival	
+7	0.002	team	game	set	time	victory	win	
+8	0.409	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Thilakaratne new CAA Chairman
+0	0.028	athukorala	country	world	chairman	million	bureau	
+1	0.094	world	cup	carter	year	blacks	rugby	
+2	0.111	minister	police	students	prime	ministry	committee	
+3	0.004	league	city	chelsea	goal	points	champions	
+4	0.012	hamilton	race	lankan	rosberg	release	time	
+5	0.058	president	arrested	police	blast	maldives	found	
+6	0.005	film	france	lankan	travel	cinema	festival	
+7	0.039	team	game	set	time	victory	win	
+8	0.648	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: PRECIFAC records statement from MR
+0	0.004	athukorala	country	world	chairman	million	bureau	
+1	0.009	world	cup	carter	year	blacks	rugby	
+2	0.809	minister	police	students	prime	ministry	committee	
+3	0.016	league	city	chelsea	goal	points	champions	
+4	0.007	hamilton	race	lankan	rosberg	release	time	
+5	0.132	president	arrested	police	blast	maldives	found	
+6	0.005	film	france	lankan	travel	cinema	festival	
+7	0.006	team	game	set	time	victory	win	
+8	0.013	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Request to sell Sicille's jewellery to pay depositors
+0	0.016	athukorala	country	world	chairman	million	bureau	
+1	0.047	world	cup	carter	year	blacks	rugby	
+2	0.036	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.011	hamilton	race	lankan	rosberg	release	time	
+5	0.865	president	arrested	police	blast	maldives	found	
+6	0.009	film	france	lankan	travel	cinema	festival	
+7	0.009	team	game	set	time	victory	win	
+8	0.006	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: President’s, PM’s residencies to be relocated: Champika
+0	0.008	athukorala	country	world	chairman	million	bureau	
+1	0.207	world	cup	carter	year	blacks	rugby	
+2	0.300	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.016	hamilton	race	lankan	rosberg	release	time	
+5	0.005	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.027	team	game	set	time	victory	win	
+8	0.436	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Standard house number plates from CMC
+0	0.061	athukorala	country	world	chairman	million	bureau	
+1	0.410	world	cup	carter	year	blacks	rugby	
+2	0.108	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.004	hamilton	race	lankan	rosberg	release	time	
+5	0.245	president	arrested	police	blast	maldives	found	
+6	0.003	film	france	lankan	travel	cinema	festival	
+7	0.002	team	game	set	time	victory	win	
+8	0.167	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: CAA Chairman resigns
+0	0.003	athukorala	country	world	chairman	million	bureau	
+1	0.405	world	cup	carter	year	blacks	rugby	
+2	0.023	minister	police	students	prime	ministry	committee	
+3	0.056	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.255	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.013	team	game	set	time	victory	win	
+8	0.242	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: I don’t think govt will scrap Exec. Presidency-MR
+0	0.003	athukorala	country	world	chairman	million	bureau	
+1	0.004	world	cup	carter	year	blacks	rugby	
+2	0.466	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.172	president	arrested	police	blast	maldives	found	
+6	0.148	film	france	lankan	travel	cinema	festival	
+7	0.011	team	game	set	time	victory	win	
+8	0.194	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: ?FCID visits CSN again
+0	0.044	athukorala	country	world	chairman	million	bureau	
+1	0.007	world	cup	carter	year	blacks	rugby	
+2	0.385	minister	police	students	prime	ministry	committee	
+3	0.006	league	city	chelsea	goal	points	champions	
+4	0.175	hamilton	race	lankan	rosberg	release	time	
+5	0.140	president	arrested	police	blast	maldives	found	
+6	0.014	film	france	lankan	travel	cinema	festival	
+7	0.032	team	game	set	time	victory	win	
+8	0.196	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Cabinet to be briefed on Budget
+0	0.124	athukorala	country	world	chairman	million	bureau	
+1	0.008	world	cup	carter	year	blacks	rugby	
+2	0.358	minister	police	students	prime	ministry	committee	
+3	0.009	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.336	president	arrested	police	blast	maldives	found	
+6	0.002	film	france	lankan	travel	cinema	festival	
+7	0.006	team	game	set	time	victory	win	
+8	0.157	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Paris attacks 'mastermind' killed in raid
+0	0.158	athukorala	country	world	chairman	million	bureau	
+1	0.073	world	cup	carter	year	blacks	rugby	
+2	0.214	minister	police	students	prime	ministry	committee	
+3	0.057	league	city	chelsea	goal	points	champions	
+4	0.058	hamilton	race	lankan	rosberg	release	time	
+5	0.097	president	arrested	police	blast	maldives	found	
+6	0.073	film	france	lankan	travel	cinema	festival	
+7	0.176	team	game	set	time	victory	win	
+8	0.095	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Google live traffic in SL
+0	0.158	athukorala	country	world	chairman	million	bureau	
+1	0.073	world	cup	carter	year	blacks	rugby	
+2	0.214	minister	police	students	prime	ministry	committee	
+3	0.057	league	city	chelsea	goal	points	champions	
+4	0.058	hamilton	race	lankan	rosberg	release	time	
+5	0.097	president	arrested	police	blast	maldives	found	
+6	0.073	film	france	lankan	travel	cinema	festival	
+7	0.176	team	game	set	time	victory	win	
+8	0.095	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Govt. to probe UN Working Group claims
+0	0.002	athukorala	country	world	chairman	million	bureau	
+1	0.226	world	cup	carter	year	blacks	rugby	
+2	0.347	minister	police	students	prime	ministry	committee	
+3	0.003	league	city	chelsea	goal	points	champions	
+4	0.003	hamilton	race	lankan	rosberg	release	time	
+5	0.114	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.053	team	game	set	time	victory	win	
+8	0.251	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Nishan Dhanasinghe new Prisons Commissioner
+0	0.007	athukorala	country	world	chairman	million	bureau	
+1	0.329	world	cup	carter	year	blacks	rugby	
+2	0.074	minister	police	students	prime	ministry	committee	
+3	0.003	league	city	chelsea	goal	points	champions	
+4	0.002	hamilton	race	lankan	rosberg	release	time	
+5	0.393	president	arrested	police	blast	maldives	found	
+6	0.005	film	france	lankan	travel	cinema	festival	
+7	0.005	team	game	set	time	victory	win	
+8	0.182	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: ‘Ceylon Tea’ brand likely to be reconceptualised: Minister
+0	0.156	athukorala	country	world	chairman	million	bureau	
+1	0.066	world	cup	carter	year	blacks	rugby	
+2	0.141	minister	police	students	prime	ministry	committee	
+3	0.002	league	city	chelsea	goal	points	champions	
+4	0.003	hamilton	race	lankan	rosberg	release	time	
+5	0.002	president	arrested	police	blast	maldives	found	
+6	0.086	film	france	lankan	travel	cinema	festival	
+7	0.010	team	game	set	time	victory	win	
+8	0.534	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: No more protectionist policies for industries under new regime
+0	0.011	athukorala	country	world	chairman	million	bureau	
+1	0.183	world	cup	carter	year	blacks	rugby	
+2	0.197	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.014	hamilton	race	lankan	rosberg	release	time	
+5	0.198	president	arrested	police	blast	maldives	found	
+6	0.147	film	france	lankan	travel	cinema	festival	
+7	0.002	team	game	set	time	victory	win	
+8	0.247	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka set to pursue pro-western trade and foreign policy: Harsha
+0	0.028	athukorala	country	world	chairman	million	bureau	
+1	0.039	world	cup	carter	year	blacks	rugby	
+2	0.196	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.024	hamilton	race	lankan	rosberg	release	time	
+5	0.169	president	arrested	police	blast	maldives	found	
+6	0.210	film	france	lankan	travel	cinema	festival	
+7	0.004	team	game	set	time	victory	win	
+8	0.330	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Another twist in Grand Hyatt saga
+0	0.158	athukorala	country	world	chairman	million	bureau	
+1	0.073	world	cup	carter	year	blacks	rugby	
+2	0.214	minister	police	students	prime	ministry	committee	
+3	0.057	league	city	chelsea	goal	points	champions	
+4	0.058	hamilton	race	lankan	rosberg	release	time	
+5	0.097	president	arrested	police	blast	maldives	found	
+6	0.073	film	france	lankan	travel	cinema	festival	
+7	0.176	team	game	set	time	victory	win	
+8	0.095	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Anantaya promises unmatched dining experience 
+0	0.069	athukorala	country	world	chairman	million	bureau	
+1	0.001	world	cup	carter	year	blacks	rugby	
+2	0.340	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.000	president	arrested	police	blast	maldives	found	
+6	0.000	film	france	lankan	travel	cinema	festival	
+7	0.006	team	game	set	time	victory	win	
+8	0.582	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: SriLankan expands reach in Central Asia with Siberian Airlines 
+0	0.003	athukorala	country	world	chairman	million	bureau	
+1	0.000	world	cup	carter	year	blacks	rugby	
+2	0.002	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.475	hamilton	race	lankan	rosberg	release	time	
+5	0.001	president	arrested	police	blast	maldives	found	
+6	0.107	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.411	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Experience the sensational Seychelles with SriLankan Holidays 
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.001	world	cup	carter	year	blacks	rugby	
+2	0.033	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.415	hamilton	race	lankan	rosberg	release	time	
+5	0.002	president	arrested	police	blast	maldives	found	
+6	0.081	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.465	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: 100 kg to over 100 cities with SriLankan Cargo’s “Bag-It” 
+0	0.006	athukorala	country	world	chairman	million	bureau	
+1	0.075	world	cup	carter	year	blacks	rugby	
+2	0.001	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.003	hamilton	race	lankan	rosberg	release	time	
+5	0.001	president	arrested	police	blast	maldives	found	
+6	0.051	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.863	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: SriLankan Airlines SimNet wins ICT Award 
+0	0.123	athukorala	country	world	chairman	million	bureau	
+1	0.029	world	cup	carter	year	blacks	rugby	
+2	0.047	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.004	president	arrested	police	blast	maldives	found	
+6	0.095	film	france	lankan	travel	cinema	festival	
+7	0.004	team	game	set	time	victory	win	
+8	0.696	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: ILFC and SriLankan Airlines sign 12-year lease agreement for three A350-900s 
+0	0.203	athukorala	country	world	chairman	million	bureau	
+1	0.003	world	cup	carter	year	blacks	rugby	
+2	0.107	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.001	president	arrested	police	blast	maldives	found	
+6	0.581	film	france	lankan	travel	cinema	festival	
+7	0.103	team	game	set	time	victory	win	
+8	0.001	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism showcases at World Travel Mart  London with 64 Industry Partners
+0	0.026	athukorala	country	world	chairman	million	bureau	
+1	0.009	world	cup	carter	year	blacks	rugby	
+2	0.164	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.002	president	arrested	police	blast	maldives	found	
+6	0.631	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.165	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism comes board for ITB Asia 2015 Travel Show
+0	0.038	athukorala	country	world	chairman	million	bureau	
+1	0.001	world	cup	carter	year	blacks	rugby	
+2	0.033	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.097	president	arrested	police	blast	maldives	found	
+6	0.543	film	france	lankan	travel	cinema	festival	
+7	0.002	team	game	set	time	victory	win	
+8	0.284	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism showcase “One Island, Thousand Treasures” at  IFTM Travel Fair Paris , France 2015
+0	0.350	athukorala	country	world	chairman	million	bureau	
+1	0.007	world	cup	carter	year	blacks	rugby	
+2	0.071	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.072	president	arrested	police	blast	maldives	found	
+6	0.332	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.167	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Tourism Receipts touch $2.1 billion as at end September 2015
+0	0.487	athukorala	country	world	chairman	million	bureau	
+1	0.147	world	cup	carter	year	blacks	rugby	
+2	0.021	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.002	hamilton	race	lankan	rosberg	release	time	
+5	0.037	president	arrested	police	blast	maldives	found	
+6	0.013	film	france	lankan	travel	cinema	festival	
+7	0.003	team	game	set	time	victory	win	
+8	0.290	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: The 1st ever Cruise Tourism Marketing Plan presented to the New Tourism Minister 
+0	0.444	athukorala	country	world	chairman	million	bureau	
+1	0.005	world	cup	carter	year	blacks	rugby	
+2	0.167	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.034	president	arrested	police	blast	maldives	found	
+6	0.195	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.154	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Tourism new ideas, new concepts and dreams- Sri Lanka must take the chance
+0	0.484	athukorala	country	world	chairman	million	bureau	
+1	0.086	world	cup	carter	year	blacks	rugby	
+2	0.101	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.009	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.317	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism celebrate ‘World Tourism Day' to upgrade industry competitiveness
+0	0.375	athukorala	country	world	chairman	million	bureau	
+1	0.171	world	cup	carter	year	blacks	rugby	
+2	0.058	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.085	president	arrested	police	blast	maldives	found	
+6	0.021	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.288	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka ride the wave at Japan Tourism Expo 2015
+0	0.289	athukorala	country	world	chairman	million	bureau	
+1	0.140	world	cup	carter	year	blacks	rugby	
+2	0.127	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.057	president	arrested	police	blast	maldives	found	
+6	0.340	film	france	lankan	travel	cinema	festival	
+7	0.011	team	game	set	time	victory	win	
+8	0.033	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Scandinavian markets grow by 32%: Sri Lanka Tourism focused marketing drive
+0	0.590	athukorala	country	world	chairman	million	bureau	
+1	0.001	world	cup	carter	year	blacks	rugby	
+2	0.063	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.004	president	arrested	police	blast	maldives	found	
+6	0.141	film	france	lankan	travel	cinema	festival	
+7	0.002	team	game	set	time	victory	win	
+8	0.196	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Tourism Record in September: arrivals jump 35.9% to cross 1.3 million
+0	0.469	athukorala	country	world	chairman	million	bureau	
+1	0.011	world	cup	carter	year	blacks	rugby	
+2	0.045	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.002	hamilton	race	lankan	rosberg	release	time	
+5	0.005	president	arrested	police	blast	maldives	found	
+6	0.293	film	france	lankan	travel	cinema	festival	
+7	0.007	team	game	set	time	victory	win	
+8	0.168	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism launches Community Aid Tourism with Olympic Gold medallion
+0	0.534	athukorala	country	world	chairman	million	bureau	
+1	0.103	world	cup	carter	year	blacks	rugby	
+2	0.089	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.001	president	arrested	police	blast	maldives	found	
+6	0.161	film	france	lankan	travel	cinema	festival	
+7	0.002	team	game	set	time	victory	win	
+8	0.109	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism with Pink my Tuk launch Global Online video competition
+0	0.339	athukorala	country	world	chairman	million	bureau	
+1	0.002	world	cup	carter	year	blacks	rugby	
+2	0.059	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.048	hamilton	race	lankan	rosberg	release	time	
+5	0.159	president	arrested	police	blast	maldives	found	
+6	0.157	film	france	lankan	travel	cinema	festival	
+7	0.021	team	game	set	time	victory	win	
+8	0.215	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka - Cultural focus country at Key Italian Travel Fair TTG
+0	0.359	athukorala	country	world	chairman	million	bureau	
+1	0.001	world	cup	carter	year	blacks	rugby	
+2	0.111	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.033	hamilton	race	lankan	rosberg	release	time	
+5	0.046	president	arrested	police	blast	maldives	found	
+6	0.259	film	france	lankan	travel	cinema	festival	
+7	0.009	team	game	set	time	victory	win	
+8	0.181	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Mr and Miss UK commends Sri Lanka- Destination of the Year title
+0	0.531	athukorala	country	world	chairman	million	bureau	
+1	0.044	world	cup	carter	year	blacks	rugby	
+2	0.251	minister	police	students	prime	ministry	committee	
+3	0.002	league	city	chelsea	goal	points	champions	
+4	0.002	hamilton	race	lankan	rosberg	release	time	
+5	0.100	president	arrested	police	blast	maldives	found	
+6	0.015	film	france	lankan	travel	cinema	festival	
+7	0.005	team	game	set	time	victory	win	
+8	0.051	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism to highlight the 1706th Esala Perahera at Japan JATA World Expo 2015
+0	0.595	athukorala	country	world	chairman	million	bureau	
+1	0.003	world	cup	carter	year	blacks	rugby	
+2	0.040	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.002	hamilton	race	lankan	rosberg	release	time	
+5	0.013	president	arrested	police	blast	maldives	found	
+6	0.193	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.154	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism enter China's growing religious tourism business     
+0	0.407	athukorala	country	world	chairman	million	bureau	
+1	0.072	world	cup	carter	year	blacks	rugby	
+2	0.046	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.007	president	arrested	police	blast	maldives	found	
+6	0.177	film	france	lankan	travel	cinema	festival	
+7	0.006	team	game	set	time	victory	win	
+8	0.284	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism, Tea board and Sri Lankan Airlines quest for Guinness Record
+0	0.318	athukorala	country	world	chairman	million	bureau	
+1	0.113	world	cup	carter	year	blacks	rugby	
+2	0.047	minister	police	students	prime	ministry	committee	
+3	0.002	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.049	president	arrested	police	blast	maldives	found	
+6	0.216	film	france	lankan	travel	cinema	festival	
+7	0.007	team	game	set	time	victory	win	
+8	0.248	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism focussing on the $92 billion German source market
+0	0.277	athukorala	country	world	chairman	million	bureau	
+1	0.001	world	cup	carter	year	blacks	rugby	
+2	0.052	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.039	president	arrested	police	blast	maldives	found	
+6	0.441	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.188	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Change lives and win big with findmyfare.com’s Insta Booking Challenge
+0	0.149	athukorala	country	world	chairman	million	bureau	
+1	0.104	world	cup	carter	year	blacks	rugby	
+2	0.055	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.002	hamilton	race	lankan	rosberg	release	time	
+5	0.002	president	arrested	police	blast	maldives	found	
+6	0.489	film	france	lankan	travel	cinema	festival	
+7	0.041	team	game	set	time	victory	win	
+8	0.158	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism blitz on Sony Six for Sanga Farewell
+0	0.218	athukorala	country	world	chairman	million	bureau	
+1	0.446	world	cup	carter	year	blacks	rugby	
+2	0.084	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.002	president	arrested	police	blast	maldives	found	
+6	0.116	film	france	lankan	travel	cinema	festival	
+7	0.004	team	game	set	time	victory	win	
+8	0.130	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: NBA Kings forward Cousins suspended one game
+0	0.008	athukorala	country	world	chairman	million	bureau	
+1	0.095	world	cup	carter	year	blacks	rugby	
+2	0.294	minister	police	students	prime	ministry	committee	
+3	0.394	league	city	chelsea	goal	points	champions	
+4	0.073	hamilton	race	lankan	rosberg	release	time	
+5	0.028	president	arrested	police	blast	maldives	found	
+6	0.006	film	france	lankan	travel	cinema	festival	
+7	0.032	team	game	set	time	victory	win	
+8	0.069	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Citroen to take a year out of world championship
+0	0.010	athukorala	country	world	chairman	million	bureau	
+1	0.162	world	cup	carter	year	blacks	rugby	
+2	0.121	minister	police	students	prime	ministry	committee	
+3	0.002	league	city	chelsea	goal	points	champions	
+4	0.412	hamilton	race	lankan	rosberg	release	time	
+5	0.014	president	arrested	police	blast	maldives	found	
+6	0.005	film	france	lankan	travel	cinema	festival	
+7	0.214	team	game	set	time	victory	win	
+8	0.061	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Cotto says boxing win will be enough against Alvarez
+0	0.044	athukorala	country	world	chairman	million	bureau	
+1	0.036	world	cup	carter	year	blacks	rugby	
+2	0.165	minister	police	students	prime	ministry	committee	
+3	0.105	league	city	chelsea	goal	points	champions	
+4	0.538	hamilton	race	lankan	rosberg	release	time	
+5	0.005	president	arrested	police	blast	maldives	found	
+6	0.094	film	france	lankan	travel	cinema	festival	
+7	0.010	team	game	set	time	victory	win	
+8	0.003	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Dominguez stripped of 2009 steeplechase world title
+0	0.004	athukorala	country	world	chairman	million	bureau	
+1	0.268	world	cup	carter	year	blacks	rugby	
+2	0.157	minister	police	students	prime	ministry	committee	
+3	0.003	league	city	chelsea	goal	points	champions	
+4	0.008	hamilton	race	lankan	rosberg	release	time	
+5	0.220	president	arrested	police	blast	maldives	found	
+6	0.006	film	france	lankan	travel	cinema	festival	
+7	0.169	team	game	set	time	victory	win	
+8	0.164	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Record-seeking Vardy fighting to be fit for Leicester
+0	0.003	athukorala	country	world	chairman	million	bureau	
+1	0.177	world	cup	carter	year	blacks	rugby	
+2	0.255	minister	police	students	prime	ministry	committee	
+3	0.181	league	city	chelsea	goal	points	champions	
+4	0.036	hamilton	race	lankan	rosberg	release	time	
+5	0.016	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.179	team	game	set	time	victory	win	
+8	0.152	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Wenger calls for routine blood tests
+0	0.003	athukorala	country	world	chairman	million	bureau	
+1	0.429	world	cup	carter	year	blacks	rugby	
+2	0.253	minister	police	students	prime	ministry	committee	
+3	0.202	league	city	chelsea	goal	points	champions	
+4	0.009	hamilton	race	lankan	rosberg	release	time	
+5	0.001	president	arrested	police	blast	maldives	found	
+6	0.068	film	france	lankan	travel	cinema	festival	
+7	0.030	team	game	set	time	victory	win	
+8	0.005	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: British captain Smith hints at Edmund debut in Davis Cup final
+0	0.022	athukorala	country	world	chairman	million	bureau	
+1	0.130	world	cup	carter	year	blacks	rugby	
+2	0.056	minister	police	students	prime	ministry	committee	
+3	0.060	league	city	chelsea	goal	points	champions	
+4	0.156	hamilton	race	lankan	rosberg	release	time	
+5	0.133	president	arrested	police	blast	maldives	found	
+6	0.035	film	france	lankan	travel	cinema	festival	
+7	0.213	team	game	set	time	victory	win	
+8	0.194	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Federer repels Nishikori fightback to win group
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.034	world	cup	carter	year	blacks	rugby	
+2	0.087	minister	police	students	prime	ministry	committee	
+3	0.174	league	city	chelsea	goal	points	champions	
+4	0.198	hamilton	race	lankan	rosberg	release	time	
+5	0.044	president	arrested	police	blast	maldives	found	
+6	0.009	film	france	lankan	travel	cinema	festival	
+7	0.362	team	game	set	time	victory	win	
+8	0.090	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Lomu to have public memorial, Queen sends condolences
+0	0.013	athukorala	country	world	chairman	million	bureau	
+1	0.254	world	cup	carter	year	blacks	rugby	
+2	0.400	minister	police	students	prime	ministry	committee	
+3	0.156	league	city	chelsea	goal	points	champions	
+4	0.039	hamilton	race	lankan	rosberg	release	time	
+5	0.082	president	arrested	police	blast	maldives	found	
+6	0.011	film	france	lankan	travel	cinema	festival	
+7	0.006	team	game	set	time	victory	win	
+8	0.040	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Nadal
+0	0.009	athukorala	country	world	chairman	million	bureau	
+1	0.185	world	cup	carter	year	blacks	rugby	
+2	0.040	minister	police	students	prime	ministry	committee	
+3	0.168	league	city	chelsea	goal	points	champions	
+4	0.407	hamilton	race	lankan	rosberg	release	time	
+5	0.005	president	arrested	police	blast	maldives	found	
+6	0.037	film	france	lankan	travel	cinema	festival	
+7	0.108	team	game	set	time	victory	win	
+8	0.040	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Australian Jones set to be appointed England coach 
+0	0.005	athukorala	country	world	chairman	million	bureau	
+1	0.418	world	cup	carter	year	blacks	rugby	
+2	0.168	minister	police	students	prime	ministry	committee	
+3	0.002	league	city	chelsea	goal	points	champions	
+4	0.267	hamilton	race	lankan	rosberg	release	time	
+5	0.097	president	arrested	police	blast	maldives	found	
+6	0.006	film	france	lankan	travel	cinema	festival	
+7	0.015	team	game	set	time	victory	win	
+8	0.022	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Russia could miss world indoors as IAAF wants 
+0	0.006	athukorala	country	world	chairman	million	bureau	
+1	0.341	world	cup	carter	year	blacks	rugby	
+2	0.106	minister	police	students	prime	ministry	committee	
+3	0.002	league	city	chelsea	goal	points	champions	
+4	0.293	hamilton	race	lankan	rosberg	release	time	
+5	0.026	president	arrested	police	blast	maldives	found	
+6	0.009	film	france	lankan	travel	cinema	festival	
+7	0.142	team	game	set	time	victory	win	
+8	0.075	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sturridge declares himself fit ahead of Man City clash
+0	0.009	athukorala	country	world	chairman	million	bureau	
+1	0.159	world	cup	carter	year	blacks	rugby	
+2	0.246	minister	police	students	prime	ministry	committee	
+3	0.111	league	city	chelsea	goal	points	champions	
+4	0.178	hamilton	race	lankan	rosberg	release	time	
+5	0.009	president	arrested	police	blast	maldives	found	
+6	0.004	film	france	lankan	travel	cinema	festival	
+7	0.014	team	game	set	time	victory	win	
+8	0.270	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Messi return to reunite 
+0	0.005	athukorala	country	world	chairman	million	bureau	
+1	0.050	world	cup	carter	year	blacks	rugby	
+2	0.158	minister	police	students	prime	ministry	committee	
+3	0.358	league	city	chelsea	goal	points	champions	
+4	0.308	hamilton	race	lankan	rosberg	release	time	
+5	0.086	president	arrested	police	blast	maldives	found	
+6	0.009	film	france	lankan	travel	cinema	festival	
+7	0.018	team	game	set	time	victory	win	
+8	0.009	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: NZ Rugby continues to mourn Lomu as McCaw retires
+0	0.002	athukorala	country	world	chairman	million	bureau	
+1	0.210	world	cup	carter	year	blacks	rugby	
+2	0.075	minister	police	students	prime	ministry	committee	
+3	0.204	league	city	chelsea	goal	points	champions	
+4	0.238	hamilton	race	lankan	rosberg	release	time	
+5	0.052	president	arrested	police	blast	maldives	found	
+6	0.161	film	france	lankan	travel	cinema	festival	
+7	0.003	team	game	set	time	victory	win	
+8	0.054	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Man City
+0	0.003	athukorala	country	world	chairman	million	bureau	
+1	0.018	world	cup	carter	year	blacks	rugby	
+2	0.203	minister	police	students	prime	ministry	committee	
+3	0.274	league	city	chelsea	goal	points	champions	
+4	0.182	hamilton	race	lankan	rosberg	release	time	
+5	0.001	president	arrested	police	blast	maldives	found	
+6	0.003	film	france	lankan	travel	cinema	festival	
+7	0.065	team	game	set	time	victory	win	
+8	0.251	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Wenger thanks England for support after Paris attacks
+0	0.117	athukorala	country	world	chairman	million	bureau	
+1	0.220	world	cup	carter	year	blacks	rugby	
+2	0.195	minister	police	students	prime	ministry	committee	
+3	0.002	league	city	chelsea	goal	points	champions	
+4	0.166	hamilton	race	lankan	rosberg	release	time	
+5	0.073	president	arrested	police	blast	maldives	found	
+6	0.218	film	france	lankan	travel	cinema	festival	
+7	0.002	team	game	set	time	victory	win	
+8	0.007	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: I do 
+0	0.033	athukorala	country	world	chairman	million	bureau	
+1	0.414	world	cup	carter	year	blacks	rugby	
+2	0.228	minister	police	students	prime	ministry	committee	
+3	0.014	league	city	chelsea	goal	points	champions	
+4	0.001	hamilton	race	lankan	rosberg	release	time	
+5	0.004	president	arrested	police	blast	maldives	found	
+6	0.003	film	france	lankan	travel	cinema	festival	
+7	0.135	team	game	set	time	victory	win	
+8	0.167	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Nadal cuts Murray down to size to reach semi-finals
+0	0.049	athukorala	country	world	chairman	million	bureau	
+1	0.043	world	cup	carter	year	blacks	rugby	
+2	0.088	minister	police	students	prime	ministry	committee	
+3	0.187	league	city	chelsea	goal	points	champions	
+4	0.175	hamilton	race	lankan	rosberg	release	time	
+5	0.106	president	arrested	police	blast	maldives	found	
+6	0.050	film	france	lankan	travel	cinema	festival	
+7	0.237	team	game	set	time	victory	win	
+8	0.065	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Loan spells made me better player, says Arsenal
+0	0.006	athukorala	country	world	chairman	million	bureau	
+1	0.314	world	cup	carter	year	blacks	rugby	
+2	0.246	minister	police	students	prime	ministry	committee	
+3	0.260	league	city	chelsea	goal	points	champions	
+4	0.018	hamilton	race	lankan	rosberg	release	time	
+5	0.010	president	arrested	police	blast	maldives	found	
+6	0.002	film	france	lankan	travel	cinema	festival	
+7	0.006	team	game	set	time	victory	win	
+8	0.138	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sterling has point to prove as Man City face Liverpool
+0	0.012	athukorala	country	world	chairman	million	bureau	
+1	0.256	world	cup	carter	year	blacks	rugby	
+2	0.296	minister	police	students	prime	ministry	committee	
+3	0.139	league	city	chelsea	goal	points	champions	
+4	0.189	hamilton	race	lankan	rosberg	release	time	
+5	0.001	president	arrested	police	blast	maldives	found	
+6	0.000	film	france	lankan	travel	cinema	festival	
+7	0.005	team	game	set	time	victory	win	
+8	0.101	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Crushed by Lomu, but England united in grief at his death
+0	0.010	athukorala	country	world	chairman	million	bureau	
+1	0.213	world	cup	carter	year	blacks	rugby	
+2	0.248	minister	police	students	prime	ministry	committee	
+3	0.189	league	city	chelsea	goal	points	champions	
+4	0.010	hamilton	race	lankan	rosberg	release	time	
+5	0.086	president	arrested	police	blast	maldives	found	
+6	0.107	film	france	lankan	travel	cinema	festival	
+7	0.133	team	game	set	time	victory	win	
+8	0.004	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Blatter, Platini lose appeals against provisional FIFA bans
+0	0.001	athukorala	country	world	chairman	million	bureau	
+1	0.237	world	cup	carter	year	blacks	rugby	
+2	0.090	minister	police	students	prime	ministry	committee	
+3	0.243	league	city	chelsea	goal	points	champions	
+4	0.002	hamilton	race	lankan	rosberg	release	time	
+5	0.124	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.233	team	game	set	time	victory	win	
+8	0.069	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: AdaDerana RSS
+0	0.010	athukorala	country	world	chairman	million	bureau	
+1	0.262	world	cup	carter	year	blacks	rugby	
+2	0.009	minister	police	students	prime	ministry	committee	
+3	0.004	league	city	chelsea	goal	points	champions	
+4	0.006	hamilton	race	lankan	rosberg	release	time	
+5	0.009	president	arrested	police	blast	maldives	found	
+6	0.015	film	france	lankan	travel	cinema	festival	
+7	0.013	team	game	set	time	victory	win	
+8	0.673	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: 100,000 houses for slum dwellers
+0	0.015	athukorala	country	world	chairman	million	bureau	
+1	0.044	world	cup	carter	year	blacks	rugby	
+2	0.387	minister	police	students	prime	ministry	committee	
+3	0.004	league	city	chelsea	goal	points	champions	
+4	0.014	hamilton	race	lankan	rosberg	release	time	
+5	0.090	president	arrested	police	blast	maldives	found	
+6	0.137	film	france	lankan	travel	cinema	festival	
+7	0.027	team	game	set	time	victory	win	
+8	0.282	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Taxes for leasing land to foreigners removed
+0	0.023	athukorala	country	world	chairman	million	bureau	
+1	0.017	world	cup	carter	year	blacks	rugby	
+2	0.490	minister	police	students	prime	ministry	committee	
+3	0.023	league	city	chelsea	goal	points	champions	
+4	0.008	hamilton	race	lankan	rosberg	release	time	
+5	0.013	president	arrested	police	blast	maldives	found	
+6	0.068	film	france	lankan	travel	cinema	festival	
+7	0.019	team	game	set	time	victory	win	
+8	0.337	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: 50 licenses for duty free Gold importation
+0	0.171	athukorala	country	world	chairman	million	bureau	
+1	0.071	world	cup	carter	year	blacks	rugby	
+2	0.066	minister	police	students	prime	ministry	committee	
+3	0.004	league	city	chelsea	goal	points	champions	
+4	0.047	hamilton	race	lankan	rosberg	release	time	
+5	0.011	president	arrested	police	blast	maldives	found	
+6	0.094	film	france	lankan	travel	cinema	festival	
+7	0.516	team	game	set	time	victory	win	
+8	0.018	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Rs. 1 million life insurance scheme for fishermen
+0	0.009	athukorala	country	world	chairman	million	bureau	
+1	0.005	world	cup	carter	year	blacks	rugby	
+2	0.285	minister	police	students	prime	ministry	committee	
+3	0.003	league	city	chelsea	goal	points	champions	
+4	0.008	hamilton	race	lankan	rosberg	release	time	
+5	0.017	president	arrested	police	blast	maldives	found	
+6	0.085	film	france	lankan	travel	cinema	festival	
+7	0.027	team	game	set	time	victory	win	
+8	0.560	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: 400g Powdered Milk price reduced to Rs. 295
+0	0.134	athukorala	country	world	chairman	million	bureau	
+1	0.041	world	cup	carter	year	blacks	rugby	
+2	0.046	minister	police	students	prime	ministry	committee	
+3	0.010	league	city	chelsea	goal	points	champions	
+4	0.049	hamilton	race	lankan	rosberg	release	time	
+5	0.007	president	arrested	police	blast	maldives	found	
+6	0.211	film	france	lankan	travel	cinema	festival	
+7	0.435	team	game	set	time	victory	win	
+8	0.067	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Certified price for rice
+0	0.011	athukorala	country	world	chairman	million	bureau	
+1	0.003	world	cup	carter	year	blacks	rugby	
+2	0.029	minister	police	students	prime	ministry	committee	
+3	0.003	league	city	chelsea	goal	points	champions	
+4	0.003	hamilton	race	lankan	rosberg	release	time	
+5	0.004	president	arrested	police	blast	maldives	found	
+6	0.391	film	france	lankan	travel	cinema	festival	
+7	0.055	team	game	set	time	victory	win	
+8	0.501	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Entrepreneurs to get 50% income tax reduction
+0	0.291	athukorala	country	world	chairman	million	bureau	
+1	0.228	world	cup	carter	year	blacks	rugby	
+2	0.056	minister	police	students	prime	ministry	committee	
+3	0.004	league	city	chelsea	goal	points	champions	
+4	0.003	hamilton	race	lankan	rosberg	release	time	
+5	0.007	president	arrested	police	blast	maldives	found	
+6	0.047	film	france	lankan	travel	cinema	festival	
+7	0.006	team	game	set	time	victory	win	
+8	0.358	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Gunmen take 170 hostage at Mali hotel 
+0	0.081	athukorala	country	world	chairman	million	bureau	
+1	0.123	world	cup	carter	year	blacks	rugby	
+2	0.307	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.003	hamilton	race	lankan	rosberg	release	time	
+5	0.218	president	arrested	police	blast	maldives	found	
+6	0.003	film	france	lankan	travel	cinema	festival	
+7	0.082	team	game	set	time	victory	win	
+8	0.180	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: LIVE UPDATES- Budget 2016
+0	0.072	athukorala	country	world	chairman	million	bureau	
+1	0.043	world	cup	carter	year	blacks	rugby	
+2	0.171	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.000	hamilton	race	lankan	rosberg	release	time	
+5	0.260	president	arrested	police	blast	maldives	found	
+6	0.129	film	france	lankan	travel	cinema	festival	
+7	0.001	team	game	set	time	victory	win	
+8	0.324	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: PM wants to consolidate economic relations with Bangladesh
+0	0.192	athukorala	country	world	chairman	million	bureau	
+1	0.040	world	cup	carter	year	blacks	rugby	
+2	0.218	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.065	hamilton	race	lankan	rosberg	release	time	
+5	0.237	president	arrested	police	blast	maldives	found	
+6	0.033	film	france	lankan	travel	cinema	festival	
+7	0.002	team	game	set	time	victory	win	
+8	0.213	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Sarath Kumara Gunaratne released on bail
+0	0.006	athukorala	country	world	chairman	million	bureau	
+1	0.017	world	cup	carter	year	blacks	rugby	
+2	0.125	minister	police	students	prime	ministry	committee	
+3	0.004	league	city	chelsea	goal	points	champions	
+4	0.005	hamilton	race	lankan	rosberg	release	time	
+5	0.814	president	arrested	police	blast	maldives	found	
+6	0.005	film	france	lankan	travel	cinema	festival	
+7	0.018	team	game	set	time	victory	win	
+8	0.008	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Questions over floating armoury in Indian territorial waters
+0	0.004	athukorala	country	world	chairman	million	bureau	
+1	0.047	world	cup	carter	year	blacks	rugby	
+2	0.524	minister	police	students	prime	ministry	committee	
+3	0.055	league	city	chelsea	goal	points	champions	
+4	0.002	hamilton	race	lankan	rosberg	release	time	
+5	0.263	president	arrested	police	blast	maldives	found	
+6	0.001	film	france	lankan	travel	cinema	festival	
+7	0.018	team	game	set	time	victory	win	
+8	0.085	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Hasitha Thilakeratne appointed CAA chairman
+0	0.111	athukorala	country	world	chairman	million	bureau	
+1	0.253	world	cup	carter	year	blacks	rugby	
+2	0.032	minister	police	students	prime	ministry	committee	
+3	0.005	league	city	chelsea	goal	points	champions	
+4	0.008	hamilton	race	lankan	rosberg	release	time	
+5	0.082	president	arrested	police	blast	maldives	found	
+6	0.007	film	france	lankan	travel	cinema	festival	
+7	0.045	team	game	set	time	victory	win	
+8	0.456	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Ex-President arrives at PRECIFAC
+0	0.006	athukorala	country	world	chairman	million	bureau	
+1	0.080	world	cup	carter	year	blacks	rugby	
+2	0.448	minister	police	students	prime	ministry	committee	
+3	0.001	league	city	chelsea	goal	points	champions	
+4	0.002	hamilton	race	lankan	rosberg	release	time	
+5	0.352	president	arrested	police	blast	maldives	found	
+6	0.020	film	france	lankan	travel	cinema	festival	
+7	0.067	team	game	set	time	victory	win	
+8	0.025	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Macedonia bars refugees from Sri Lanka
+0	0.023	athukorala	country	world	chairman	million	bureau	
+1	0.292	world	cup	carter	year	blacks	rugby	
+2	0.274	minister	police	students	prime	ministry	committee	
+3	0.000	league	city	chelsea	goal	points	champions	
+4	0.217	hamilton	race	lankan	rosberg	release	time	
+5	0.150	president	arrested	police	blast	maldives	found	
+6	0.004	film	france	lankan	travel	cinema	festival	
+7	0.015	team	game	set	time	victory	win	
+8	0.025	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Paris attacks- Abdelhamid Abaaoud 'died in Saint Denis raid'
+0	0.012	athukorala	country	world	chairman	million	bureau	
+1	0.215	world	cup	carter	year	blacks	rugby	
+2	0.036	minister	police	students	prime	ministry	committee	
+3	0.003	league	city	chelsea	goal	points	champions	
+4	0.031	hamilton	race	lankan	rosberg	release	time	
+5	0.396	president	arrested	police	blast	maldives	found	
+6	0.241	film	france	lankan	travel	cinema	festival	
+7	0.014	team	game	set	time	victory	win	
+8	0.052	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Police makes arrest over Maldives man assault
+0	0.002	athukorala	country	world	chairman	million	bureau	
+1	0.003	world	cup	carter	year	blacks	rugby	
+2	0.490	minister	police	students	prime	ministry	committee	
+3	0.032	league	city	chelsea	goal	points	champions	
+4	0.006	hamilton	race	lankan	rosberg	release	time	
+5	0.292	president	arrested	police	blast	maldives	found	
+6	0.004	film	france	lankan	travel	cinema	festival	
+7	0.015	team	game	set	time	victory	win	
+8	0.156	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: Akila explains why voucher system for school uniforms is better
+0	0.220	athukorala	country	world	chairman	million	bureau	
+1	0.154	world	cup	carter	year	blacks	rugby	
+2	0.181	minister	police	students	prime	ministry	committee	
+3	0.003	league	city	chelsea	goal	points	champions	
+4	0.002	hamilton	race	lankan	rosberg	release	time	
+5	0.058	president	arrested	police	blast	maldives	found	
+6	0.074	film	france	lankan	travel	cinema	festival	
+7	0.020	team	game	set	time	victory	win	
+8	0.288	srilankan	airlines	percent	country	international	cargo	
+top 6 words in each topic with proportions for document: New  Ambassadors and High Commissioners appointed
+0	0.034	athukorala	country	world	chairman	million	bureau	
+1	0.001	world	cup	carter	year	blacks	rugby	
+2	0.055	minister	police	students	prime	ministry	committee	
+3	0.003	league	city	chelsea	goal	points	champions	
+4	0.754	hamilton	race	lankan	rosberg	release	time	
+5	0.053	president	arrested	police	blast	maldives	found	
+6	0.002	film	france	lankan	travel	cinema	festival	
+7	0.003	team	game	set	time	victory	win	
+8	0.095	srilankan	airlines	percent	country	international	cargo	

@@ -1,0 +1,1478 @@
+Model LogLikelihood : -123220.52486486609
+top 6 words in each topic with proportions for document: Video: Spectacular breakup of WT1190F seen by team of Airborne Astronomers
+0	0.000	league	win	team	game	city	set	
+1	0.001	world	film	year	cup	international	rugby	
+2	0.000	president	minister	france	blast	maldives	government	
+3	0.000	srilankan	airlines	percent	government	cargo	bond	
+4	0.998	police	minister	students	attack	commission	committee	
+5	0.001	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Video: SLFP can’t win under current chairman: Lohan
+0	0.001	league	win	team	game	city	set	
+1	0.001	world	film	year	cup	international	rugby	
+2	0.001	president	minister	france	blast	maldives	government	
+3	0.001	srilankan	airlines	percent	government	cargo	bond	
+4	0.993	police	minister	students	attack	commission	committee	
+5	0.002	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Video: 24 ex-LTTEers released on bail
+0	0.002	league	win	team	game	city	set	
+1	0.010	world	film	year	cup	international	rugby	
+2	0.001	president	minister	france	blast	maldives	government	
+3	0.001	srilankan	airlines	percent	government	cargo	bond	
+4	0.983	police	minister	students	attack	commission	committee	
+5	0.003	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Circular issued against adding sugar into tea
+0	0.010	league	win	team	game	city	set	
+1	0.988	world	film	year	cup	international	rugby	
+2	0.000	president	minister	france	blast	maldives	government	
+3	0.000	srilankan	airlines	percent	government	cargo	bond	
+4	0.001	police	minister	students	attack	commission	committee	
+5	0.001	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Video: JVP sued by Wijeweera's wife Chitranganie
+0	0.004	league	win	team	game	city	set	
+1	0.066	world	film	year	cup	international	rugby	
+2	0.905	president	minister	france	blast	maldives	government	
+3	0.001	srilankan	airlines	percent	government	cargo	bond	
+4	0.024	police	minister	students	attack	commission	committee	
+5	0.001	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Lankan mother deemed a security threat, freed
+0	0.000	league	win	team	game	city	set	
+1	0.001	world	film	year	cup	international	rugby	
+2	0.326	president	minister	france	blast	maldives	government	
+3	0.000	srilankan	airlines	percent	government	cargo	bond	
+4	0.671	police	minister	students	attack	commission	committee	
+5	0.001	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: No space debris sighted
+0	0.001	league	win	team	game	city	set	
+1	0.001	world	film	year	cup	international	rugby	
+2	0.001	president	minister	france	blast	maldives	government	
+3	0.001	srilankan	airlines	percent	government	cargo	bond	
+4	0.994	police	minister	students	attack	commission	committee	
+5	0.002	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Video: Northern hartal still underway
+0	0.002	league	win	team	game	city	set	
+1	0.008	world	film	year	cup	international	rugby	
+2	0.005	president	minister	france	blast	maldives	government	
+3	0.449	srilankan	airlines	percent	government	cargo	bond	
+4	0.533	police	minister	students	attack	commission	committee	
+5	0.002	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Suu Kyi's National League wins majority in Myanmar
+0	0.001	league	win	team	game	city	set	
+1	0.026	world	film	year	cup	international	rugby	
+2	0.015	president	minister	france	blast	maldives	government	
+3	0.000	srilankan	airlines	percent	government	cargo	bond	
+4	0.957	police	minister	students	attack	commission	committee	
+5	0.001	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Summons on MR by Commercial High Court
+0	0.005	league	win	team	game	city	set	
+1	0.007	world	film	year	cup	international	rugby	
+2	0.027	president	minister	france	blast	maldives	government	
+3	0.002	srilankan	airlines	percent	government	cargo	bond	
+4	0.955	police	minister	students	attack	commission	committee	
+5	0.004	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Navy begins transfer of Avant Garde weapons
+0	0.002	league	win	team	game	city	set	
+1	0.002	world	film	year	cup	international	rugby	
+2	0.001	president	minister	france	blast	maldives	government	
+3	0.001	srilankan	airlines	percent	government	cargo	bond	
+4	0.991	police	minister	students	attack	commission	committee	
+5	0.002	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Avant Garde press briefing called off
+0	0.001	league	win	team	game	city	set	
+1	0.023	world	film	year	cup	international	rugby	
+2	0.019	president	minister	france	blast	maldives	government	
+3	0.000	srilankan	airlines	percent	government	cargo	bond	
+4	0.955	police	minister	students	attack	commission	committee	
+5	0.001	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Postal union announces sick note campaign
+0	0.022	league	win	team	game	city	set	
+1	0.005	world	film	year	cup	international	rugby	
+2	0.490	president	minister	france	blast	maldives	government	
+3	0.002	srilankan	airlines	percent	government	cargo	bond	
+4	0.478	police	minister	students	attack	commission	committee	
+5	0.002	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Video: President calls for full report from IGP
+0	0.153	league	win	team	game	city	set	
+1	0.172	world	film	year	cup	international	rugby	
+2	0.106	president	minister	france	blast	maldives	government	
+3	0.116	srilankan	airlines	percent	government	cargo	bond	
+4	0.248	police	minister	students	attack	commission	committee	
+5	0.205	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: 60-year-old found dead with stab injuries
+0	0.005	league	win	team	game	city	set	
+1	0.011	world	film	year	cup	international	rugby	
+2	0.224	president	minister	france	blast	maldives	government	
+3	0.012	srilankan	airlines	percent	government	cargo	bond	
+4	0.730	police	minister	students	attack	commission	committee	
+5	0.018	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Colombo DC refuses to restrain UNP leadership
+0	0.001	league	win	team	game	city	set	
+1	0.001	world	film	year	cup	international	rugby	
+2	0.008	president	minister	france	blast	maldives	government	
+3	0.001	srilankan	airlines	percent	government	cargo	bond	
+4	0.989	police	minister	students	attack	commission	committee	
+5	0.001	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Video: Stage set for 'Snoopy' spectacle
+0	0.153	league	win	team	game	city	set	
+1	0.172	world	film	year	cup	international	rugby	
+2	0.106	president	minister	france	blast	maldives	government	
+3	0.116	srilankan	airlines	percent	government	cargo	bond	
+4	0.248	police	minister	students	attack	commission	committee	
+5	0.205	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Video: No-fly zone declared tomorrow
+0	0.002	league	win	team	game	city	set	
+1	0.002	world	film	year	cup	international	rugby	
+2	0.009	president	minister	france	blast	maldives	government	
+3	0.148	srilankan	airlines	percent	government	cargo	bond	
+4	0.613	police	minister	students	attack	commission	committee	
+5	0.227	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Video: President vows to abolish Executive Presidency
+0	0.005	league	win	team	game	city	set	
+1	0.015	world	film	year	cup	international	rugby	
+2	0.005	president	minister	france	blast	maldives	government	
+3	0.630	srilankan	airlines	percent	government	cargo	bond	
+4	0.056	police	minister	students	attack	commission	committee	
+5	0.290	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Coal: South Africa to provide concession
+0	0.013	league	win	team	game	city	set	
+1	0.179	world	film	year	cup	international	rugby	
+2	0.002	president	minister	france	blast	maldives	government	
+3	0.415	srilankan	airlines	percent	government	cargo	bond	
+4	0.090	police	minister	students	attack	commission	committee	
+5	0.302	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Alibaba’s ‘Singles Day’ shopping spree
+0	0.004	league	win	team	game	city	set	
+1	0.003	world	film	year	cup	international	rugby	
+2	0.008	president	minister	france	blast	maldives	government	
+3	0.577	srilankan	airlines	percent	government	cargo	bond	
+4	0.088	police	minister	students	attack	commission	committee	
+5	0.321	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: GE gets largest deal in 100-year history in India
+0	0.003	league	win	team	game	city	set	
+1	0.002	world	film	year	cup	international	rugby	
+2	0.003	president	minister	france	blast	maldives	government	
+3	0.487	srilankan	airlines	percent	government	cargo	bond	
+4	0.128	police	minister	students	attack	commission	committee	
+5	0.377	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Agreement signed for Ceylon tea global campaign 
+0	0.001	league	win	team	game	city	set	
+1	0.084	world	film	year	cup	international	rugby	
+2	0.001	president	minister	france	blast	maldives	government	
+3	0.806	srilankan	airlines	percent	government	cargo	bond	
+4	0.103	police	minister	students	attack	commission	committee	
+5	0.006	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Virtusa-Polaris deal to bring more business for Lankan operations  
+0	0.001	league	win	team	game	city	set	
+1	0.003	world	film	year	cup	international	rugby	
+2	0.001	president	minister	france	blast	maldives	government	
+3	0.983	srilankan	airlines	percent	government	cargo	bond	
+4	0.011	police	minister	students	attack	commission	committee	
+5	0.001	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Coconut Water as energy drink
+0	0.002	league	win	team	game	city	set	
+1	0.003	world	film	year	cup	international	rugby	
+2	0.004	president	minister	france	blast	maldives	government	
+3	0.982	srilankan	airlines	percent	government	cargo	bond	
+4	0.003	police	minister	students	attack	commission	committee	
+5	0.006	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Western Megapolis development plan to be launched in February 
+0	0.000	league	win	team	game	city	set	
+1	0.060	world	film	year	cup	international	rugby	
+2	0.000	president	minister	france	blast	maldives	government	
+3	0.712	srilankan	airlines	percent	government	cargo	bond	
+4	0.172	police	minister	students	attack	commission	committee	
+5	0.056	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Massive increase in tax revenues from budget 2016  
+0	0.000	league	win	team	game	city	set	
+1	0.062	world	film	year	cup	international	rugby	
+2	0.000	president	minister	france	blast	maldives	government	
+3	0.933	srilankan	airlines	percent	government	cargo	bond	
+4	0.003	police	minister	students	attack	commission	committee	
+5	0.001	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Anantaya promises unmatched dining experience 
+0	0.000	league	win	team	game	city	set	
+1	0.002	world	film	year	cup	international	rugby	
+2	0.000	president	minister	france	blast	maldives	government	
+3	0.982	srilankan	airlines	percent	government	cargo	bond	
+4	0.013	police	minister	students	attack	commission	committee	
+5	0.002	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: SriLankan expands reach in Central Asia with Siberian Airlines 
+0	0.001	league	win	team	game	city	set	
+1	0.001	world	film	year	cup	international	rugby	
+2	0.099	president	minister	france	blast	maldives	government	
+3	0.761	srilankan	airlines	percent	government	cargo	bond	
+4	0.003	police	minister	students	attack	commission	committee	
+5	0.134	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Experience the sensational Seychelles with SriLankan Holidays 
+0	0.001	league	win	team	game	city	set	
+1	0.001	world	film	year	cup	international	rugby	
+2	0.157	president	minister	france	blast	maldives	government	
+3	0.833	srilankan	airlines	percent	government	cargo	bond	
+4	0.005	police	minister	students	attack	commission	committee	
+5	0.003	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: 100 kg to over 100 cities with SriLankan Cargo’s “Bag-It” 
+0	0.000	league	win	team	game	city	set	
+1	0.001	world	film	year	cup	international	rugby	
+2	0.004	president	minister	france	blast	maldives	government	
+3	0.892	srilankan	airlines	percent	government	cargo	bond	
+4	0.001	police	minister	students	attack	commission	committee	
+5	0.100	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: SriLankan Airlines SimNet wins ICT Award 
+0	0.001	league	win	team	game	city	set	
+1	0.002	world	film	year	cup	international	rugby	
+2	0.052	president	minister	france	blast	maldives	government	
+3	0.748	srilankan	airlines	percent	government	cargo	bond	
+4	0.013	police	minister	students	attack	commission	committee	
+5	0.185	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: ILFC and SriLankan Airlines sign 12-year lease agreement for three A350-900s 
+0	0.002	league	win	team	game	city	set	
+1	0.115	world	film	year	cup	international	rugby	
+2	0.406	president	minister	france	blast	maldives	government	
+3	0.007	srilankan	airlines	percent	government	cargo	bond	
+4	0.083	police	minister	students	attack	commission	committee	
+5	0.387	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism showcases at World Travel Mart  London with 64 Industry Partners
+0	0.001	league	win	team	game	city	set	
+1	0.013	world	film	year	cup	international	rugby	
+2	0.438	president	minister	france	blast	maldives	government	
+3	0.320	srilankan	airlines	percent	government	cargo	bond	
+4	0.111	police	minister	students	attack	commission	committee	
+5	0.117	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism comes board for ITB Asia 2015 Travel Show
+0	0.001	league	win	team	game	city	set	
+1	0.003	world	film	year	cup	international	rugby	
+2	0.494	president	minister	france	blast	maldives	government	
+3	0.343	srilankan	airlines	percent	government	cargo	bond	
+4	0.044	police	minister	students	attack	commission	committee	
+5	0.116	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism showcase “One Island, Thousand Treasures” at  IFTM Travel Fair Paris , France 2015
+0	0.000	league	win	team	game	city	set	
+1	0.030	world	film	year	cup	international	rugby	
+2	0.201	president	minister	france	blast	maldives	government	
+3	0.207	srilankan	airlines	percent	government	cargo	bond	
+4	0.088	police	minister	students	attack	commission	committee	
+5	0.474	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Tourism Receipts touch $2.1 billion as at end September 2015
+0	0.002	league	win	team	game	city	set	
+1	0.044	world	film	year	cup	international	rugby	
+2	0.059	president	minister	france	blast	maldives	government	
+3	0.393	srilankan	airlines	percent	government	cargo	bond	
+4	0.031	police	minister	students	attack	commission	committee	
+5	0.471	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: The 1st ever Cruise Tourism Marketing Plan presented to the New Tourism Minister 
+0	0.001	league	win	team	game	city	set	
+1	0.020	world	film	year	cup	international	rugby	
+2	0.225	president	minister	france	blast	maldives	government	
+3	0.110	srilankan	airlines	percent	government	cargo	bond	
+4	0.137	police	minister	students	attack	commission	committee	
+5	0.508	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Tourism new ideas, new concepts and dreams- Sri Lanka must take the chance
+0	0.000	league	win	team	game	city	set	
+1	0.080	world	film	year	cup	international	rugby	
+2	0.001	president	minister	france	blast	maldives	government	
+3	0.377	srilankan	airlines	percent	government	cargo	bond	
+4	0.038	police	minister	students	attack	commission	committee	
+5	0.505	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism celebrate ‘World Tourism Day' to upgrade industry competitiveness
+0	0.000	league	win	team	game	city	set	
+1	0.161	world	film	year	cup	international	rugby	
+2	0.074	president	minister	france	blast	maldives	government	
+3	0.306	srilankan	airlines	percent	government	cargo	bond	
+4	0.111	police	minister	students	attack	commission	committee	
+5	0.347	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka ride the wave at Japan Tourism Expo 2015
+0	0.002	league	win	team	game	city	set	
+1	0.120	world	film	year	cup	international	rugby	
+2	0.269	president	minister	france	blast	maldives	government	
+3	0.091	srilankan	airlines	percent	government	cargo	bond	
+4	0.252	police	minister	students	attack	commission	committee	
+5	0.267	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Scandinavian markets grow by 32%: Sri Lanka Tourism focused marketing drive
+0	0.002	league	win	team	game	city	set	
+1	0.002	world	film	year	cup	international	rugby	
+2	0.301	president	minister	france	blast	maldives	government	
+3	0.185	srilankan	airlines	percent	government	cargo	bond	
+4	0.083	police	minister	students	attack	commission	committee	
+5	0.427	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Tourism Record in September: arrivals jump 35.9% to cross 1.3 million
+0	0.002	league	win	team	game	city	set	
+1	0.052	world	film	year	cup	international	rugby	
+2	0.100	president	minister	france	blast	maldives	government	
+3	0.037	srilankan	airlines	percent	government	cargo	bond	
+4	0.088	police	minister	students	attack	commission	committee	
+5	0.720	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism launches Community Aid Tourism with Olympic Gold medallion
+0	0.000	league	win	team	game	city	set	
+1	0.060	world	film	year	cup	international	rugby	
+2	0.002	president	minister	france	blast	maldives	government	
+3	0.177	srilankan	airlines	percent	government	cargo	bond	
+4	0.058	police	minister	students	attack	commission	committee	
+5	0.703	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism with Pink my Tuk launch Global Online video competition
+0	0.001	league	win	team	game	city	set	
+1	0.004	world	film	year	cup	international	rugby	
+2	0.063	president	minister	france	blast	maldives	government	
+3	0.296	srilankan	airlines	percent	government	cargo	bond	
+4	0.179	police	minister	students	attack	commission	committee	
+5	0.458	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka - Cultural focus country at Key Italian Travel Fair TTG
+0	0.001	league	win	team	game	city	set	
+1	0.026	world	film	year	cup	international	rugby	
+2	0.167	president	minister	france	blast	maldives	government	
+3	0.209	srilankan	airlines	percent	government	cargo	bond	
+4	0.113	police	minister	students	attack	commission	committee	
+5	0.484	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Mr and Miss UK commends Sri Lanka- Destination of the Year title
+0	0.002	league	win	team	game	city	set	
+1	0.041	world	film	year	cup	international	rugby	
+2	0.129	president	minister	france	blast	maldives	government	
+3	0.011	srilankan	airlines	percent	government	cargo	bond	
+4	0.342	police	minister	students	attack	commission	committee	
+5	0.474	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism to highlight the 1706th Esala Perahera at Japan JATA World Expo 2015
+0	0.001	league	win	team	game	city	set	
+1	0.003	world	film	year	cup	international	rugby	
+2	0.032	president	minister	france	blast	maldives	government	
+3	0.263	srilankan	airlines	percent	government	cargo	bond	
+4	0.032	police	minister	students	attack	commission	committee	
+5	0.668	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism enter China's growing religious tourism business     
+0	0.002	league	win	team	game	city	set	
+1	0.116	world	film	year	cup	international	rugby	
+2	0.024	president	minister	france	blast	maldives	government	
+3	0.312	srilankan	airlines	percent	government	cargo	bond	
+4	0.091	police	minister	students	attack	commission	committee	
+5	0.456	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism, Tea board and Sri Lankan Airlines quest for Guinness Record
+0	0.001	league	win	team	game	city	set	
+1	0.196	world	film	year	cup	international	rugby	
+2	0.109	president	minister	france	blast	maldives	government	
+3	0.298	srilankan	airlines	percent	government	cargo	bond	
+4	0.062	police	minister	students	attack	commission	committee	
+5	0.334	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism focussing on the $92 billion German source market
+0	0.000	league	win	team	game	city	set	
+1	0.137	world	film	year	cup	international	rugby	
+2	0.292	president	minister	france	blast	maldives	government	
+3	0.232	srilankan	airlines	percent	government	cargo	bond	
+4	0.052	police	minister	students	attack	commission	committee	
+5	0.286	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Change lives and win big with findmyfare.com’s Insta Booking Challenge
+0	0.003	league	win	team	game	city	set	
+1	0.226	world	film	year	cup	international	rugby	
+2	0.183	president	minister	france	blast	maldives	government	
+3	0.251	srilankan	airlines	percent	government	cargo	bond	
+4	0.065	police	minister	students	attack	commission	committee	
+5	0.273	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism blitz on Sony Six for Sanga Farewell
+0	0.001	league	win	team	game	city	set	
+1	0.457	world	film	year	cup	international	rugby	
+2	0.001	president	minister	france	blast	maldives	government	
+3	0.200	srilankan	airlines	percent	government	cargo	bond	
+4	0.093	police	minister	students	attack	commission	committee	
+5	0.247	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Warriors move to franchise best 10-0 start
+0	0.628	league	win	team	game	city	set	
+1	0.179	world	film	year	cup	international	rugby	
+2	0.009	president	minister	france	blast	maldives	government	
+3	0.132	srilankan	airlines	percent	government	cargo	bond	
+4	0.049	police	minister	students	attack	commission	committee	
+5	0.002	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Argentina wary of 
+0	0.869	league	win	team	game	city	set	
+1	0.003	world	film	year	cup	international	rugby	
+2	0.001	president	minister	france	blast	maldives	government	
+3	0.041	srilankan	airlines	percent	government	cargo	bond	
+4	0.085	police	minister	students	attack	commission	committee	
+5	0.001	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Hamilton shakes off illness to realise childhood dream
+0	0.685	league	win	team	game	city	set	
+1	0.003	world	film	year	cup	international	rugby	
+2	0.002	president	minister	france	blast	maldives	government	
+3	0.005	srilankan	airlines	percent	government	cargo	bond	
+4	0.301	police	minister	students	attack	commission	committee	
+5	0.004	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Uruguay sunk as perfect Ecuador march on
+0	0.877	league	win	team	game	city	set	
+1	0.004	world	film	year	cup	international	rugby	
+2	0.005	president	minister	france	blast	maldives	government	
+3	0.017	srilankan	airlines	percent	government	cargo	bond	
+4	0.088	police	minister	students	attack	commission	committee	
+5	0.009	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Rodriguez snatches draw for Colombia in Chile
+0	0.902	league	win	team	game	city	set	
+1	0.005	world	film	year	cup	international	rugby	
+2	0.003	president	minister	france	blast	maldives	government	
+3	0.019	srilankan	airlines	percent	government	cargo	bond	
+4	0.068	police	minister	students	attack	commission	committee	
+5	0.004	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Eddie Jones takes the reins of Western Stormers
+0	0.197	league	win	team	game	city	set	
+1	0.527	world	film	year	cup	international	rugby	
+2	0.019	president	minister	france	blast	maldives	government	
+3	0.219	srilankan	airlines	percent	government	cargo	bond	
+4	0.024	police	minister	students	attack	commission	committee	
+5	0.014	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Alonso says he has been in 
+0	0.531	league	win	team	game	city	set	
+1	0.207	world	film	year	cup	international	rugby	
+2	0.003	president	minister	france	blast	maldives	government	
+3	0.206	srilankan	airlines	percent	government	cargo	bond	
+4	0.040	police	minister	students	attack	commission	committee	
+5	0.013	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Japan
+0	0.479	league	win	team	game	city	set	
+1	0.075	world	film	year	cup	international	rugby	
+2	0.002	president	minister	france	blast	maldives	government	
+3	0.200	srilankan	airlines	percent	government	cargo	bond	
+4	0.212	police	minister	students	attack	commission	committee	
+5	0.032	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: New Zealand says won
+0	0.576	league	win	team	game	city	set	
+1	0.029	world	film	year	cup	international	rugby	
+2	0.008	president	minister	france	blast	maldives	government	
+3	0.178	srilankan	airlines	percent	government	cargo	bond	
+4	0.199	police	minister	students	attack	commission	committee	
+5	0.010	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Djokovic aiming to end golden year with a bang
+0	0.698	league	win	team	game	city	set	
+1	0.019	world	film	year	cup	international	rugby	
+2	0.091	president	minister	france	blast	maldives	government	
+3	0.013	srilankan	airlines	percent	government	cargo	bond	
+4	0.045	police	minister	students	attack	commission	committee	
+5	0.134	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Lorenzo suffers burns during title celebration
+0	0.653	league	win	team	game	city	set	
+1	0.215	world	film	year	cup	international	rugby	
+2	0.005	president	minister	france	blast	maldives	government	
+3	0.001	srilankan	airlines	percent	government	cargo	bond	
+4	0.104	police	minister	students	attack	commission	committee	
+5	0.021	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Bryant reigns, but Lakers lose at Madison Square Garden
+0	0.689	league	win	team	game	city	set	
+1	0.120	world	film	year	cup	international	rugby	
+2	0.006	president	minister	france	blast	maldives	government	
+3	0.140	srilankan	airlines	percent	government	cargo	bond	
+4	0.043	police	minister	students	attack	commission	committee	
+5	0.001	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: England have potential but lack organisation 
+0	0.399	league	win	team	game	city	set	
+1	0.361	world	film	year	cup	international	rugby	
+2	0.001	president	minister	france	blast	maldives	government	
+3	0.002	srilankan	airlines	percent	government	cargo	bond	
+4	0.226	police	minister	students	attack	commission	committee	
+5	0.010	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Hamilton feeling good after fever and accident
+0	0.494	league	win	team	game	city	set	
+1	0.228	world	film	year	cup	international	rugby	
+2	0.021	president	minister	france	blast	maldives	government	
+3	0.006	srilankan	airlines	percent	government	cargo	bond	
+4	0.184	police	minister	students	attack	commission	committee	
+5	0.067	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Djokovic aiming to end golden year with a bang
+0	0.693	league	win	team	game	city	set	
+1	0.015	world	film	year	cup	international	rugby	
+2	0.102	president	minister	france	blast	maldives	government	
+3	0.012	srilankan	airlines	percent	government	cargo	bond	
+4	0.043	police	minister	students	attack	commission	committee	
+5	0.134	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Kompany out of Belgium’s friendlies with Italy and Spain
+0	0.380	league	win	team	game	city	set	
+1	0.540	world	film	year	cup	international	rugby	
+2	0.007	president	minister	france	blast	maldives	government	
+3	0.014	srilankan	airlines	percent	government	cargo	bond	
+4	0.027	police	minister	students	attack	commission	committee	
+5	0.033	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Coe in the spotlight as world athletics ponders Russia ban
+0	0.420	league	win	team	game	city	set	
+1	0.362	world	film	year	cup	international	rugby	
+2	0.009	president	minister	france	blast	maldives	government	
+3	0.015	srilankan	airlines	percent	government	cargo	bond	
+4	0.156	police	minister	students	attack	commission	committee	
+5	0.039	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Vettel sees 
+0	0.581	league	win	team	game	city	set	
+1	0.148	world	film	year	cup	international	rugby	
+2	0.014	president	minister	france	blast	maldives	government	
+3	0.137	srilankan	airlines	percent	government	cargo	bond	
+4	0.115	police	minister	students	attack	commission	committee	
+5	0.005	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: England to rest Rooney for Spain clash, Vardy injured
+0	0.546	league	win	team	game	city	set	
+1	0.170	world	film	year	cup	international	rugby	
+2	0.006	president	minister	france	blast	maldives	government	
+3	0.010	srilankan	airlines	percent	government	cargo	bond	
+4	0.150	police	minister	students	attack	commission	committee	
+5	0.117	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Blatter out of hospital, confidant tells Reuters TV
+0	0.409	league	win	team	game	city	set	
+1	0.379	world	film	year	cup	international	rugby	
+2	0.001	president	minister	france	blast	maldives	government	
+3	0.113	srilankan	airlines	percent	government	cargo	bond	
+4	0.094	police	minister	students	attack	commission	committee	
+5	0.004	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Jones or White tipped to become next England coach
+0	0.378	league	win	team	game	city	set	
+1	0.414	world	film	year	cup	international	rugby	
+2	0.010	president	minister	france	blast	maldives	government	
+3	0.001	srilankan	airlines	percent	government	cargo	bond	
+4	0.096	police	minister	students	attack	commission	committee	
+5	0.100	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Five enter FIFA presidency race; Bility, Platini sidelined
+0	0.355	league	win	team	game	city	set	
+1	0.124	world	film	year	cup	international	rugby	
+2	0.163	president	minister	france	blast	maldives	government	
+3	0.082	srilankan	airlines	percent	government	cargo	bond	
+4	0.275	police	minister	students	attack	commission	committee	
+5	0.002	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Hamilton owns up to car accident in Monaco
+0	0.443	league	win	team	game	city	set	
+1	0.266	world	film	year	cup	international	rugby	
+2	0.002	president	minister	france	blast	maldives	government	
+3	0.013	srilankan	airlines	percent	government	cargo	bond	
+4	0.175	police	minister	students	attack	commission	committee	
+5	0.101	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: I
+0	0.360	league	win	team	game	city	set	
+1	0.078	world	film	year	cup	international	rugby	
+2	0.008	president	minister	france	blast	maldives	government	
+3	0.075	srilankan	airlines	percent	government	cargo	bond	
+4	0.440	police	minister	students	attack	commission	committee	
+5	0.040	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: No regrets over City move, says 
+0	0.063	league	win	team	game	city	set	
+1	0.006	world	film	year	cup	international	rugby	
+2	0.513	president	minister	france	blast	maldives	government	
+3	0.064	srilankan	airlines	percent	government	cargo	bond	
+4	0.353	police	minister	students	attack	commission	committee	
+5	0.002	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: AdaDerana RSS
+0	0.001	league	win	team	game	city	set	
+1	0.002	world	film	year	cup	international	rugby	
+2	0.549	president	minister	france	blast	maldives	government	
+3	0.002	srilankan	airlines	percent	government	cargo	bond	
+4	0.443	police	minister	students	attack	commission	committee	
+5	0.003	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Severe weather advisory issued for heavy rainfall, strong winds
+0	0.002	league	win	team	game	city	set	
+1	0.004	world	film	year	cup	international	rugby	
+2	0.704	president	minister	france	blast	maldives	government	
+3	0.006	srilankan	airlines	percent	government	cargo	bond	
+4	0.282	police	minister	students	attack	commission	committee	
+5	0.002	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Customs officers further remanded over Rs 125m bribe
+0	0.001	league	win	team	game	city	set	
+1	0.004	world	film	year	cup	international	rugby	
+2	0.427	president	minister	france	blast	maldives	government	
+3	0.004	srilankan	airlines	percent	government	cargo	bond	
+4	0.531	police	minister	students	attack	commission	committee	
+5	0.033	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lankan woman deemed security threat released
+0	0.000	league	win	team	game	city	set	
+1	0.001	world	film	year	cup	international	rugby	
+2	0.325	president	minister	france	blast	maldives	government	
+3	0.000	srilankan	airlines	percent	government	cargo	bond	
+4	0.673	police	minister	students	attack	commission	committee	
+5	0.001	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: JVP summoned over case file by Wijeweera's wife
+0	0.004	league	win	team	game	city	set	
+1	0.021	world	film	year	cup	international	rugby	
+2	0.331	president	minister	france	blast	maldives	government	
+3	0.002	srilankan	airlines	percent	government	cargo	bond	
+4	0.639	police	minister	students	attack	commission	committee	
+5	0.002	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Aung San Suu Kyi wins Myanmar's landmark election
+0	0.000	league	win	team	game	city	set	
+1	0.051	world	film	year	cup	international	rugby	
+2	0.003	president	minister	france	blast	maldives	government	
+3	0.038	srilankan	airlines	percent	government	cargo	bond	
+4	0.899	police	minister	students	attack	commission	committee	
+5	0.010	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Court summons Mahinda and 6 others over SLTB payments
+0	0.009	league	win	team	game	city	set	
+1	0.004	world	film	year	cup	international	rugby	
+2	0.370	president	minister	france	blast	maldives	government	
+3	0.001	srilankan	airlines	percent	government	cargo	bond	
+4	0.610	police	minister	students	attack	commission	committee	
+5	0.006	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Postal workers launch trade union action
+0	0.006	league	win	team	game	city	set	
+1	0.017	world	film	year	cup	international	rugby	
+2	0.605	president	minister	france	blast	maldives	government	
+3	0.004	srilankan	airlines	percent	government	cargo	bond	
+4	0.364	police	minister	students	attack	commission	committee	
+5	0.004	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Space junk WT1190F hits Earth at 11-48am; to be bright as full moon
+0	0.001	league	win	team	game	city	set	
+1	0.001	world	film	year	cup	international	rugby	
+2	0.213	president	minister	france	blast	maldives	government	
+3	0.096	srilankan	airlines	percent	government	cargo	bond	
+4	0.688	police	minister	students	attack	commission	committee	
+5	0.001	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Four mail trains on Northern line cancelled
+0	0.003	league	win	team	game	city	set	
+1	0.007	world	film	year	cup	international	rugby	
+2	0.861	president	minister	france	blast	maldives	government	
+3	0.067	srilankan	airlines	percent	government	cargo	bond	
+4	0.056	police	minister	students	attack	commission	committee	
+5	0.005	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Avant Garde to hold press conference tomorrow
+0	0.003	league	win	team	game	city	set	
+1	0.003	world	film	year	cup	international	rugby	
+2	0.405	president	minister	france	blast	maldives	government	
+3	0.006	srilankan	airlines	percent	government	cargo	bond	
+4	0.579	police	minister	students	attack	commission	committee	
+5	0.003	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: President vows to abolish Executive Presidency
+0	0.003	league	win	team	game	city	set	
+1	0.129	world	film	year	cup	international	rugby	
+2	0.354	president	minister	france	blast	maldives	government	
+3	0.285	srilankan	airlines	percent	government	cargo	bond	
+4	0.175	police	minister	students	attack	commission	committee	
+5	0.054	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Acting CJ takes oath
+0	0.006	league	win	team	game	city	set	
+1	0.013	world	film	year	cup	international	rugby	
+2	0.244	president	minister	france	blast	maldives	government	
+3	0.007	srilankan	airlines	percent	government	cargo	bond	
+4	0.718	police	minister	students	attack	commission	committee	
+5	0.011	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: TID now investigates KP- AG
+0	0.001	league	win	team	game	city	set	
+1	0.003	world	film	year	cup	international	rugby	
+2	0.667	president	minister	france	blast	maldives	government	
+3	0.004	srilankan	airlines	percent	government	cargo	bond	
+4	0.324	police	minister	students	attack	commission	committee	
+5	0.001	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Govt. to sign bilateral air service agreement with Serbia
+0	0.001	league	win	team	game	city	set	
+1	0.016	world	film	year	cup	international	rugby	
+2	0.092	president	minister	france	blast	maldives	government	
+3	0.571	srilankan	airlines	percent	government	cargo	bond	
+4	0.309	police	minister	students	attack	commission	committee	
+5	0.011	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka to usher in a capital oriented budget- Ravi
+0	0.001	league	win	team	game	city	set	
+1	0.220	world	film	year	cup	international	rugby	
+2	0.279	president	minister	france	blast	maldives	government	
+3	0.474	srilankan	airlines	percent	government	cargo	bond	
+4	0.005	police	minister	students	attack	commission	committee	
+5	0.021	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: A1 construction cost up by Rs. 2 billion, says Namal
+0	0.005	league	win	team	game	city	set	
+1	0.005	world	film	year	cup	international	rugby	
+2	0.004	president	minister	france	blast	maldives	government	
+3	0.469	srilankan	airlines	percent	government	cargo	bond	
+4	0.502	police	minister	students	attack	commission	committee	
+5	0.015	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Special traffic plan near Parliament today
+0	0.320	league	win	team	game	city	set	
+1	0.031	world	film	year	cup	international	rugby	
+2	0.034	president	minister	france	blast	maldives	government	
+3	0.074	srilankan	airlines	percent	government	cargo	bond	
+4	0.451	police	minister	students	attack	commission	committee	
+5	0.090	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Last rites of Ven. Sobitha Thero today
+0	0.003	league	win	team	game	city	set	
+1	0.113	world	film	year	cup	international	rugby	
+2	0.062	president	minister	france	blast	maldives	government	
+3	0.460	srilankan	airlines	percent	government	cargo	bond	
+4	0.302	police	minister	students	attack	commission	committee	
+5	0.059	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Train services on Northern line disrupted
+0	0.031	league	win	team	game	city	set	
+1	0.006	world	film	year	cup	international	rugby	
+2	0.314	president	minister	france	blast	maldives	government	
+3	0.195	srilankan	airlines	percent	government	cargo	bond	
+4	0.443	police	minister	students	attack	commission	committee	
+5	0.011	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: LTTE suspects; can’t consider as Full-fledge release 
+0	0.007	league	win	team	game	city	set	
+1	0.275	world	film	year	cup	international	rugby	
+2	0.301	president	minister	france	blast	maldives	government	
+3	0.003	srilankan	airlines	percent	government	cargo	bond	
+4	0.411	police	minister	students	attack	commission	committee	
+5	0.002	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Rainy weather prevails
+0	0.004	league	win	team	game	city	set	
+1	0.005	world	film	year	cup	international	rugby	
+2	0.652	president	minister	france	blast	maldives	government	
+3	0.031	srilankan	airlines	percent	government	cargo	bond	
+4	0.302	police	minister	students	attack	commission	committee	
+5	0.006	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Justin Bieber: I Had Tears in My Eyes Watching Amy Winehouse Doc
+0	0.187	league	win	team	game	city	set	
+1	0.567	world	film	year	cup	international	rugby	
+2	0.008	president	minister	france	blast	maldives	government	
+3	0.014	srilankan	airlines	percent	government	cargo	bond	
+4	0.216	police	minister	students	attack	commission	committee	
+5	0.008	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Ronaldo admits being casanova
+0	0.004	league	win	team	game	city	set	
+1	0.755	world	film	year	cup	international	rugby	
+2	0.002	president	minister	france	blast	maldives	government	
+3	0.003	srilankan	airlines	percent	government	cargo	bond	
+4	0.232	police	minister	students	attack	commission	committee	
+5	0.005	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Shops closed in Jaffna, Kilinochci and Baticalo due to Harthal
+0	0.001	league	win	team	game	city	set	
+1	0.285	world	film	year	cup	international	rugby	
+2	0.235	president	minister	france	blast	maldives	government	
+3	0.014	srilankan	airlines	percent	government	cargo	bond	
+4	0.463	police	minister	students	attack	commission	committee	
+5	0.001	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Court summons JVP over Wijeweeras books
+0	0.002	league	win	team	game	city	set	
+1	0.442	world	film	year	cup	international	rugby	
+2	0.186	president	minister	france	blast	maldives	government	
+3	0.017	srilankan	airlines	percent	government	cargo	bond	
+4	0.351	police	minister	students	attack	commission	committee	
+5	0.003	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: John Lennon book wins Goldsmiths Prize
+0	0.005	league	win	team	game	city	set	
+1	0.785	world	film	year	cup	international	rugby	
+2	0.020	president	minister	france	blast	maldives	government	
+3	0.014	srilankan	airlines	percent	government	cargo	bond	
+4	0.158	police	minister	students	attack	commission	committee	
+5	0.018	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Volkswagen sets emissions scandal amnesty deadline
+0	0.019	league	win	team	game	city	set	
+1	0.707	world	film	year	cup	international	rugby	
+2	0.003	president	minister	france	blast	maldives	government	
+3	0.012	srilankan	airlines	percent	government	cargo	bond	
+4	0.250	police	minister	students	attack	commission	committee	
+5	0.009	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: 3 days, 27 deals: India most open, says PM Narendra Modi in UK
+0	0.001	league	win	team	game	city	set	
+1	0.397	world	film	year	cup	international	rugby	
+2	0.002	president	minister	france	blast	maldives	government	
+3	0.220	srilankan	airlines	percent	government	cargo	bond	
+4	0.375	police	minister	students	attack	commission	committee	
+5	0.004	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: AB de Villiers Warns Virat Kohli
+0	0.391	league	win	team	game	city	set	
+1	0.384	world	film	year	cup	international	rugby	
+2	0.007	president	minister	france	blast	maldives	government	
+3	0.120	srilankan	airlines	percent	government	cargo	bond	
+4	0.014	police	minister	students	attack	commission	committee	
+5	0.083	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: WT1190F: No space debris sighted
+0	0.002	league	win	team	game	city	set	
+1	0.006	world	film	year	cup	international	rugby	
+2	0.003	president	minister	france	blast	maldives	government	
+3	0.002	srilankan	airlines	percent	government	cargo	bond	
+4	0.986	police	minister	students	attack	commission	committee	
+5	0.002	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Mass scale fuel racket raided by the police
+0	0.006	league	win	team	game	city	set	
+1	0.762	world	film	year	cup	international	rugby	
+2	0.002	president	minister	france	blast	maldives	government	
+3	0.004	srilankan	airlines	percent	government	cargo	bond	
+4	0.210	police	minister	students	attack	commission	committee	
+5	0.016	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Myanmar election: Suu Kyis NLD wins landslide victory
+0	0.003	league	win	team	game	city	set	
+1	0.002	world	film	year	cup	international	rugby	
+2	0.044	president	minister	france	blast	maldives	government	
+3	0.001	srilankan	airlines	percent	government	cargo	bond	
+4	0.948	police	minister	students	attack	commission	committee	
+5	0.002	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Adele and Elvis Presley Hold Tight On Top Of UK Charts
+0	0.004	league	win	team	game	city	set	
+1	0.680	world	film	year	cup	international	rugby	
+2	0.004	president	minister	france	blast	maldives	government	
+3	0.241	srilankan	airlines	percent	government	cargo	bond	
+4	0.061	police	minister	students	attack	commission	committee	
+5	0.009	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Rupee at record low on importer dlr demand 
+0	0.038	league	win	team	game	city	set	
+1	0.380	world	film	year	cup	international	rugby	
+2	0.002	president	minister	france	blast	maldives	government	
+3	0.395	srilankan	airlines	percent	government	cargo	bond	
+4	0.041	police	minister	students	attack	commission	committee	
+5	0.144	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sampath Group’s 9-month PBT up 42% to Rs.7.4 bn
+0	0.000	league	win	team	game	city	set	
+1	0.188	world	film	year	cup	international	rugby	
+2	0.036	president	minister	france	blast	maldives	government	
+3	0.506	srilankan	airlines	percent	government	cargo	bond	
+4	0.107	police	minister	students	attack	commission	committee	
+5	0.162	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: JVP has control in country’s political sphere: Anura
+0	0.002	league	win	team	game	city	set	
+1	0.430	world	film	year	cup	international	rugby	
+2	0.061	president	minister	france	blast	maldives	government	
+3	0.004	srilankan	airlines	percent	government	cargo	bond	
+4	0.498	police	minister	students	attack	commission	committee	
+5	0.004	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Paris rocked by series of deadly shootings, blasts
+0	0.002	league	win	team	game	city	set	
+1	0.311	world	film	year	cup	international	rugby	
+2	0.238	president	minister	france	blast	maldives	government	
+3	0.145	srilankan	airlines	percent	government	cargo	bond	
+4	0.302	police	minister	students	attack	commission	committee	
+5	0.002	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: President condemns Paris attack
+0	0.004	league	win	team	game	city	set	
+1	0.313	world	film	year	cup	international	rugby	
+2	0.029	president	minister	france	blast	maldives	government	
+3	0.016	srilankan	airlines	percent	government	cargo	bond	
+4	0.627	police	minister	students	attack	commission	committee	
+5	0.011	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Thanha Rathi Ranga wins at Derana Film Awards 2015
+0	0.003	league	win	team	game	city	set	
+1	0.129	world	film	year	cup	international	rugby	
+2	0.029	president	minister	france	blast	maldives	government	
+3	0.289	srilankan	airlines	percent	government	cargo	bond	
+4	0.458	police	minister	students	attack	commission	committee	
+5	0.091	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Full report of Budget-2016 
+0	0.017	league	win	team	game	city	set	
+1	0.030	world	film	year	cup	international	rugby	
+2	0.011	president	minister	france	blast	maldives	government	
+3	0.889	srilankan	airlines	percent	government	cargo	bond	
+4	0.032	police	minister	students	attack	commission	committee	
+5	0.022	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: 80 hostages freed as special forces storm Mali hotel
+0	0.290	league	win	team	game	city	set	
+1	0.091	world	film	year	cup	international	rugby	
+2	0.233	president	minister	france	blast	maldives	government	
+3	0.027	srilankan	airlines	percent	government	cargo	bond	
+4	0.354	police	minister	students	attack	commission	committee	
+5	0.004	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Gunmen take 170 hostages at a hotel in Mali
+0	0.010	league	win	team	game	city	set	
+1	0.044	world	film	year	cup	international	rugby	
+2	0.150	president	minister	france	blast	maldives	government	
+3	0.343	srilankan	airlines	percent	government	cargo	bond	
+4	0.443	police	minister	students	attack	commission	committee	
+5	0.010	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sarath Kumara Gunaratne released on bail
+0	0.005	league	win	team	game	city	set	
+1	0.023	world	film	year	cup	international	rugby	
+2	0.142	president	minister	france	blast	maldives	government	
+3	0.043	srilankan	airlines	percent	government	cargo	bond	
+4	0.751	police	minister	students	attack	commission	committee	
+5	0.036	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Attempts to celebrate Mahaviru Day in the North
+0	0.006	league	win	team	game	city	set	
+1	0.229	world	film	year	cup	international	rugby	
+2	0.137	president	minister	france	blast	maldives	government	
+3	0.013	srilankan	airlines	percent	government	cargo	bond	
+4	0.609	police	minister	students	attack	commission	committee	
+5	0.007	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Chennai may not host India-SL World T20 matches
+0	0.023	league	win	team	game	city	set	
+1	0.151	world	film	year	cup	international	rugby	
+2	0.062	president	minister	france	blast	maldives	government	
+3	0.009	srilankan	airlines	percent	government	cargo	bond	
+4	0.546	police	minister	students	attack	commission	committee	
+5	0.209	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Grand Hyatt board remains unchanged-official
+0	0.001	league	win	team	game	city	set	
+1	0.170	world	film	year	cup	international	rugby	
+2	0.014	president	minister	france	blast	maldives	government	
+3	0.441	srilankan	airlines	percent	government	cargo	bond	
+4	0.265	police	minister	students	attack	commission	committee	
+5	0.109	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Thilakaratne new CAA Chairman
+0	0.027	league	win	team	game	city	set	
+1	0.070	world	film	year	cup	international	rugby	
+2	0.047	president	minister	france	blast	maldives	government	
+3	0.670	srilankan	airlines	percent	government	cargo	bond	
+4	0.106	police	minister	students	attack	commission	committee	
+5	0.081	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: PRECIFAC records statement from MR
+0	0.013	league	win	team	game	city	set	
+1	0.005	world	film	year	cup	international	rugby	
+2	0.010	president	minister	france	blast	maldives	government	
+3	0.012	srilankan	airlines	percent	government	cargo	bond	
+4	0.954	police	minister	students	attack	commission	committee	
+5	0.006	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Request to sell Sicille's jewellery to pay depositors
+0	0.004	league	win	team	game	city	set	
+1	0.062	world	film	year	cup	international	rugby	
+2	0.273	president	minister	france	blast	maldives	government	
+3	0.012	srilankan	airlines	percent	government	cargo	bond	
+4	0.625	police	minister	students	attack	commission	committee	
+5	0.024	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: President’s, PM’s residencies to be relocated: Champika
+0	0.002	league	win	team	game	city	set	
+1	0.182	world	film	year	cup	international	rugby	
+2	0.002	president	minister	france	blast	maldives	government	
+3	0.532	srilankan	airlines	percent	government	cargo	bond	
+4	0.276	police	minister	students	attack	commission	committee	
+5	0.006	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Standard house number plates from CMC
+0	0.002	league	win	team	game	city	set	
+1	0.318	world	film	year	cup	international	rugby	
+2	0.002	president	minister	france	blast	maldives	government	
+3	0.208	srilankan	airlines	percent	government	cargo	bond	
+4	0.436	police	minister	students	attack	commission	committee	
+5	0.034	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: CAA Chairman resigns
+0	0.111	league	win	team	game	city	set	
+1	0.330	world	film	year	cup	international	rugby	
+2	0.025	president	minister	france	blast	maldives	government	
+3	0.478	srilankan	airlines	percent	government	cargo	bond	
+4	0.048	police	minister	students	attack	commission	committee	
+5	0.008	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: I don’t think govt will scrap Exec. Presidency-MR
+0	0.002	league	win	team	game	city	set	
+1	0.058	world	film	year	cup	international	rugby	
+2	0.007	president	minister	france	blast	maldives	government	
+3	0.313	srilankan	airlines	percent	government	cargo	bond	
+4	0.611	police	minister	students	attack	commission	committee	
+5	0.009	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: ?FCID visits CSN again
+0	0.010	league	win	team	game	city	set	
+1	0.022	world	film	year	cup	international	rugby	
+2	0.013	president	minister	france	blast	maldives	government	
+3	0.521	srilankan	airlines	percent	government	cargo	bond	
+4	0.418	police	minister	students	attack	commission	committee	
+5	0.017	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Cabinet to be briefed on Budget
+0	0.014	league	win	team	game	city	set	
+1	0.033	world	film	year	cup	international	rugby	
+2	0.036	president	minister	france	blast	maldives	government	
+3	0.320	srilankan	airlines	percent	government	cargo	bond	
+4	0.545	police	minister	students	attack	commission	committee	
+5	0.052	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Paris attacks 'mastermind' killed in raid
+0	0.153	league	win	team	game	city	set	
+1	0.172	world	film	year	cup	international	rugby	
+2	0.106	president	minister	france	blast	maldives	government	
+3	0.116	srilankan	airlines	percent	government	cargo	bond	
+4	0.248	police	minister	students	attack	commission	committee	
+5	0.205	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Google live traffic in SL
+0	0.153	league	win	team	game	city	set	
+1	0.172	world	film	year	cup	international	rugby	
+2	0.106	president	minister	france	blast	maldives	government	
+3	0.116	srilankan	airlines	percent	government	cargo	bond	
+4	0.248	police	minister	students	attack	commission	committee	
+5	0.205	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Govt. to probe UN Working Group claims
+0	0.009	league	win	team	game	city	set	
+1	0.248	world	film	year	cup	international	rugby	
+2	0.037	president	minister	france	blast	maldives	government	
+3	0.242	srilankan	airlines	percent	government	cargo	bond	
+4	0.461	police	minister	students	attack	commission	committee	
+5	0.002	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Nishan Dhanasinghe new Prisons Commissioner
+0	0.004	league	win	team	game	city	set	
+1	0.298	world	film	year	cup	international	rugby	
+2	0.075	president	minister	france	blast	maldives	government	
+3	0.094	srilankan	airlines	percent	government	cargo	bond	
+4	0.522	police	minister	students	attack	commission	committee	
+5	0.005	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: ‘Ceylon Tea’ brand likely to be reconceptualised: Minister
+0	0.004	league	win	team	game	city	set	
+1	0.072	world	film	year	cup	international	rugby	
+2	0.001	president	minister	france	blast	maldives	government	
+3	0.659	srilankan	airlines	percent	government	cargo	bond	
+4	0.109	police	minister	students	attack	commission	committee	
+5	0.155	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: No more protectionist policies for industries under new regime
+0	0.006	league	win	team	game	city	set	
+1	0.131	world	film	year	cup	international	rugby	
+2	0.220	president	minister	france	blast	maldives	government	
+3	0.457	srilankan	airlines	percent	government	cargo	bond	
+4	0.166	police	minister	students	attack	commission	committee	
+5	0.020	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka set to pursue pro-western trade and foreign policy: Harsha
+0	0.004	league	win	team	game	city	set	
+1	0.009	world	film	year	cup	international	rugby	
+2	0.202	president	minister	france	blast	maldives	government	
+3	0.473	srilankan	airlines	percent	government	cargo	bond	
+4	0.197	police	minister	students	attack	commission	committee	
+5	0.115	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Another twist in Grand Hyatt saga
+0	0.153	league	win	team	game	city	set	
+1	0.172	world	film	year	cup	international	rugby	
+2	0.106	president	minister	france	blast	maldives	government	
+3	0.116	srilankan	airlines	percent	government	cargo	bond	
+4	0.248	police	minister	students	attack	commission	committee	
+5	0.205	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Anantaya promises unmatched dining experience 
+0	0.000	league	win	team	game	city	set	
+1	0.001	world	film	year	cup	international	rugby	
+2	0.000	president	minister	france	blast	maldives	government	
+3	0.982	srilankan	airlines	percent	government	cargo	bond	
+4	0.013	police	minister	students	attack	commission	committee	
+5	0.002	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: SriLankan expands reach in Central Asia with Siberian Airlines 
+0	0.001	league	win	team	game	city	set	
+1	0.002	world	film	year	cup	international	rugby	
+2	0.085	president	minister	france	blast	maldives	government	
+3	0.769	srilankan	airlines	percent	government	cargo	bond	
+4	0.003	police	minister	students	attack	commission	committee	
+5	0.140	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Experience the sensational Seychelles with SriLankan Holidays 
+0	0.001	league	win	team	game	city	set	
+1	0.001	world	film	year	cup	international	rugby	
+2	0.156	president	minister	france	blast	maldives	government	
+3	0.836	srilankan	airlines	percent	government	cargo	bond	
+4	0.004	police	minister	students	attack	commission	committee	
+5	0.002	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: 100 kg to over 100 cities with SriLankan Cargo’s “Bag-It” 
+0	0.001	league	win	team	game	city	set	
+1	0.002	world	film	year	cup	international	rugby	
+2	0.006	president	minister	france	blast	maldives	government	
+3	0.891	srilankan	airlines	percent	government	cargo	bond	
+4	0.002	police	minister	students	attack	commission	committee	
+5	0.098	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: SriLankan Airlines SimNet wins ICT Award 
+0	0.001	league	win	team	game	city	set	
+1	0.001	world	film	year	cup	international	rugby	
+2	0.058	president	minister	france	blast	maldives	government	
+3	0.742	srilankan	airlines	percent	government	cargo	bond	
+4	0.014	police	minister	students	attack	commission	committee	
+5	0.184	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: ILFC and SriLankan Airlines sign 12-year lease agreement for three A350-900s 
+0	0.002	league	win	team	game	city	set	
+1	0.118	world	film	year	cup	international	rugby	
+2	0.401	president	minister	france	blast	maldives	government	
+3	0.010	srilankan	airlines	percent	government	cargo	bond	
+4	0.078	police	minister	students	attack	commission	committee	
+5	0.391	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism showcases at World Travel Mart  London with 64 Industry Partners
+0	0.001	league	win	team	game	city	set	
+1	0.017	world	film	year	cup	international	rugby	
+2	0.438	president	minister	france	blast	maldives	government	
+3	0.317	srilankan	airlines	percent	government	cargo	bond	
+4	0.111	police	minister	students	attack	commission	committee	
+5	0.117	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism comes board for ITB Asia 2015 Travel Show
+0	0.002	league	win	team	game	city	set	
+1	0.002	world	film	year	cup	international	rugby	
+2	0.494	president	minister	france	blast	maldives	government	
+3	0.342	srilankan	airlines	percent	government	cargo	bond	
+4	0.043	police	minister	students	attack	commission	committee	
+5	0.118	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism showcase “One Island, Thousand Treasures” at  IFTM Travel Fair Paris , France 2015
+0	0.000	league	win	team	game	city	set	
+1	0.026	world	film	year	cup	international	rugby	
+2	0.203	president	minister	france	blast	maldives	government	
+3	0.210	srilankan	airlines	percent	government	cargo	bond	
+4	0.087	police	minister	students	attack	commission	committee	
+5	0.474	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Tourism Receipts touch $2.1 billion as at end September 2015
+0	0.002	league	win	team	game	city	set	
+1	0.040	world	film	year	cup	international	rugby	
+2	0.106	president	minister	france	blast	maldives	government	
+3	0.341	srilankan	airlines	percent	government	cargo	bond	
+4	0.028	police	minister	students	attack	commission	committee	
+5	0.484	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: The 1st ever Cruise Tourism Marketing Plan presented to the New Tourism Minister 
+0	0.001	league	win	team	game	city	set	
+1	0.015	world	film	year	cup	international	rugby	
+2	0.224	president	minister	france	blast	maldives	government	
+3	0.114	srilankan	airlines	percent	government	cargo	bond	
+4	0.141	police	minister	students	attack	commission	committee	
+5	0.505	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Tourism new ideas, new concepts and dreams- Sri Lanka must take the chance
+0	0.000	league	win	team	game	city	set	
+1	0.078	world	film	year	cup	international	rugby	
+2	0.001	president	minister	france	blast	maldives	government	
+3	0.375	srilankan	airlines	percent	government	cargo	bond	
+4	0.041	police	minister	students	attack	commission	committee	
+5	0.504	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism celebrate ‘World Tourism Day' to upgrade industry competitiveness
+0	0.000	league	win	team	game	city	set	
+1	0.159	world	film	year	cup	international	rugby	
+2	0.068	president	minister	france	blast	maldives	government	
+3	0.311	srilankan	airlines	percent	government	cargo	bond	
+4	0.113	police	minister	students	attack	commission	committee	
+5	0.348	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka ride the wave at Japan Tourism Expo 2015
+0	0.002	league	win	team	game	city	set	
+1	0.121	world	film	year	cup	international	rugby	
+2	0.265	president	minister	france	blast	maldives	government	
+3	0.079	srilankan	airlines	percent	government	cargo	bond	
+4	0.253	police	minister	students	attack	commission	committee	
+5	0.281	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Scandinavian markets grow by 32%: Sri Lanka Tourism focused marketing drive
+0	0.001	league	win	team	game	city	set	
+1	0.003	world	film	year	cup	international	rugby	
+2	0.296	president	minister	france	blast	maldives	government	
+3	0.186	srilankan	airlines	percent	government	cargo	bond	
+4	0.084	police	minister	students	attack	commission	committee	
+5	0.430	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Tourism Record in September: arrivals jump 35.9% to cross 1.3 million
+0	0.002	league	win	team	game	city	set	
+1	0.055	world	film	year	cup	international	rugby	
+2	0.067	president	minister	france	blast	maldives	government	
+3	0.057	srilankan	airlines	percent	government	cargo	bond	
+4	0.091	police	minister	students	attack	commission	committee	
+5	0.728	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism launches Community Aid Tourism with Olympic Gold medallion
+0	0.000	league	win	team	game	city	set	
+1	0.062	world	film	year	cup	international	rugby	
+2	0.002	president	minister	france	blast	maldives	government	
+3	0.176	srilankan	airlines	percent	government	cargo	bond	
+4	0.058	police	minister	students	attack	commission	committee	
+5	0.701	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism with Pink my Tuk launch Global Online video competition
+0	0.001	league	win	team	game	city	set	
+1	0.005	world	film	year	cup	international	rugby	
+2	0.060	president	minister	france	blast	maldives	government	
+3	0.301	srilankan	airlines	percent	government	cargo	bond	
+4	0.177	police	minister	students	attack	commission	committee	
+5	0.457	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka - Cultural focus country at Key Italian Travel Fair TTG
+0	0.001	league	win	team	game	city	set	
+1	0.026	world	film	year	cup	international	rugby	
+2	0.167	president	minister	france	blast	maldives	government	
+3	0.211	srilankan	airlines	percent	government	cargo	bond	
+4	0.112	police	minister	students	attack	commission	committee	
+5	0.483	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Mr and Miss UK commends Sri Lanka- Destination of the Year title
+0	0.002	league	win	team	game	city	set	
+1	0.047	world	film	year	cup	international	rugby	
+2	0.103	president	minister	france	blast	maldives	government	
+3	0.010	srilankan	airlines	percent	government	cargo	bond	
+4	0.355	police	minister	students	attack	commission	committee	
+5	0.483	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism to highlight the 1706th Esala Perahera at Japan JATA World Expo 2015
+0	0.001	league	win	team	game	city	set	
+1	0.003	world	film	year	cup	international	rugby	
+2	0.036	president	minister	france	blast	maldives	government	
+3	0.261	srilankan	airlines	percent	government	cargo	bond	
+4	0.029	police	minister	students	attack	commission	committee	
+5	0.670	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism enter China's growing religious tourism business     
+0	0.002	league	win	team	game	city	set	
+1	0.114	world	film	year	cup	international	rugby	
+2	0.033	president	minister	france	blast	maldives	government	
+3	0.309	srilankan	airlines	percent	government	cargo	bond	
+4	0.084	police	minister	students	attack	commission	committee	
+5	0.457	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism, Tea board and Sri Lankan Airlines quest for Guinness Record
+0	0.001	league	win	team	game	city	set	
+1	0.204	world	film	year	cup	international	rugby	
+2	0.110	president	minister	france	blast	maldives	government	
+3	0.296	srilankan	airlines	percent	government	cargo	bond	
+4	0.060	police	minister	students	attack	commission	committee	
+5	0.330	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism focussing on the $92 billion German source market
+0	0.000	league	win	team	game	city	set	
+1	0.139	world	film	year	cup	international	rugby	
+2	0.297	president	minister	france	blast	maldives	government	
+3	0.233	srilankan	airlines	percent	government	cargo	bond	
+4	0.040	police	minister	students	attack	commission	committee	
+5	0.291	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Change lives and win big with findmyfare.com’s Insta Booking Challenge
+0	0.001	league	win	team	game	city	set	
+1	0.226	world	film	year	cup	international	rugby	
+2	0.181	president	minister	france	blast	maldives	government	
+3	0.252	srilankan	airlines	percent	government	cargo	bond	
+4	0.065	police	minister	students	attack	commission	committee	
+5	0.276	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism blitz on Sony Six for Sanga Farewell
+0	0.001	league	win	team	game	city	set	
+1	0.457	world	film	year	cup	international	rugby	
+2	0.001	president	minister	france	blast	maldives	government	
+3	0.197	srilankan	airlines	percent	government	cargo	bond	
+4	0.096	police	minister	students	attack	commission	committee	
+5	0.248	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: NBA Kings forward Cousins suspended one game
+0	0.394	league	win	team	game	city	set	
+1	0.031	world	film	year	cup	international	rugby	
+2	0.034	president	minister	france	blast	maldives	government	
+3	0.206	srilankan	airlines	percent	government	cargo	bond	
+4	0.329	police	minister	students	attack	commission	committee	
+5	0.006	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Citroen to take a year out of world championship
+0	0.125	league	win	team	game	city	set	
+1	0.293	world	film	year	cup	international	rugby	
+2	0.010	president	minister	france	blast	maldives	government	
+3	0.335	srilankan	airlines	percent	government	cargo	bond	
+4	0.172	police	minister	students	attack	commission	committee	
+5	0.065	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Cotto says boxing win will be enough against Alvarez
+0	0.205	league	win	team	game	city	set	
+1	0.131	world	film	year	cup	international	rugby	
+2	0.079	president	minister	france	blast	maldives	government	
+3	0.202	srilankan	airlines	percent	government	cargo	bond	
+4	0.180	police	minister	students	attack	commission	committee	
+5	0.201	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Dominguez stripped of 2009 steeplechase world title
+0	0.025	league	win	team	game	city	set	
+1	0.380	world	film	year	cup	international	rugby	
+2	0.122	president	minister	france	blast	maldives	government	
+3	0.233	srilankan	airlines	percent	government	cargo	bond	
+4	0.237	police	minister	students	attack	commission	committee	
+5	0.003	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Record-seeking Vardy fighting to be fit for Leicester
+0	0.382	league	win	team	game	city	set	
+1	0.025	world	film	year	cup	international	rugby	
+2	0.049	president	minister	france	blast	maldives	government	
+3	0.262	srilankan	airlines	percent	government	cargo	bond	
+4	0.271	police	minister	students	attack	commission	committee	
+5	0.011	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Wenger calls for routine blood tests
+0	0.209	league	win	team	game	city	set	
+1	0.452	world	film	year	cup	international	rugby	
+2	0.005	president	minister	france	blast	maldives	government	
+3	0.155	srilankan	airlines	percent	government	cargo	bond	
+4	0.176	police	minister	students	attack	commission	committee	
+5	0.004	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: British captain Smith hints at Edmund debut in Davis Cup final
+0	0.318	league	win	team	game	city	set	
+1	0.144	world	film	year	cup	international	rugby	
+2	0.076	president	minister	france	blast	maldives	government	
+3	0.181	srilankan	airlines	percent	government	cargo	bond	
+4	0.248	police	minister	students	attack	commission	committee	
+5	0.033	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Federer repels Nishikori fightback to win group
+0	0.538	league	win	team	game	city	set	
+1	0.010	world	film	year	cup	international	rugby	
+2	0.078	president	minister	france	blast	maldives	government	
+3	0.132	srilankan	airlines	percent	government	cargo	bond	
+4	0.238	police	minister	students	attack	commission	committee	
+5	0.003	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Lomu to have public memorial, Queen sends condolences
+0	0.130	league	win	team	game	city	set	
+1	0.206	world	film	year	cup	international	rugby	
+2	0.171	president	minister	france	blast	maldives	government	
+3	0.052	srilankan	airlines	percent	government	cargo	bond	
+4	0.423	police	minister	students	attack	commission	committee	
+5	0.017	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Nadal
+0	0.379	league	win	team	game	city	set	
+1	0.264	world	film	year	cup	international	rugby	
+2	0.170	president	minister	france	blast	maldives	government	
+3	0.124	srilankan	airlines	percent	government	cargo	bond	
+4	0.047	police	minister	students	attack	commission	committee	
+5	0.015	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Australian Jones set to be appointed England coach 
+0	0.172	league	win	team	game	city	set	
+1	0.280	world	film	year	cup	international	rugby	
+2	0.126	president	minister	france	blast	maldives	government	
+3	0.111	srilankan	airlines	percent	government	cargo	bond	
+4	0.277	police	minister	students	attack	commission	committee	
+5	0.034	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Russia could miss world indoors as IAAF wants 
+0	0.043	league	win	team	game	city	set	
+1	0.492	world	film	year	cup	international	rugby	
+2	0.006	president	minister	france	blast	maldives	government	
+3	0.228	srilankan	airlines	percent	government	cargo	bond	
+4	0.205	police	minister	students	attack	commission	committee	
+5	0.028	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sturridge declares himself fit ahead of Man City clash
+0	0.176	league	win	team	game	city	set	
+1	0.128	world	film	year	cup	international	rugby	
+2	0.014	president	minister	france	blast	maldives	government	
+3	0.267	srilankan	airlines	percent	government	cargo	bond	
+4	0.353	police	minister	students	attack	commission	committee	
+5	0.061	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Messi return to reunite 
+0	0.421	league	win	team	game	city	set	
+1	0.140	world	film	year	cup	international	rugby	
+2	0.048	president	minister	france	blast	maldives	government	
+3	0.116	srilankan	airlines	percent	government	cargo	bond	
+4	0.236	police	minister	students	attack	commission	committee	
+5	0.040	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: NZ Rugby continues to mourn Lomu as McCaw retires
+0	0.281	league	win	team	game	city	set	
+1	0.206	world	film	year	cup	international	rugby	
+2	0.120	president	minister	france	blast	maldives	government	
+3	0.073	srilankan	airlines	percent	government	cargo	bond	
+4	0.205	police	minister	students	attack	commission	committee	
+5	0.116	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Man City
+0	0.432	league	win	team	game	city	set	
+1	0.005	world	film	year	cup	international	rugby	
+2	0.015	president	minister	france	blast	maldives	government	
+3	0.287	srilankan	airlines	percent	government	cargo	bond	
+4	0.249	police	minister	students	attack	commission	committee	
+5	0.012	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Wenger thanks England for support after Paris attacks
+0	0.015	league	win	team	game	city	set	
+1	0.220	world	film	year	cup	international	rugby	
+2	0.186	president	minister	france	blast	maldives	government	
+3	0.005	srilankan	airlines	percent	government	cargo	bond	
+4	0.303	police	minister	students	attack	commission	committee	
+5	0.270	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: I do 
+0	0.136	league	win	team	game	city	set	
+1	0.498	world	film	year	cup	international	rugby	
+2	0.001	president	minister	france	blast	maldives	government	
+3	0.060	srilankan	airlines	percent	government	cargo	bond	
+4	0.238	police	minister	students	attack	commission	committee	
+5	0.067	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Nadal cuts Murray down to size to reach semi-finals
+0	0.425	league	win	team	game	city	set	
+1	0.105	world	film	year	cup	international	rugby	
+2	0.013	president	minister	france	blast	maldives	government	
+3	0.060	srilankan	airlines	percent	government	cargo	bond	
+4	0.290	police	minister	students	attack	commission	committee	
+5	0.107	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Loan spells made me better player, says Arsenal
+0	0.249	league	win	team	game	city	set	
+1	0.155	world	film	year	cup	international	rugby	
+2	0.015	president	minister	france	blast	maldives	government	
+3	0.228	srilankan	airlines	percent	government	cargo	bond	
+4	0.349	police	minister	students	attack	commission	committee	
+5	0.003	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sterling has point to prove as Man City face Liverpool
+0	0.224	league	win	team	game	city	set	
+1	0.139	world	film	year	cup	international	rugby	
+2	0.057	president	minister	france	blast	maldives	government	
+3	0.150	srilankan	airlines	percent	government	cargo	bond	
+4	0.419	police	minister	students	attack	commission	committee	
+5	0.012	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Crushed by Lomu, but England united in grief at his death
+0	0.387	league	win	team	game	city	set	
+1	0.063	world	film	year	cup	international	rugby	
+2	0.046	president	minister	france	blast	maldives	government	
+3	0.012	srilankan	airlines	percent	government	cargo	bond	
+4	0.424	police	minister	students	attack	commission	committee	
+5	0.068	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Blatter, Platini lose appeals against provisional FIFA bans
+0	0.376	league	win	team	game	city	set	
+1	0.273	world	film	year	cup	international	rugby	
+2	0.014	president	minister	france	blast	maldives	government	
+3	0.119	srilankan	airlines	percent	government	cargo	bond	
+4	0.217	police	minister	students	attack	commission	committee	
+5	0.001	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: AdaDerana RSS
+0	0.006	league	win	team	game	city	set	
+1	0.126	world	film	year	cup	international	rugby	
+2	0.003	president	minister	france	blast	maldives	government	
+3	0.829	srilankan	airlines	percent	government	cargo	bond	
+4	0.025	police	minister	students	attack	commission	committee	
+5	0.011	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: 100,000 houses for slum dwellers
+0	0.006	league	win	team	game	city	set	
+1	0.037	world	film	year	cup	international	rugby	
+2	0.028	president	minister	france	blast	maldives	government	
+3	0.133	srilankan	airlines	percent	government	cargo	bond	
+4	0.736	police	minister	students	attack	commission	committee	
+5	0.060	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Taxes for leasing land to foreigners removed
+0	0.015	league	win	team	game	city	set	
+1	0.016	world	film	year	cup	international	rugby	
+2	0.020	president	minister	france	blast	maldives	government	
+3	0.476	srilankan	airlines	percent	government	cargo	bond	
+4	0.381	police	minister	students	attack	commission	committee	
+5	0.091	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: 50 licenses for duty free Gold importation
+0	0.283	league	win	team	game	city	set	
+1	0.070	world	film	year	cup	international	rugby	
+2	0.023	president	minister	france	blast	maldives	government	
+3	0.019	srilankan	airlines	percent	government	cargo	bond	
+4	0.058	police	minister	students	attack	commission	committee	
+5	0.547	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Rs. 1 million life insurance scheme for fishermen
+0	0.007	league	win	team	game	city	set	
+1	0.007	world	film	year	cup	international	rugby	
+2	0.014	president	minister	france	blast	maldives	government	
+3	0.618	srilankan	airlines	percent	government	cargo	bond	
+4	0.296	police	minister	students	attack	commission	committee	
+5	0.058	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: 400g Powdered Milk price reduced to Rs. 295
+0	0.046	league	win	team	game	city	set	
+1	0.014	world	film	year	cup	international	rugby	
+2	0.007	president	minister	france	blast	maldives	government	
+3	0.267	srilankan	airlines	percent	government	cargo	bond	
+4	0.050	police	minister	students	attack	commission	committee	
+5	0.617	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Certified price for rice
+0	0.005	league	win	team	game	city	set	
+1	0.006	world	film	year	cup	international	rugby	
+2	0.003	president	minister	france	blast	maldives	government	
+3	0.746	srilankan	airlines	percent	government	cargo	bond	
+4	0.022	police	minister	students	attack	commission	committee	
+5	0.218	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Entrepreneurs to get 50% income tax reduction
+0	0.005	league	win	team	game	city	set	
+1	0.267	world	film	year	cup	international	rugby	
+2	0.036	president	minister	france	blast	maldives	government	
+3	0.157	srilankan	airlines	percent	government	cargo	bond	
+4	0.064	police	minister	students	attack	commission	committee	
+5	0.471	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Gunmen take 170 hostage at Mali hotel 
+0	0.004	league	win	team	game	city	set	
+1	0.221	world	film	year	cup	international	rugby	
+2	0.015	president	minister	france	blast	maldives	government	
+3	0.186	srilankan	airlines	percent	government	cargo	bond	
+4	0.551	police	minister	students	attack	commission	committee	
+5	0.023	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: LIVE UPDATES- Budget 2016
+0	0.000	league	win	team	game	city	set	
+1	0.014	world	film	year	cup	international	rugby	
+2	0.220	president	minister	france	blast	maldives	government	
+3	0.411	srilankan	airlines	percent	government	cargo	bond	
+4	0.187	police	minister	students	attack	commission	committee	
+5	0.168	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: PM wants to consolidate economic relations with Bangladesh
+0	0.002	league	win	team	game	city	set	
+1	0.041	world	film	year	cup	international	rugby	
+2	0.060	president	minister	france	blast	maldives	government	
+3	0.372	srilankan	airlines	percent	government	cargo	bond	
+4	0.348	police	minister	students	attack	commission	committee	
+5	0.177	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Sarath Kumara Gunaratne released on bail
+0	0.033	league	win	team	game	city	set	
+1	0.006	world	film	year	cup	international	rugby	
+2	0.102	president	minister	france	blast	maldives	government	
+3	0.009	srilankan	airlines	percent	government	cargo	bond	
+4	0.841	police	minister	students	attack	commission	committee	
+5	0.009	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Questions over floating armoury in Indian territorial waters
+0	0.104	league	win	team	game	city	set	
+1	0.013	world	film	year	cup	international	rugby	
+2	0.280	president	minister	france	blast	maldives	government	
+3	0.019	srilankan	airlines	percent	government	cargo	bond	
+4	0.582	police	minister	students	attack	commission	committee	
+5	0.002	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Hasitha Thilakeratne appointed CAA chairman
+0	0.015	league	win	team	game	city	set	
+1	0.345	world	film	year	cup	international	rugby	
+2	0.020	president	minister	france	blast	maldives	government	
+3	0.247	srilankan	airlines	percent	government	cargo	bond	
+4	0.108	police	minister	students	attack	commission	committee	
+5	0.266	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Ex-President arrives at PRECIFAC
+0	0.006	league	win	team	game	city	set	
+1	0.060	world	film	year	cup	international	rugby	
+2	0.014	president	minister	france	blast	maldives	government	
+3	0.242	srilankan	airlines	percent	government	cargo	bond	
+4	0.659	police	minister	students	attack	commission	committee	
+5	0.020	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Macedonia bars refugees from Sri Lanka
+0	0.027	league	win	team	game	city	set	
+1	0.296	world	film	year	cup	international	rugby	
+2	0.068	president	minister	france	blast	maldives	government	
+3	0.123	srilankan	airlines	percent	government	cargo	bond	
+4	0.458	police	minister	students	attack	commission	committee	
+5	0.028	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Paris attacks- Abdelhamid Abaaoud 'died in Saint Denis raid'
+0	0.007	league	win	team	game	city	set	
+1	0.083	world	film	year	cup	international	rugby	
+2	0.449	president	minister	france	blast	maldives	government	
+3	0.117	srilankan	airlines	percent	government	cargo	bond	
+4	0.330	police	minister	students	attack	commission	committee	
+5	0.015	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Police makes arrest over Maldives man assault
+0	0.042	league	win	team	game	city	set	
+1	0.003	world	film	year	cup	international	rugby	
+2	0.116	president	minister	france	blast	maldives	government	
+3	0.252	srilankan	airlines	percent	government	cargo	bond	
+4	0.580	police	minister	students	attack	commission	committee	
+5	0.007	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: Akila explains why voucher system for school uniforms is better
+0	0.007	league	win	team	game	city	set	
+1	0.096	world	film	year	cup	international	rugby	
+2	0.011	president	minister	france	blast	maldives	government	
+3	0.371	srilankan	airlines	percent	government	cargo	bond	
+4	0.156	police	minister	students	attack	commission	committee	
+5	0.359	athukorala	country	world	chairman	million	bureau	
+top 6 words in each topic with proportions for document: New  Ambassadors and High Commissioners appointed
+0	0.003	league	win	team	game	city	set	
+1	0.002	world	film	year	cup	international	rugby	
+2	0.002	president	minister	france	blast	maldives	government	
+3	0.158	srilankan	airlines	percent	government	cargo	bond	
+4	0.464	police	minister	students	attack	commission	committee	
+5	0.370	athukorala	country	world	chairman	million	bureau	

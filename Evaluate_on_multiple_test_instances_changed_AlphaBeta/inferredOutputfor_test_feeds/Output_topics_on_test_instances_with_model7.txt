@@ -1,0 +1,1705 @@
+Model LogLikelihood : -123142.57666856339
+top 6 words in each topic with proportions for document: Video: Spectacular breakup of WT1190F seen by team of Airborne Astronomers
+0	0.000	percent	country	government	issue	bond	bank	
+1	0.250	police	minister	president	students	prime	government	
+2	0.000	film	cinema	festival	world	films	hollywood	
+3	0.242	magistrate	police	arrested	seenigama	today	people	
+4	0.076	athukorala	country	world	travel	chairman	bureau	
+5	0.091	team	league	win	world	year	game	
+6	0.340	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Video: SLFP can’t win under current chairman: Lohan
+0	0.001	percent	country	government	issue	bond	bank	
+1	0.274	police	minister	president	students	prime	government	
+2	0.001	film	cinema	festival	world	films	hollywood	
+3	0.468	magistrate	police	arrested	seenigama	today	people	
+4	0.215	athukorala	country	world	travel	chairman	bureau	
+5	0.001	team	league	win	world	year	game	
+6	0.040	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Video: 24 ex-LTTEers released on bail
+0	0.001	percent	country	government	issue	bond	bank	
+1	0.162	police	minister	president	students	prime	government	
+2	0.001	film	cinema	festival	world	films	hollywood	
+3	0.703	magistrate	police	arrested	seenigama	today	people	
+4	0.034	athukorala	country	world	travel	chairman	bureau	
+5	0.098	team	league	win	world	year	game	
+6	0.001	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Circular issued against adding sugar into tea
+0	0.000	percent	country	government	issue	bond	bank	
+1	0.063	police	minister	president	students	prime	government	
+2	0.000	film	cinema	festival	world	films	hollywood	
+3	0.000	magistrate	police	arrested	seenigama	today	people	
+4	0.048	athukorala	country	world	travel	chairman	bureau	
+5	0.880	team	league	win	world	year	game	
+6	0.008	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Video: JVP sued by Wijeweera's wife Chitranganie
+0	0.000	percent	country	government	issue	bond	bank	
+1	0.584	police	minister	president	students	prime	government	
+2	0.000	film	cinema	festival	world	films	hollywood	
+3	0.076	magistrate	police	arrested	seenigama	today	people	
+4	0.048	athukorala	country	world	travel	chairman	bureau	
+5	0.254	team	league	win	world	year	game	
+6	0.038	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Lankan mother deemed a security threat, freed
+0	0.017	percent	country	government	issue	bond	bank	
+1	0.771	police	minister	president	students	prime	government	
+2	0.004	film	cinema	festival	world	films	hollywood	
+3	0.055	magistrate	police	arrested	seenigama	today	people	
+4	0.072	athukorala	country	world	travel	chairman	bureau	
+5	0.055	team	league	win	world	year	game	
+6	0.025	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: No space debris sighted
+0	0.022	percent	country	government	issue	bond	bank	
+1	0.109	police	minister	president	students	prime	government	
+2	0.022	film	cinema	festival	world	films	hollywood	
+3	0.389	magistrate	police	arrested	seenigama	today	people	
+4	0.001	athukorala	country	world	travel	chairman	bureau	
+5	0.044	team	league	win	world	year	game	
+6	0.411	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Video: Northern hartal still underway
+0	0.001	percent	country	government	issue	bond	bank	
+1	0.310	police	minister	president	students	prime	government	
+2	0.001	film	cinema	festival	world	films	hollywood	
+3	0.111	magistrate	police	arrested	seenigama	today	people	
+4	0.045	athukorala	country	world	travel	chairman	bureau	
+5	0.134	team	league	win	world	year	game	
+6	0.398	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Suu Kyi's National League wins majority in Myanmar
+0	0.009	percent	country	government	issue	bond	bank	
+1	0.567	police	minister	president	students	prime	government	
+2	0.043	film	cinema	festival	world	films	hollywood	
+3	0.026	magistrate	police	arrested	seenigama	today	people	
+4	0.119	athukorala	country	world	travel	chairman	bureau	
+5	0.144	team	league	win	world	year	game	
+6	0.093	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Summons on MR by Commercial High Court
+0	0.002	percent	country	government	issue	bond	bank	
+1	0.540	police	minister	president	students	prime	government	
+2	0.002	film	cinema	festival	world	films	hollywood	
+3	0.091	magistrate	police	arrested	seenigama	today	people	
+4	0.003	athukorala	country	world	travel	chairman	bureau	
+5	0.182	team	league	win	world	year	game	
+6	0.181	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Navy begins transfer of Avant Garde weapons
+0	0.001	percent	country	government	issue	bond	bank	
+1	0.471	police	minister	president	students	prime	government	
+2	0.027	film	cinema	festival	world	films	hollywood	
+3	0.053	magistrate	police	arrested	seenigama	today	people	
+4	0.028	athukorala	country	world	travel	chairman	bureau	
+5	0.132	team	league	win	world	year	game	
+6	0.288	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Avant Garde press briefing called off
+0	0.000	percent	country	government	issue	bond	bank	
+1	0.344	police	minister	president	students	prime	government	
+2	0.069	film	cinema	festival	world	films	hollywood	
+3	0.301	magistrate	police	arrested	seenigama	today	people	
+4	0.026	athukorala	country	world	travel	chairman	bureau	
+5	0.129	team	league	win	world	year	game	
+6	0.129	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Postal union announces sick note campaign
+0	0.001	percent	country	government	issue	bond	bank	
+1	0.619	police	minister	president	students	prime	government	
+2	0.045	film	cinema	festival	world	films	hollywood	
+3	0.089	magistrate	police	arrested	seenigama	today	people	
+4	0.023	athukorala	country	world	travel	chairman	bureau	
+5	0.200	team	league	win	world	year	game	
+6	0.023	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Video: President calls for full report from IGP
+0	0.114	percent	country	government	issue	bond	bank	
+1	0.201	police	minister	president	students	prime	government	
+2	0.118	film	cinema	festival	world	films	hollywood	
+3	0.119	magistrate	police	arrested	seenigama	today	people	
+4	0.172	athukorala	country	world	travel	chairman	bureau	
+5	0.164	team	league	win	world	year	game	
+6	0.111	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: 60-year-old found dead with stab injuries
+0	0.003	percent	country	government	issue	bond	bank	
+1	0.461	police	minister	president	students	prime	government	
+2	0.263	film	cinema	festival	world	films	hollywood	
+3	0.068	magistrate	police	arrested	seenigama	today	people	
+4	0.069	athukorala	country	world	travel	chairman	bureau	
+5	0.004	team	league	win	world	year	game	
+6	0.133	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Colombo DC refuses to restrain UNP leadership
+0	0.020	percent	country	government	issue	bond	bank	
+1	0.362	police	minister	president	students	prime	government	
+2	0.000	film	cinema	festival	world	films	hollywood	
+3	0.225	magistrate	police	arrested	seenigama	today	people	
+4	0.079	athukorala	country	world	travel	chairman	bureau	
+5	0.108	team	league	win	world	year	game	
+6	0.206	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Video: Stage set for 'Snoopy' spectacle
+0	0.114	percent	country	government	issue	bond	bank	
+1	0.201	police	minister	president	students	prime	government	
+2	0.118	film	cinema	festival	world	films	hollywood	
+3	0.119	magistrate	police	arrested	seenigama	today	people	
+4	0.172	athukorala	country	world	travel	chairman	bureau	
+5	0.164	team	league	win	world	year	game	
+6	0.111	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Video: No-fly zone declared tomorrow
+0	0.314	percent	country	government	issue	bond	bank	
+1	0.148	police	minister	president	students	prime	government	
+2	0.056	film	cinema	festival	world	films	hollywood	
+3	0.203	magistrate	police	arrested	seenigama	today	people	
+4	0.112	athukorala	country	world	travel	chairman	bureau	
+5	0.056	team	league	win	world	year	game	
+6	0.111	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Video: President vows to abolish Executive Presidency
+0	0.387	percent	country	government	issue	bond	bank	
+1	0.217	police	minister	president	students	prime	government	
+2	0.045	film	cinema	festival	world	films	hollywood	
+3	0.002	magistrate	police	arrested	seenigama	today	people	
+4	0.174	athukorala	country	world	travel	chairman	bureau	
+5	0.174	team	league	win	world	year	game	
+6	0.002	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Coal: South Africa to provide concession
+0	0.464	percent	country	government	issue	bond	bank	
+1	0.056	police	minister	president	students	prime	government	
+2	0.082	film	cinema	festival	world	films	hollywood	
+3	0.069	magistrate	police	arrested	seenigama	today	people	
+4	0.151	athukorala	country	world	travel	chairman	bureau	
+5	0.110	team	league	win	world	year	game	
+6	0.069	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Alibaba’s ‘Singles Day’ shopping spree
+0	0.397	percent	country	government	issue	bond	bank	
+1	0.200	police	minister	president	students	prime	government	
+2	0.100	film	cinema	festival	world	films	hollywood	
+3	0.100	magistrate	police	arrested	seenigama	today	people	
+4	0.101	athukorala	country	world	travel	chairman	bureau	
+5	0.002	team	league	win	world	year	game	
+6	0.100	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: GE gets largest deal in 100-year history in India
+0	0.507	percent	country	government	issue	bond	bank	
+1	0.058	police	minister	president	students	prime	government	
+2	0.038	film	cinema	festival	world	films	hollywood	
+3	0.057	magistrate	police	arrested	seenigama	today	people	
+4	0.189	athukorala	country	world	travel	chairman	bureau	
+5	0.057	team	league	win	world	year	game	
+6	0.094	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Agreement signed for Ceylon tea global campaign 
+0	0.388	percent	country	government	issue	bond	bank	
+1	0.079	police	minister	president	students	prime	government	
+2	0.122	film	cinema	festival	world	films	hollywood	
+3	0.065	magistrate	police	arrested	seenigama	today	people	
+4	0.137	athukorala	country	world	travel	chairman	bureau	
+5	0.187	team	league	win	world	year	game	
+6	0.022	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Virtusa-Polaris deal to bring more business for Lankan operations  
+0	0.518	percent	country	government	issue	bond	bank	
+1	0.061	police	minister	president	students	prime	government	
+2	0.064	film	cinema	festival	world	films	hollywood	
+3	0.042	magistrate	police	arrested	seenigama	today	people	
+4	0.163	athukorala	country	world	travel	chairman	bureau	
+5	0.110	team	league	win	world	year	game	
+6	0.042	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Coconut Water as energy drink
+0	0.726	percent	country	government	issue	bond	bank	
+1	0.074	police	minister	president	students	prime	government	
+2	0.001	film	cinema	festival	world	films	hollywood	
+3	0.025	magistrate	police	arrested	seenigama	today	people	
+4	0.098	athukorala	country	world	travel	chairman	bureau	
+5	0.074	team	league	win	world	year	game	
+6	0.001	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Western Megapolis development plan to be launched in February 
+0	0.487	percent	country	government	issue	bond	bank	
+1	0.139	police	minister	president	students	prime	government	
+2	0.039	film	cinema	festival	world	films	hollywood	
+3	0.061	magistrate	police	arrested	seenigama	today	people	
+4	0.118	athukorala	country	world	travel	chairman	bureau	
+5	0.109	team	league	win	world	year	game	
+6	0.046	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Massive increase in tax revenues from budget 2016  
+0	0.450	percent	country	government	issue	bond	bank	
+1	0.053	police	minister	president	students	prime	government	
+2	0.013	film	cinema	festival	world	films	hollywood	
+3	0.039	magistrate	police	arrested	seenigama	today	people	
+4	0.098	athukorala	country	world	travel	chairman	bureau	
+5	0.053	team	league	win	world	year	game	
+6	0.294	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Anantaya promises unmatched dining experience 
+0	0.048	percent	country	government	issue	bond	bank	
+1	0.034	police	minister	president	students	prime	government	
+2	0.015	film	cinema	festival	world	films	hollywood	
+3	0.039	magistrate	police	arrested	seenigama	today	people	
+4	0.082	athukorala	country	world	travel	chairman	bureau	
+5	0.073	team	league	win	world	year	game	
+6	0.709	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: SriLankan expands reach in Central Asia with Siberian Airlines 
+0	0.107	percent	country	government	issue	bond	bank	
+1	0.042	police	minister	president	students	prime	government	
+2	0.024	film	cinema	festival	world	films	hollywood	
+3	0.018	magistrate	police	arrested	seenigama	today	people	
+4	0.201	athukorala	country	world	travel	chairman	bureau	
+5	0.113	team	league	win	world	year	game	
+6	0.496	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Experience the sensational Seychelles with SriLankan Holidays 
+0	0.041	percent	country	government	issue	bond	bank	
+1	0.062	police	minister	president	students	prime	government	
+2	0.027	film	cinema	festival	world	films	hollywood	
+3	0.021	magistrate	police	arrested	seenigama	today	people	
+4	0.163	athukorala	country	world	travel	chairman	bureau	
+5	0.055	team	league	win	world	year	game	
+6	0.631	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: 100 kg to over 100 cities with SriLankan Cargo’s “Bag-It” 
+0	0.133	percent	country	government	issue	bond	bank	
+1	0.036	police	minister	president	students	prime	government	
+2	0.026	film	cinema	festival	world	films	hollywood	
+3	0.026	magistrate	police	arrested	seenigama	today	people	
+4	0.123	athukorala	country	world	travel	chairman	bureau	
+5	0.062	team	league	win	world	year	game	
+6	0.594	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: SriLankan Airlines SimNet wins ICT Award 
+0	0.081	percent	country	government	issue	bond	bank	
+1	0.067	police	minister	president	students	prime	government	
+2	0.033	film	cinema	festival	world	films	hollywood	
+3	0.038	magistrate	police	arrested	seenigama	today	people	
+4	0.219	athukorala	country	world	travel	chairman	bureau	
+5	0.076	team	league	win	world	year	game	
+6	0.485	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: ILFC and SriLankan Airlines sign 12-year lease agreement for three A350-900s 
+0	0.066	percent	country	government	issue	bond	bank	
+1	0.066	police	minister	president	students	prime	government	
+2	0.058	film	cinema	festival	world	films	hollywood	
+3	0.025	magistrate	police	arrested	seenigama	today	people	
+4	0.564	athukorala	country	world	travel	chairman	bureau	
+5	0.131	team	league	win	world	year	game	
+6	0.090	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism showcases at World Travel Mart  London with 64 Industry Partners
+0	0.093	percent	country	government	issue	bond	bank	
+1	0.088	police	minister	president	students	prime	government	
+2	0.108	film	cinema	festival	world	films	hollywood	
+3	0.011	magistrate	police	arrested	seenigama	today	people	
+4	0.417	athukorala	country	world	travel	chairman	bureau	
+5	0.098	team	league	win	world	year	game	
+6	0.185	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism comes board for ITB Asia 2015 Travel Show
+0	0.167	percent	country	government	issue	bond	bank	
+1	0.052	police	minister	president	students	prime	government	
+2	0.109	film	cinema	festival	world	films	hollywood	
+3	0.057	magistrate	police	arrested	seenigama	today	people	
+4	0.401	athukorala	country	world	travel	chairman	bureau	
+5	0.063	team	league	win	world	year	game	
+6	0.151	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism showcase “One Island, Thousand Treasures” at  IFTM Travel Fair Paris , France 2015
+0	0.086	percent	country	government	issue	bond	bank	
+1	0.069	police	minister	president	students	prime	government	
+2	0.063	film	cinema	festival	world	films	hollywood	
+3	0.039	magistrate	police	arrested	seenigama	today	people	
+4	0.511	athukorala	country	world	travel	chairman	bureau	
+5	0.088	team	league	win	world	year	game	
+6	0.144	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Tourism Receipts touch $2.1 billion as at end September 2015
+0	0.128	percent	country	government	issue	bond	bank	
+1	0.103	police	minister	president	students	prime	government	
+2	0.026	film	cinema	festival	world	films	hollywood	
+3	0.026	magistrate	police	arrested	seenigama	today	people	
+4	0.510	athukorala	country	world	travel	chairman	bureau	
+5	0.129	team	league	win	world	year	game	
+6	0.077	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: The 1st ever Cruise Tourism Marketing Plan presented to the New Tourism Minister 
+0	0.148	percent	country	government	issue	bond	bank	
+1	0.062	police	minister	president	students	prime	government	
+2	0.077	film	cinema	festival	world	films	hollywood	
+3	0.029	magistrate	police	arrested	seenigama	today	people	
+4	0.530	athukorala	country	world	travel	chairman	bureau	
+5	0.062	team	league	win	world	year	game	
+6	0.091	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Tourism new ideas, new concepts and dreams- Sri Lanka must take the chance
+0	0.205	percent	country	government	issue	bond	bank	
+1	0.079	police	minister	president	students	prime	government	
+2	0.063	film	cinema	festival	world	films	hollywood	
+3	0.091	magistrate	police	arrested	seenigama	today	people	
+4	0.358	athukorala	country	world	travel	chairman	bureau	
+5	0.091	team	league	win	world	year	game	
+6	0.114	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism celebrate ‘World Tourism Day' to upgrade industry competitiveness
+0	0.163	percent	country	government	issue	bond	bank	
+1	0.091	police	minister	president	students	prime	government	
+2	0.057	film	cinema	festival	world	films	hollywood	
+3	0.270	magistrate	police	arrested	seenigama	today	people	
+4	0.248	athukorala	country	world	travel	chairman	bureau	
+5	0.076	team	league	win	world	year	game	
+6	0.094	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka ride the wave at Japan Tourism Expo 2015
+0	0.133	percent	country	government	issue	bond	bank	
+1	0.150	police	minister	president	students	prime	government	
+2	0.050	film	cinema	festival	world	films	hollywood	
+3	0.249	magistrate	police	arrested	seenigama	today	people	
+4	0.250	athukorala	country	world	travel	chairman	bureau	
+5	0.051	team	league	win	world	year	game	
+6	0.117	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Scandinavian markets grow by 32%: Sri Lanka Tourism focused marketing drive
+0	0.169	percent	country	government	issue	bond	bank	
+1	0.187	police	minister	president	students	prime	government	
+2	0.051	film	cinema	festival	world	films	hollywood	
+3	0.085	magistrate	police	arrested	seenigama	today	people	
+4	0.422	athukorala	country	world	travel	chairman	bureau	
+5	0.018	team	league	win	world	year	game	
+6	0.068	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Tourism Record in September: arrivals jump 35.9% to cross 1.3 million
+0	0.265	percent	country	government	issue	bond	bank	
+1	0.024	police	minister	president	students	prime	government	
+2	0.067	film	cinema	festival	world	films	hollywood	
+3	0.155	magistrate	police	arrested	seenigama	today	people	
+4	0.376	athukorala	country	world	travel	chairman	bureau	
+5	0.045	team	league	win	world	year	game	
+6	0.067	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism launches Community Aid Tourism with Olympic Gold medallion
+0	0.132	percent	country	government	issue	bond	bank	
+1	0.079	police	minister	president	students	prime	government	
+2	0.061	film	cinema	festival	world	films	hollywood	
+3	0.070	magistrate	police	arrested	seenigama	today	people	
+4	0.494	athukorala	country	world	travel	chairman	bureau	
+5	0.062	team	league	win	world	year	game	
+6	0.102	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism with Pink my Tuk launch Global Online video competition
+0	0.143	percent	country	government	issue	bond	bank	
+1	0.100	police	minister	president	students	prime	government	
+2	0.079	film	cinema	festival	world	films	hollywood	
+3	0.118	magistrate	police	arrested	seenigama	today	people	
+4	0.380	athukorala	country	world	travel	chairman	bureau	
+5	0.054	team	league	win	world	year	game	
+6	0.125	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka - Cultural focus country at Key Italian Travel Fair TTG
+0	0.105	percent	country	government	issue	bond	bank	
+1	0.087	police	minister	president	students	prime	government	
+2	0.080	film	cinema	festival	world	films	hollywood	
+3	0.045	magistrate	police	arrested	seenigama	today	people	
+4	0.467	athukorala	country	world	travel	chairman	bureau	
+5	0.066	team	league	win	world	year	game	
+6	0.150	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Mr and Miss UK commends Sri Lanka- Destination of the Year title
+0	0.090	percent	country	government	issue	bond	bank	
+1	0.194	police	minister	president	students	prime	government	
+2	0.060	film	cinema	festival	world	films	hollywood	
+3	0.030	magistrate	police	arrested	seenigama	today	people	
+4	0.476	athukorala	country	world	travel	chairman	bureau	
+5	0.120	team	league	win	world	year	game	
+6	0.030	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism to highlight the 1706th Esala Perahera at Japan JATA World Expo 2015
+0	0.091	percent	country	government	issue	bond	bank	
+1	0.061	police	minister	president	students	prime	government	
+2	0.065	film	cinema	festival	world	films	hollywood	
+3	0.052	magistrate	police	arrested	seenigama	today	people	
+4	0.543	athukorala	country	world	travel	chairman	bureau	
+5	0.057	team	league	win	world	year	game	
+6	0.130	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism enter China's growing religious tourism business     
+0	0.174	percent	country	government	issue	bond	bank	
+1	0.052	police	minister	president	students	prime	government	
+2	0.067	film	cinema	festival	world	films	hollywood	
+3	0.051	magistrate	police	arrested	seenigama	today	people	
+4	0.466	athukorala	country	world	travel	chairman	bureau	
+5	0.072	team	league	win	world	year	game	
+6	0.118	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism, Tea board and Sri Lankan Airlines quest for Guinness Record
+0	0.162	percent	country	government	issue	bond	bank	
+1	0.086	police	minister	president	students	prime	government	
+2	0.112	film	cinema	festival	world	films	hollywood	
+3	0.033	magistrate	police	arrested	seenigama	today	people	
+4	0.392	athukorala	country	world	travel	chairman	bureau	
+5	0.142	team	league	win	world	year	game	
+6	0.073	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism focussing on the $92 billion German source market
+0	0.146	percent	country	government	issue	bond	bank	
+1	0.073	police	minister	president	students	prime	government	
+2	0.241	film	cinema	festival	world	films	hollywood	
+3	0.044	magistrate	police	arrested	seenigama	today	people	
+4	0.354	athukorala	country	world	travel	chairman	bureau	
+5	0.051	team	league	win	world	year	game	
+6	0.091	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Change lives and win big with findmyfare.com’s Insta Booking Challenge
+0	0.083	percent	country	government	issue	bond	bank	
+1	0.066	police	minister	president	students	prime	government	
+2	0.193	film	cinema	festival	world	films	hollywood	
+3	0.052	magistrate	police	arrested	seenigama	today	people	
+4	0.335	athukorala	country	world	travel	chairman	bureau	
+5	0.130	team	league	win	world	year	game	
+6	0.141	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism blitz on Sony Six for Sanga Farewell
+0	0.106	percent	country	government	issue	bond	bank	
+1	0.073	police	minister	president	students	prime	government	
+2	0.106	film	cinema	festival	world	films	hollywood	
+3	0.029	magistrate	police	arrested	seenigama	today	people	
+4	0.261	athukorala	country	world	travel	chairman	bureau	
+5	0.294	team	league	win	world	year	game	
+6	0.130	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Warriors move to franchise best 10-0 start
+0	0.050	percent	country	government	issue	bond	bank	
+1	0.128	police	minister	president	students	prime	government	
+2	0.045	film	cinema	festival	world	films	hollywood	
+3	0.128	magistrate	police	arrested	seenigama	today	people	
+4	0.056	athukorala	country	world	travel	chairman	bureau	
+5	0.510	team	league	win	world	year	game	
+6	0.083	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Argentina wary of 
+0	0.068	percent	country	government	issue	bond	bank	
+1	0.050	police	minister	president	students	prime	government	
+2	0.025	film	cinema	festival	world	films	hollywood	
+3	0.148	magistrate	police	arrested	seenigama	today	people	
+4	0.068	athukorala	country	world	travel	chairman	bureau	
+5	0.616	team	league	win	world	year	game	
+6	0.025	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Hamilton shakes off illness to realise childhood dream
+0	0.052	percent	country	government	issue	bond	bank	
+1	0.109	police	minister	president	students	prime	government	
+2	0.035	film	cinema	festival	world	films	hollywood	
+3	0.096	magistrate	police	arrested	seenigama	today	people	
+4	0.109	athukorala	country	world	travel	chairman	bureau	
+5	0.476	team	league	win	world	year	game	
+6	0.122	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Uruguay sunk as perfect Ecuador march on
+0	0.063	percent	country	government	issue	bond	bank	
+1	0.058	police	minister	president	students	prime	government	
+2	0.052	film	cinema	festival	world	films	hollywood	
+3	0.075	magistrate	police	arrested	seenigama	today	people	
+4	0.058	athukorala	country	world	travel	chairman	bureau	
+5	0.591	team	league	win	world	year	game	
+6	0.103	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Rodriguez snatches draw for Colombia in Chile
+0	0.086	percent	country	government	issue	bond	bank	
+1	0.046	police	minister	president	students	prime	government	
+2	0.046	film	cinema	festival	world	films	hollywood	
+3	0.063	magistrate	police	arrested	seenigama	today	people	
+4	0.075	athukorala	country	world	travel	chairman	bureau	
+5	0.637	team	league	win	world	year	game	
+6	0.046	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Eddie Jones takes the reins of Western Stormers
+0	0.187	percent	country	government	issue	bond	bank	
+1	0.091	police	minister	president	students	prime	government	
+2	0.051	film	cinema	festival	world	films	hollywood	
+3	0.034	magistrate	police	arrested	seenigama	today	people	
+4	0.142	athukorala	country	world	travel	chairman	bureau	
+5	0.426	team	league	win	world	year	game	
+6	0.068	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Alonso says he has been in 
+0	0.099	percent	country	government	issue	bond	bank	
+1	0.050	police	minister	president	students	prime	government	
+2	0.058	film	cinema	festival	world	films	hollywood	
+3	0.009	magistrate	police	arrested	seenigama	today	people	
+4	0.157	athukorala	country	world	travel	chairman	bureau	
+5	0.495	team	league	win	world	year	game	
+6	0.132	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Japan
+0	0.080	percent	country	government	issue	bond	bank	
+1	0.075	police	minister	president	students	prime	government	
+2	0.035	film	cinema	festival	world	films	hollywood	
+3	0.140	magistrate	police	arrested	seenigama	today	people	
+4	0.175	athukorala	country	world	travel	chairman	bureau	
+5	0.395	team	league	win	world	year	game	
+6	0.100	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: New Zealand says won
+0	0.094	percent	country	government	issue	bond	bank	
+1	0.110	police	minister	president	students	prime	government	
+2	0.032	film	cinema	festival	world	films	hollywood	
+3	0.032	magistrate	police	arrested	seenigama	today	people	
+4	0.079	athukorala	country	world	travel	chairman	bureau	
+5	0.560	team	league	win	world	year	game	
+6	0.094	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Djokovic aiming to end golden year with a bang
+0	0.058	percent	country	government	issue	bond	bank	
+1	0.049	police	minister	president	students	prime	government	
+2	0.093	film	cinema	festival	world	films	hollywood	
+3	0.040	magistrate	police	arrested	seenigama	today	people	
+4	0.147	athukorala	country	world	travel	chairman	bureau	
+5	0.559	team	league	win	world	year	game	
+6	0.053	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Lorenzo suffers burns during title celebration
+0	0.025	percent	country	government	issue	bond	bank	
+1	0.173	police	minister	president	students	prime	government	
+2	0.037	film	cinema	festival	world	films	hollywood	
+3	0.025	magistrate	police	arrested	seenigama	today	people	
+4	0.136	athukorala	country	world	travel	chairman	bureau	
+5	0.578	team	league	win	world	year	game	
+6	0.025	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Bryant reigns, but Lakers lose at Madison Square Garden
+0	0.063	percent	country	government	issue	bond	bank	
+1	0.082	police	minister	president	students	prime	government	
+2	0.089	film	cinema	festival	world	films	hollywood	
+3	0.026	magistrate	police	arrested	seenigama	today	people	
+4	0.107	athukorala	country	world	travel	chairman	bureau	
+5	0.577	team	league	win	world	year	game	
+6	0.056	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: England have potential but lack organisation 
+0	0.027	percent	country	government	issue	bond	bank	
+1	0.089	police	minister	president	students	prime	government	
+2	0.034	film	cinema	festival	world	films	hollywood	
+3	0.041	magistrate	police	arrested	seenigama	today	people	
+4	0.136	athukorala	country	world	travel	chairman	bureau	
+5	0.591	team	league	win	world	year	game	
+6	0.082	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Hamilton feeling good after fever and accident
+0	0.049	percent	country	government	issue	bond	bank	
+1	0.119	police	minister	president	students	prime	government	
+2	0.070	film	cinema	festival	world	films	hollywood	
+3	0.038	magistrate	police	arrested	seenigama	today	people	
+4	0.146	athukorala	country	world	travel	chairman	bureau	
+5	0.491	team	league	win	world	year	game	
+6	0.087	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Djokovic aiming to end golden year with a bang
+0	0.058	percent	country	government	issue	bond	bank	
+1	0.049	police	minister	president	students	prime	government	
+2	0.093	film	cinema	festival	world	films	hollywood	
+3	0.040	magistrate	police	arrested	seenigama	today	people	
+4	0.147	athukorala	country	world	travel	chairman	bureau	
+5	0.559	team	league	win	world	year	game	
+6	0.053	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Kompany out of Belgium’s friendlies with Italy and Spain
+0	0.045	percent	country	government	issue	bond	bank	
+1	0.113	police	minister	president	students	prime	government	
+2	0.235	film	cinema	festival	world	films	hollywood	
+3	0.056	magistrate	police	arrested	seenigama	today	people	
+4	0.090	athukorala	country	world	travel	chairman	bureau	
+5	0.426	team	league	win	world	year	game	
+6	0.034	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Coe in the spotlight as world athletics ponders Russia ban
+0	0.054	percent	country	government	issue	bond	bank	
+1	0.117	police	minister	president	students	prime	government	
+2	0.186	film	cinema	festival	world	films	hollywood	
+3	0.047	magistrate	police	arrested	seenigama	today	people	
+4	0.126	athukorala	country	world	travel	chairman	bureau	
+5	0.407	team	league	win	world	year	game	
+6	0.063	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Vettel sees 
+0	0.071	percent	country	government	issue	bond	bank	
+1	0.090	police	minister	president	students	prime	government	
+2	0.135	film	cinema	festival	world	films	hollywood	
+3	0.083	magistrate	police	arrested	seenigama	today	people	
+4	0.109	athukorala	country	world	travel	chairman	bureau	
+5	0.422	team	league	win	world	year	game	
+6	0.090	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: England to rest Rooney for Spain clash, Vardy injured
+0	0.039	percent	country	government	issue	bond	bank	
+1	0.093	police	minister	president	students	prime	government	
+2	0.062	film	cinema	festival	world	films	hollywood	
+3	0.046	magistrate	police	arrested	seenigama	today	people	
+4	0.162	athukorala	country	world	travel	chairman	bureau	
+5	0.491	team	league	win	world	year	game	
+6	0.108	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Blatter out of hospital, confidant tells Reuters TV
+0	0.054	percent	country	government	issue	bond	bank	
+1	0.146	police	minister	president	students	prime	government	
+2	0.092	film	cinema	festival	world	films	hollywood	
+3	0.016	magistrate	police	arrested	seenigama	today	people	
+4	0.085	athukorala	country	world	travel	chairman	bureau	
+5	0.514	team	league	win	world	year	game	
+6	0.092	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Jones or White tipped to become next England coach
+0	0.045	percent	country	government	issue	bond	bank	
+1	0.095	police	minister	president	students	prime	government	
+2	0.068	film	cinema	festival	world	films	hollywood	
+3	0.045	magistrate	police	arrested	seenigama	today	people	
+4	0.153	athukorala	country	world	travel	chairman	bureau	
+5	0.558	team	league	win	world	year	game	
+6	0.036	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Five enter FIFA presidency race; Bility, Platini sidelined
+0	0.040	percent	country	government	issue	bond	bank	
+1	0.193	police	minister	president	students	prime	government	
+2	0.050	film	cinema	festival	world	films	hollywood	
+3	0.124	magistrate	police	arrested	seenigama	today	people	
+4	0.081	athukorala	country	world	travel	chairman	bureau	
+5	0.416	team	league	win	world	year	game	
+6	0.096	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Hamilton owns up to car accident in Monaco
+0	0.072	percent	country	government	issue	bond	bank	
+1	0.079	police	minister	president	students	prime	government	
+2	0.092	film	cinema	festival	world	films	hollywood	
+3	0.052	magistrate	police	arrested	seenigama	today	people	
+4	0.163	athukorala	country	world	travel	chairman	bureau	
+5	0.463	team	league	win	world	year	game	
+6	0.079	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: I’ve put France on world map, says Ibrahimovic
+0	0.041	percent	country	government	issue	bond	bank	
+1	0.095	police	minister	president	students	prime	government	
+2	0.068	film	cinema	festival	world	films	hollywood	
+3	0.256	magistrate	police	arrested	seenigama	today	people	
+4	0.162	athukorala	country	world	travel	chairman	bureau	
+5	0.256	team	league	win	world	year	game	
+6	0.122	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: No regrets over City move, says 
+0	0.149	percent	country	government	issue	bond	bank	
+1	0.368	police	minister	president	students	prime	government	
+2	0.029	film	cinema	festival	world	films	hollywood	
+3	0.071	magistrate	police	arrested	seenigama	today	people	
+4	0.085	athukorala	country	world	travel	chairman	bureau	
+5	0.206	team	league	win	world	year	game	
+6	0.092	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: AdaDerana RSS
+0	0.072	percent	country	government	issue	bond	bank	
+1	0.686	police	minister	president	students	prime	government	
+2	0.027	film	cinema	festival	world	films	hollywood	
+3	0.063	magistrate	police	arrested	seenigama	today	people	
+4	0.063	athukorala	country	world	travel	chairman	bureau	
+5	0.045	team	league	win	world	year	game	
+6	0.045	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Severe weather advisory issued for heavy rainfall, strong winds
+0	0.078	percent	country	government	issue	bond	bank	
+1	0.545	police	minister	president	students	prime	government	
+2	0.063	film	cinema	festival	world	films	hollywood	
+3	0.094	magistrate	police	arrested	seenigama	today	people	
+4	0.063	athukorala	country	world	travel	chairman	bureau	
+5	0.125	team	league	win	world	year	game	
+6	0.032	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Customs officers further remanded over Rs 125m bribe
+0	0.032	percent	country	government	issue	bond	bank	
+1	0.372	police	minister	president	students	prime	government	
+2	0.043	film	cinema	festival	world	films	hollywood	
+3	0.212	magistrate	police	arrested	seenigama	today	people	
+4	0.138	athukorala	country	world	travel	chairman	bureau	
+5	0.085	team	league	win	world	year	game	
+6	0.117	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lankan woman deemed security threat released
+0	0.017	percent	country	government	issue	bond	bank	
+1	0.768	police	minister	president	students	prime	government	
+2	0.009	film	cinema	festival	world	films	hollywood	
+3	0.055	magistrate	police	arrested	seenigama	today	people	
+4	0.072	athukorala	country	world	travel	chairman	bureau	
+5	0.055	team	league	win	world	year	game	
+6	0.025	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: JVP summoned over case file by Wijeweera's wife
+0	0.177	percent	country	government	issue	bond	bank	
+1	0.258	police	minister	president	students	prime	government	
+2	0.001	film	cinema	festival	world	films	hollywood	
+3	0.177	magistrate	police	arrested	seenigama	today	people	
+4	0.049	athukorala	country	world	travel	chairman	bureau	
+5	0.241	team	league	win	world	year	game	
+6	0.097	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Aung San Suu Kyi wins Myanmar's landmark election
+0	0.224	percent	country	government	issue	bond	bank	
+1	0.375	police	minister	president	students	prime	government	
+2	0.059	film	cinema	festival	world	films	hollywood	
+3	0.040	magistrate	police	arrested	seenigama	today	people	
+4	0.132	athukorala	country	world	travel	chairman	bureau	
+5	0.128	team	league	win	world	year	game	
+6	0.043	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Court summons Mahinda and 6 others over SLTB payments
+0	0.001	percent	country	government	issue	bond	bank	
+1	0.449	police	minister	president	students	prime	government	
+2	0.029	film	cinema	festival	world	films	hollywood	
+3	0.211	magistrate	police	arrested	seenigama	today	people	
+4	0.071	athukorala	country	world	travel	chairman	bureau	
+5	0.169	team	league	win	world	year	game	
+6	0.071	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Postal workers launch trade union action
+0	0.038	percent	country	government	issue	bond	bank	
+1	0.489	police	minister	president	students	prime	government	
+2	0.076	film	cinema	festival	world	films	hollywood	
+3	0.076	magistrate	police	arrested	seenigama	today	people	
+4	0.132	athukorala	country	world	travel	chairman	bureau	
+5	0.151	team	league	win	world	year	game	
+6	0.038	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Space junk WT1190F hits Earth at 11-48am; to be bright as full moon
+0	0.059	percent	country	government	issue	bond	bank	
+1	0.290	police	minister	president	students	prime	government	
+2	0.016	film	cinema	festival	world	films	hollywood	
+3	0.242	magistrate	police	arrested	seenigama	today	people	
+4	0.081	athukorala	country	world	travel	chairman	bureau	
+5	0.092	team	league	win	world	year	game	
+6	0.220	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Four mail trains on Northern line cancelled
+0	0.157	percent	country	government	issue	bond	bank	
+1	0.549	police	minister	president	students	prime	government	
+2	0.079	film	cinema	festival	world	films	hollywood	
+3	0.053	magistrate	police	arrested	seenigama	today	people	
+4	0.054	athukorala	country	world	travel	chairman	bureau	
+5	0.054	team	league	win	world	year	game	
+6	0.053	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Avant Garde to hold press conference tomorrow
+0	0.084	percent	country	government	issue	bond	bank	
+1	0.414	police	minister	president	students	prime	government	
+2	0.002	film	cinema	festival	world	films	hollywood	
+3	0.166	magistrate	police	arrested	seenigama	today	people	
+4	0.003	athukorala	country	world	travel	chairman	bureau	
+5	0.085	team	league	win	world	year	game	
+6	0.248	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: President vows to abolish Executive Presidency
+0	0.237	percent	country	government	issue	bond	bank	
+1	0.450	police	minister	president	students	prime	government	
+2	0.001	film	cinema	festival	world	films	hollywood	
+3	0.025	magistrate	police	arrested	seenigama	today	people	
+4	0.167	athukorala	country	world	travel	chairman	bureau	
+5	0.119	team	league	win	world	year	game	
+6	0.001	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Acting CJ takes oath
+0	0.047	percent	country	government	issue	bond	bank	
+1	0.674	police	minister	president	students	prime	government	
+2	0.047	film	cinema	festival	world	films	hollywood	
+3	0.136	magistrate	police	arrested	seenigama	today	people	
+4	0.092	athukorala	country	world	travel	chairman	bureau	
+5	0.003	team	league	win	world	year	game	
+6	0.002	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: TID now investigates KP- AG
+0	0.065	percent	country	government	issue	bond	bank	
+1	0.515	police	minister	president	students	prime	government	
+2	0.033	film	cinema	festival	world	films	hollywood	
+3	0.108	magistrate	police	arrested	seenigama	today	people	
+4	0.054	athukorala	country	world	travel	chairman	bureau	
+5	0.129	team	league	win	world	year	game	
+6	0.097	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Govt. to sign bilateral air service agreement with Serbia
+0	0.183	percent	country	government	issue	bond	bank	
+1	0.253	police	minister	president	students	prime	government	
+2	0.015	film	cinema	festival	world	films	hollywood	
+3	0.029	magistrate	police	arrested	seenigama	today	people	
+4	0.127	athukorala	country	world	travel	chairman	bureau	
+5	0.099	team	league	win	world	year	game	
+6	0.295	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka to usher in a capital oriented budget- Ravi
+0	0.224	percent	country	government	issue	bond	bank	
+1	0.247	police	minister	president	students	prime	government	
+2	0.056	film	cinema	festival	world	films	hollywood	
+3	0.034	magistrate	police	arrested	seenigama	today	people	
+4	0.258	athukorala	country	world	travel	chairman	bureau	
+5	0.113	team	league	win	world	year	game	
+6	0.068	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: A1 construction cost up by Rs. 2 billion, says Namal
+0	0.212	percent	country	government	issue	bond	bank	
+1	0.318	police	minister	president	students	prime	government	
+2	0.064	film	cinema	festival	world	films	hollywood	
+3	0.085	magistrate	police	arrested	seenigama	today	people	
+4	0.107	athukorala	country	world	travel	chairman	bureau	
+5	0.149	team	league	win	world	year	game	
+6	0.064	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Special traffic plan near Parliament today
+0	0.087	percent	country	government	issue	bond	bank	
+1	0.188	police	minister	president	students	prime	government	
+2	0.029	film	cinema	festival	world	films	hollywood	
+3	0.433	magistrate	police	arrested	seenigama	today	people	
+4	0.087	athukorala	country	world	travel	chairman	bureau	
+5	0.131	team	league	win	world	year	game	
+6	0.044	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Last rites of Ven. Sobitha Thero today
+0	0.304	percent	country	government	issue	bond	bank	
+1	0.271	police	minister	president	students	prime	government	
+2	0.034	film	cinema	festival	world	films	hollywood	
+3	0.186	magistrate	police	arrested	seenigama	today	people	
+4	0.018	athukorala	country	world	travel	chairman	bureau	
+5	0.136	team	league	win	world	year	game	
+6	0.051	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Train services on Northern line disrupted
+0	0.225	percent	country	government	issue	bond	bank	
+1	0.361	police	minister	president	students	prime	government	
+2	0.047	film	cinema	festival	world	films	hollywood	
+3	0.091	magistrate	police	arrested	seenigama	today	people	
+4	0.047	athukorala	country	world	travel	chairman	bureau	
+5	0.137	team	league	win	world	year	game	
+6	0.091	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: LTTE suspects; can’t consider as Full-fledge release 
+0	0.233	percent	country	government	issue	bond	bank	
+1	0.297	police	minister	president	students	prime	government	
+2	0.001	film	cinema	festival	world	films	hollywood	
+3	0.106	magistrate	police	arrested	seenigama	today	people	
+4	0.065	athukorala	country	world	travel	chairman	bureau	
+5	0.255	team	league	win	world	year	game	
+6	0.043	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Rainy weather prevails
+0	0.091	percent	country	government	issue	bond	bank	
+1	0.452	police	minister	president	students	prime	government	
+2	0.091	film	cinema	festival	world	films	hollywood	
+3	0.151	magistrate	police	arrested	seenigama	today	people	
+4	0.062	athukorala	country	world	travel	chairman	bureau	
+5	0.062	team	league	win	world	year	game	
+6	0.091	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Justin Bieber: I Had Tears in My Eyes Watching Amy Winehouse Doc
+0	0.291	percent	country	government	issue	bond	bank	
+1	0.105	police	minister	president	students	prime	government	
+2	0.166	film	cinema	festival	world	films	hollywood	
+3	0.011	magistrate	police	arrested	seenigama	today	people	
+4	0.125	athukorala	country	world	travel	chairman	bureau	
+5	0.250	team	league	win	world	year	game	
+6	0.052	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Ronaldo admits being casanova
+0	0.025	percent	country	government	issue	bond	bank	
+1	0.098	police	minister	president	students	prime	government	
+2	0.412	film	cinema	festival	world	films	hollywood	
+3	0.049	magistrate	police	arrested	seenigama	today	people	
+4	0.147	athukorala	country	world	travel	chairman	bureau	
+5	0.171	team	league	win	world	year	game	
+6	0.098	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Shops closed in Jaffna, Kilinochci and Baticalo due to Harthal
+0	0.026	percent	country	government	issue	bond	bank	
+1	0.376	police	minister	president	students	prime	government	
+2	0.220	film	cinema	festival	world	films	hollywood	
+3	0.091	magistrate	police	arrested	seenigama	today	people	
+4	0.091	athukorala	country	world	travel	chairman	bureau	
+5	0.117	team	league	win	world	year	game	
+6	0.078	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Court summons JVP over Wijeweeras books
+0	0.080	percent	country	government	issue	bond	bank	
+1	0.140	police	minister	president	students	prime	government	
+2	0.269	film	cinema	festival	world	films	hollywood	
+3	0.150	magistrate	police	arrested	seenigama	today	people	
+4	0.120	athukorala	country	world	travel	chairman	bureau	
+5	0.150	team	league	win	world	year	game	
+6	0.090	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: John Lennon book wins Goldsmiths Prize
+0	0.089	percent	country	government	issue	bond	bank	
+1	0.119	police	minister	president	students	prime	government	
+2	0.554	film	cinema	festival	world	films	hollywood	
+3	0.030	magistrate	police	arrested	seenigama	today	people	
+4	0.147	athukorala	country	world	travel	chairman	bureau	
+5	0.060	team	league	win	world	year	game	
+6	0.001	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Volkswagen sets emissions scandal amnesty deadline
+0	0.059	percent	country	government	issue	bond	bank	
+1	0.089	police	minister	president	students	prime	government	
+2	0.409	film	cinema	festival	world	films	hollywood	
+3	0.118	magistrate	police	arrested	seenigama	today	people	
+4	0.060	athukorala	country	world	travel	chairman	bureau	
+5	0.147	team	league	win	world	year	game	
+6	0.118	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: 3 days, 27 deals: India most open, says PM Narendra Modi in UK
+0	0.177	percent	country	government	issue	bond	bank	
+1	0.129	police	minister	president	students	prime	government	
+2	0.273	film	cinema	festival	world	films	hollywood	
+3	0.065	magistrate	police	arrested	seenigama	today	people	
+4	0.113	athukorala	country	world	travel	chairman	bureau	
+5	0.097	team	league	win	world	year	game	
+6	0.145	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: AB de Villiers Warns Virat Kohli
+0	0.085	percent	country	government	issue	bond	bank	
+1	0.086	police	minister	president	students	prime	government	
+2	0.444	film	cinema	festival	world	films	hollywood	
+3	0.085	magistrate	police	arrested	seenigama	today	people	
+4	0.149	athukorala	country	world	travel	chairman	bureau	
+5	0.128	team	league	win	world	year	game	
+6	0.022	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: WT1190F: No space debris sighted
+0	0.001	percent	country	government	issue	bond	bank	
+1	0.403	police	minister	president	students	prime	government	
+2	0.106	film	cinema	festival	world	films	hollywood	
+3	0.043	magistrate	police	arrested	seenigama	today	people	
+4	0.086	athukorala	country	world	travel	chairman	bureau	
+5	0.107	team	league	win	world	year	game	
+6	0.254	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Mass scale fuel racket raided by the police
+0	0.062	percent	country	government	issue	bond	bank	
+1	0.062	police	minister	president	students	prime	government	
+2	0.447	film	cinema	festival	world	films	hollywood	
+3	0.122	magistrate	police	arrested	seenigama	today	people	
+4	0.062	athukorala	country	world	travel	chairman	bureau	
+5	0.184	team	league	win	world	year	game	
+6	0.062	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Myanmar election: Suu Kyis NLD wins landslide victory
+0	0.015	percent	country	government	issue	bond	bank	
+1	0.584	police	minister	president	students	prime	government	
+2	0.057	film	cinema	festival	world	films	hollywood	
+3	0.043	magistrate	police	arrested	seenigama	today	people	
+4	0.100	athukorala	country	world	travel	chairman	bureau	
+5	0.157	team	league	win	world	year	game	
+6	0.043	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Adele and Elvis Presley Hold Tight On Top Of UK Charts
+0	0.249	percent	country	government	issue	bond	bank	
+1	0.101	police	minister	president	students	prime	government	
+2	0.447	film	cinema	festival	world	films	hollywood	
+3	0.026	magistrate	police	arrested	seenigama	today	people	
+4	0.101	athukorala	country	world	travel	chairman	bureau	
+5	0.051	team	league	win	world	year	game	
+6	0.026	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Rupee at record low on importer dlr demand 
+0	0.206	percent	country	government	issue	bond	bank	
+1	0.050	police	minister	president	students	prime	government	
+2	0.313	film	cinema	festival	world	films	hollywood	
+3	0.079	magistrate	police	arrested	seenigama	today	people	
+4	0.118	athukorala	country	world	travel	chairman	bureau	
+5	0.098	team	league	win	world	year	game	
+6	0.137	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sampath Group’s 9-month PBT up 42% to Rs.7.4 bn
+0	0.267	percent	country	government	issue	bond	bank	
+1	0.063	police	minister	president	students	prime	government	
+2	0.319	film	cinema	festival	world	films	hollywood	
+3	0.097	magistrate	police	arrested	seenigama	today	people	
+4	0.122	athukorala	country	world	travel	chairman	bureau	
+5	0.070	team	league	win	world	year	game	
+6	0.063	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: JVP has control in country’s political sphere: Anura
+0	0.062	percent	country	government	issue	bond	bank	
+1	0.292	police	minister	president	students	prime	government	
+2	0.230	film	cinema	festival	world	films	hollywood	
+3	0.092	magistrate	police	arrested	seenigama	today	people	
+4	0.123	athukorala	country	world	travel	chairman	bureau	
+5	0.169	team	league	win	world	year	game	
+6	0.031	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Paris rocked by series of deadly shootings, blasts
+0	0.066	percent	country	government	issue	bond	bank	
+1	0.242	police	minister	president	students	prime	government	
+2	0.180	film	cinema	festival	world	films	hollywood	
+3	0.024	magistrate	police	arrested	seenigama	today	people	
+4	0.213	athukorala	country	world	travel	chairman	bureau	
+5	0.185	team	league	win	world	year	game	
+6	0.090	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: President condemns Paris attack
+0	0.111	percent	country	government	issue	bond	bank	
+1	0.368	police	minister	president	students	prime	government	
+2	0.038	film	cinema	festival	world	films	hollywood	
+3	0.075	magistrate	police	arrested	seenigama	today	people	
+4	0.148	athukorala	country	world	travel	chairman	bureau	
+5	0.185	team	league	win	world	year	game	
+6	0.075	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Thanha Rathi Ranga wins at Derana Film Awards 2015
+0	0.002	percent	country	government	issue	bond	bank	
+1	0.230	police	minister	president	students	prime	government	
+2	0.115	film	cinema	festival	world	films	hollywood	
+3	0.191	magistrate	police	arrested	seenigama	today	people	
+4	0.230	athukorala	country	world	travel	chairman	bureau	
+5	0.078	team	league	win	world	year	game	
+6	0.153	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Full report of Budget-2016 
+0	0.012	percent	country	government	issue	bond	bank	
+1	0.021	police	minister	president	students	prime	government	
+2	0.012	film	cinema	festival	world	films	hollywood	
+3	0.013	magistrate	police	arrested	seenigama	today	people	
+4	0.018	athukorala	country	world	travel	chairman	bureau	
+5	0.017	team	league	win	world	year	game	
+6	0.906	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: 80 hostages freed as special forces storm Mali hotel
+0	0.054	percent	country	government	issue	bond	bank	
+1	0.179	police	minister	president	students	prime	government	
+2	0.089	film	cinema	festival	world	films	hollywood	
+3	0.107	magistrate	police	arrested	seenigama	today	people	
+4	0.090	athukorala	country	world	travel	chairman	bureau	
+5	0.267	team	league	win	world	year	game	
+6	0.214	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Gunmen take 170 hostages at a hotel in Mali
+0	0.125	percent	country	government	issue	bond	bank	
+1	0.291	police	minister	president	students	prime	government	
+2	0.052	film	cinema	festival	world	films	hollywood	
+3	0.094	magistrate	police	arrested	seenigama	today	people	
+4	0.125	athukorala	country	world	travel	chairman	bureau	
+5	0.156	team	league	win	world	year	game	
+6	0.156	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sarath Kumara Gunaratne released on bail
+0	0.125	percent	country	government	issue	bond	bank	
+1	0.414	police	minister	president	students	prime	government	
+2	0.125	film	cinema	festival	world	films	hollywood	
+3	0.166	magistrate	police	arrested	seenigama	today	people	
+4	0.044	athukorala	country	world	travel	chairman	bureau	
+5	0.126	team	league	win	world	year	game	
+6	0.002	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Attempts to celebrate Mahaviru Day in the North
+0	0.077	percent	country	government	issue	bond	bank	
+1	0.408	police	minister	president	students	prime	government	
+2	0.103	film	cinema	festival	world	films	hollywood	
+3	0.077	magistrate	police	arrested	seenigama	today	people	
+4	0.129	athukorala	country	world	travel	chairman	bureau	
+5	0.179	team	league	win	world	year	game	
+6	0.026	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Chennai may not host India-SL World T20 matches
+0	0.040	percent	country	government	issue	bond	bank	
+1	0.180	police	minister	president	students	prime	government	
+2	0.130	film	cinema	festival	world	films	hollywood	
+3	0.090	magistrate	police	arrested	seenigama	today	people	
+4	0.180	athukorala	country	world	travel	chairman	bureau	
+5	0.280	team	league	win	world	year	game	
+6	0.100	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Grand Hyatt board remains unchanged-official
+0	0.241	percent	country	government	issue	bond	bank	
+1	0.121	police	minister	president	students	prime	government	
+2	0.058	film	cinema	festival	world	films	hollywood	
+3	0.079	magistrate	police	arrested	seenigama	today	people	
+4	0.225	athukorala	country	world	travel	chairman	bureau	
+5	0.178	team	league	win	world	year	game	
+6	0.099	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Thilakaratne new CAA Chairman
+0	0.406	percent	country	government	issue	bond	bank	
+1	0.235	police	minister	president	students	prime	government	
+2	0.002	film	cinema	festival	world	films	hollywood	
+3	0.002	magistrate	police	arrested	seenigama	today	people	
+4	0.176	athukorala	country	world	travel	chairman	bureau	
+5	0.176	team	league	win	world	year	game	
+6	0.002	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: PRECIFAC records statement from MR
+0	0.060	percent	country	government	issue	bond	bank	
+1	0.523	police	minister	president	students	prime	government	
+2	0.002	film	cinema	festival	world	films	hollywood	
+3	0.118	magistrate	police	arrested	seenigama	today	people	
+4	0.004	athukorala	country	world	travel	chairman	bureau	
+5	0.119	team	league	win	world	year	game	
+6	0.175	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Request to sell Sicille's jewellery to pay depositors
+0	0.120	percent	country	government	issue	bond	bank	
+1	0.260	police	minister	president	students	prime	government	
+2	0.041	film	cinema	festival	world	films	hollywood	
+3	0.219	magistrate	police	arrested	seenigama	today	people	
+4	0.140	athukorala	country	world	travel	chairman	bureau	
+5	0.160	team	league	win	world	year	game	
+6	0.060	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: President’s, PM’s residencies to be relocated: Champika
+0	0.183	percent	country	government	issue	bond	bank	
+1	0.225	police	minister	president	students	prime	government	
+2	0.029	film	cinema	festival	world	films	hollywood	
+3	0.071	magistrate	police	arrested	seenigama	today	people	
+4	0.099	athukorala	country	world	travel	chairman	bureau	
+5	0.155	team	league	win	world	year	game	
+6	0.239	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Standard house number plates from CMC
+0	0.150	percent	country	government	issue	bond	bank	
+1	0.117	police	minister	president	students	prime	government	
+2	0.017	film	cinema	festival	world	films	hollywood	
+3	0.150	magistrate	police	arrested	seenigama	today	people	
+4	0.283	athukorala	country	world	travel	chairman	bureau	
+5	0.183	team	league	win	world	year	game	
+6	0.100	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: CAA Chairman resigns
+0	0.231	percent	country	government	issue	bond	bank	
+1	0.196	police	minister	president	students	prime	government	
+2	0.036	film	cinema	festival	world	films	hollywood	
+3	0.018	magistrate	police	arrested	seenigama	today	people	
+4	0.108	athukorala	country	world	travel	chairman	bureau	
+5	0.356	team	league	win	world	year	game	
+6	0.054	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: I don’t think govt will scrap Exec. Presidency-MR
+0	0.119	percent	country	government	issue	bond	bank	
+1	0.368	police	minister	president	students	prime	government	
+2	0.048	film	cinema	festival	world	films	hollywood	
+3	0.060	magistrate	police	arrested	seenigama	today	people	
+4	0.155	athukorala	country	world	travel	chairman	bureau	
+5	0.179	team	league	win	world	year	game	
+6	0.072	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: ?FCID visits CSN again
+0	0.161	percent	country	government	issue	bond	bank	
+1	0.321	police	minister	president	students	prime	government	
+2	0.097	film	cinema	festival	world	films	hollywood	
+3	0.033	magistrate	police	arrested	seenigama	today	people	
+4	0.161	athukorala	country	world	travel	chairman	bureau	
+5	0.129	team	league	win	world	year	game	
+6	0.097	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Cabinet to be briefed on Budget
+0	0.100	percent	country	government	issue	bond	bank	
+1	0.225	police	minister	president	students	prime	government	
+2	0.001	film	cinema	festival	world	films	hollywood	
+3	0.150	magistrate	police	arrested	seenigama	today	people	
+4	0.200	athukorala	country	world	travel	chairman	bureau	
+5	0.125	team	league	win	world	year	game	
+6	0.199	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Paris attacks 'mastermind' killed in raid
+0	0.086	percent	country	government	issue	bond	bank	
+1	0.285	police	minister	president	students	prime	government	
+2	0.086	film	cinema	festival	world	films	hollywood	
+3	0.029	magistrate	police	arrested	seenigama	today	people	
+4	0.200	athukorala	country	world	travel	chairman	bureau	
+5	0.228	team	league	win	world	year	game	
+6	0.086	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Google live traffic in SL
+0	0.002	percent	country	government	issue	bond	bank	
+1	0.048	police	minister	president	students	prime	government	
+2	0.181	film	cinema	festival	world	films	hollywood	
+3	0.270	magistrate	police	arrested	seenigama	today	people	
+4	0.226	athukorala	country	world	travel	chairman	bureau	
+5	0.182	team	league	win	world	year	game	
+6	0.091	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Govt. to probe UN Working Group claims
+0	0.161	percent	country	government	issue	bond	bank	
+1	0.226	police	minister	president	students	prime	government	
+2	0.043	film	cinema	festival	world	films	hollywood	
+3	0.075	magistrate	police	arrested	seenigama	today	people	
+4	0.097	athukorala	country	world	travel	chairman	bureau	
+5	0.268	team	league	win	world	year	game	
+6	0.129	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Nishan Dhanasinghe new Prisons Commissioner
+0	0.097	percent	country	government	issue	bond	bank	
+1	0.162	police	minister	president	students	prime	government	
+2	0.001	film	cinema	festival	world	films	hollywood	
+3	0.193	magistrate	police	arrested	seenigama	today	people	
+4	0.193	athukorala	country	world	travel	chairman	bureau	
+5	0.289	team	league	win	world	year	game	
+6	0.065	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: ‘Ceylon Tea’ brand likely to be reconceptualised: Minister
+0	0.212	percent	country	government	issue	bond	bank	
+1	0.095	police	minister	president	students	prime	government	
+2	0.063	film	cinema	festival	world	films	hollywood	
+3	0.032	magistrate	police	arrested	seenigama	today	people	
+4	0.260	athukorala	country	world	travel	chairman	bureau	
+5	0.252	team	league	win	world	year	game	
+6	0.087	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: No more protectionist policies for industries under new regime
+0	0.150	percent	country	government	issue	bond	bank	
+1	0.197	police	minister	president	students	prime	government	
+2	0.061	film	cinema	festival	world	films	hollywood	
+3	0.075	magistrate	police	arrested	seenigama	today	people	
+4	0.238	athukorala	country	world	travel	chairman	bureau	
+5	0.163	team	league	win	world	year	game	
+6	0.116	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka set to pursue pro-western trade and foreign policy: Harsha
+0	0.189	percent	country	government	issue	bond	bank	
+1	0.189	police	minister	president	students	prime	government	
+2	0.136	film	cinema	festival	world	films	hollywood	
+3	0.053	magistrate	police	arrested	seenigama	today	people	
+4	0.205	athukorala	country	world	travel	chairman	bureau	
+5	0.114	team	league	win	world	year	game	
+6	0.114	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Another twist in Grand Hyatt saga
+0	0.114	percent	country	government	issue	bond	bank	
+1	0.201	police	minister	president	students	prime	government	
+2	0.118	film	cinema	festival	world	films	hollywood	
+3	0.119	magistrate	police	arrested	seenigama	today	people	
+4	0.172	athukorala	country	world	travel	chairman	bureau	
+5	0.164	team	league	win	world	year	game	
+6	0.111	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Anantaya promises unmatched dining experience 
+0	0.048	percent	country	government	issue	bond	bank	
+1	0.034	police	minister	president	students	prime	government	
+2	0.015	film	cinema	festival	world	films	hollywood	
+3	0.039	magistrate	police	arrested	seenigama	today	people	
+4	0.082	athukorala	country	world	travel	chairman	bureau	
+5	0.073	team	league	win	world	year	game	
+6	0.709	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: SriLankan expands reach in Central Asia with Siberian Airlines 
+0	0.107	percent	country	government	issue	bond	bank	
+1	0.042	police	minister	president	students	prime	government	
+2	0.024	film	cinema	festival	world	films	hollywood	
+3	0.018	magistrate	police	arrested	seenigama	today	people	
+4	0.201	athukorala	country	world	travel	chairman	bureau	
+5	0.113	team	league	win	world	year	game	
+6	0.496	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Experience the sensational Seychelles with SriLankan Holidays 
+0	0.041	percent	country	government	issue	bond	bank	
+1	0.062	police	minister	president	students	prime	government	
+2	0.027	film	cinema	festival	world	films	hollywood	
+3	0.021	magistrate	police	arrested	seenigama	today	people	
+4	0.163	athukorala	country	world	travel	chairman	bureau	
+5	0.055	team	league	win	world	year	game	
+6	0.631	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: 100 kg to over 100 cities with SriLankan Cargo’s “Bag-It” 
+0	0.133	percent	country	government	issue	bond	bank	
+1	0.036	police	minister	president	students	prime	government	
+2	0.026	film	cinema	festival	world	films	hollywood	
+3	0.026	magistrate	police	arrested	seenigama	today	people	
+4	0.123	athukorala	country	world	travel	chairman	bureau	
+5	0.062	team	league	win	world	year	game	
+6	0.594	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: SriLankan Airlines SimNet wins ICT Award 
+0	0.081	percent	country	government	issue	bond	bank	
+1	0.067	police	minister	president	students	prime	government	
+2	0.033	film	cinema	festival	world	films	hollywood	
+3	0.038	magistrate	police	arrested	seenigama	today	people	
+4	0.219	athukorala	country	world	travel	chairman	bureau	
+5	0.076	team	league	win	world	year	game	
+6	0.485	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: ILFC and SriLankan Airlines sign 12-year lease agreement for three A350-900s 
+0	0.066	percent	country	government	issue	bond	bank	
+1	0.066	police	minister	president	students	prime	government	
+2	0.058	film	cinema	festival	world	films	hollywood	
+3	0.025	magistrate	police	arrested	seenigama	today	people	
+4	0.564	athukorala	country	world	travel	chairman	bureau	
+5	0.131	team	league	win	world	year	game	
+6	0.090	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism showcases at World Travel Mart  London with 64 Industry Partners
+0	0.093	percent	country	government	issue	bond	bank	
+1	0.088	police	minister	president	students	prime	government	
+2	0.108	film	cinema	festival	world	films	hollywood	
+3	0.011	magistrate	police	arrested	seenigama	today	people	
+4	0.417	athukorala	country	world	travel	chairman	bureau	
+5	0.098	team	league	win	world	year	game	
+6	0.185	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism comes board for ITB Asia 2015 Travel Show
+0	0.167	percent	country	government	issue	bond	bank	
+1	0.052	police	minister	president	students	prime	government	
+2	0.109	film	cinema	festival	world	films	hollywood	
+3	0.057	magistrate	police	arrested	seenigama	today	people	
+4	0.401	athukorala	country	world	travel	chairman	bureau	
+5	0.063	team	league	win	world	year	game	
+6	0.151	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism showcase “One Island, Thousand Treasures” at  IFTM Travel Fair Paris , France 2015
+0	0.086	percent	country	government	issue	bond	bank	
+1	0.069	police	minister	president	students	prime	government	
+2	0.063	film	cinema	festival	world	films	hollywood	
+3	0.039	magistrate	police	arrested	seenigama	today	people	
+4	0.511	athukorala	country	world	travel	chairman	bureau	
+5	0.088	team	league	win	world	year	game	
+6	0.144	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Tourism Receipts touch $2.1 billion as at end September 2015
+0	0.128	percent	country	government	issue	bond	bank	
+1	0.103	police	minister	president	students	prime	government	
+2	0.026	film	cinema	festival	world	films	hollywood	
+3	0.026	magistrate	police	arrested	seenigama	today	people	
+4	0.510	athukorala	country	world	travel	chairman	bureau	
+5	0.129	team	league	win	world	year	game	
+6	0.077	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: The 1st ever Cruise Tourism Marketing Plan presented to the New Tourism Minister 
+0	0.148	percent	country	government	issue	bond	bank	
+1	0.062	police	minister	president	students	prime	government	
+2	0.077	film	cinema	festival	world	films	hollywood	
+3	0.029	magistrate	police	arrested	seenigama	today	people	
+4	0.530	athukorala	country	world	travel	chairman	bureau	
+5	0.062	team	league	win	world	year	game	
+6	0.091	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Tourism new ideas, new concepts and dreams- Sri Lanka must take the chance
+0	0.205	percent	country	government	issue	bond	bank	
+1	0.079	police	minister	president	students	prime	government	
+2	0.063	film	cinema	festival	world	films	hollywood	
+3	0.091	magistrate	police	arrested	seenigama	today	people	
+4	0.358	athukorala	country	world	travel	chairman	bureau	
+5	0.091	team	league	win	world	year	game	
+6	0.114	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism celebrate ‘World Tourism Day' to upgrade industry competitiveness
+0	0.163	percent	country	government	issue	bond	bank	
+1	0.091	police	minister	president	students	prime	government	
+2	0.057	film	cinema	festival	world	films	hollywood	
+3	0.270	magistrate	police	arrested	seenigama	today	people	
+4	0.248	athukorala	country	world	travel	chairman	bureau	
+5	0.076	team	league	win	world	year	game	
+6	0.094	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka ride the wave at Japan Tourism Expo 2015
+0	0.133	percent	country	government	issue	bond	bank	
+1	0.150	police	minister	president	students	prime	government	
+2	0.050	film	cinema	festival	world	films	hollywood	
+3	0.249	magistrate	police	arrested	seenigama	today	people	
+4	0.250	athukorala	country	world	travel	chairman	bureau	
+5	0.051	team	league	win	world	year	game	
+6	0.117	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Scandinavian markets grow by 32%: Sri Lanka Tourism focused marketing drive
+0	0.169	percent	country	government	issue	bond	bank	
+1	0.187	police	minister	president	students	prime	government	
+2	0.051	film	cinema	festival	world	films	hollywood	
+3	0.085	magistrate	police	arrested	seenigama	today	people	
+4	0.422	athukorala	country	world	travel	chairman	bureau	
+5	0.018	team	league	win	world	year	game	
+6	0.068	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Tourism Record in September: arrivals jump 35.9% to cross 1.3 million
+0	0.265	percent	country	government	issue	bond	bank	
+1	0.024	police	minister	president	students	prime	government	
+2	0.067	film	cinema	festival	world	films	hollywood	
+3	0.155	magistrate	police	arrested	seenigama	today	people	
+4	0.376	athukorala	country	world	travel	chairman	bureau	
+5	0.045	team	league	win	world	year	game	
+6	0.067	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism launches Community Aid Tourism with Olympic Gold medallion
+0	0.132	percent	country	government	issue	bond	bank	
+1	0.079	police	minister	president	students	prime	government	
+2	0.061	film	cinema	festival	world	films	hollywood	
+3	0.070	magistrate	police	arrested	seenigama	today	people	
+4	0.494	athukorala	country	world	travel	chairman	bureau	
+5	0.062	team	league	win	world	year	game	
+6	0.102	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism with Pink my Tuk launch Global Online video competition
+0	0.143	percent	country	government	issue	bond	bank	
+1	0.100	police	minister	president	students	prime	government	
+2	0.079	film	cinema	festival	world	films	hollywood	
+3	0.118	magistrate	police	arrested	seenigama	today	people	
+4	0.380	athukorala	country	world	travel	chairman	bureau	
+5	0.054	team	league	win	world	year	game	
+6	0.125	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka - Cultural focus country at Key Italian Travel Fair TTG
+0	0.105	percent	country	government	issue	bond	bank	
+1	0.087	police	minister	president	students	prime	government	
+2	0.080	film	cinema	festival	world	films	hollywood	
+3	0.045	magistrate	police	arrested	seenigama	today	people	
+4	0.467	athukorala	country	world	travel	chairman	bureau	
+5	0.066	team	league	win	world	year	game	
+6	0.150	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Mr and Miss UK commends Sri Lanka- Destination of the Year title
+0	0.090	percent	country	government	issue	bond	bank	
+1	0.194	police	minister	president	students	prime	government	
+2	0.060	film	cinema	festival	world	films	hollywood	
+3	0.030	magistrate	police	arrested	seenigama	today	people	
+4	0.476	athukorala	country	world	travel	chairman	bureau	
+5	0.120	team	league	win	world	year	game	
+6	0.030	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism to highlight the 1706th Esala Perahera at Japan JATA World Expo 2015
+0	0.091	percent	country	government	issue	bond	bank	
+1	0.061	police	minister	president	students	prime	government	
+2	0.065	film	cinema	festival	world	films	hollywood	
+3	0.052	magistrate	police	arrested	seenigama	today	people	
+4	0.543	athukorala	country	world	travel	chairman	bureau	
+5	0.057	team	league	win	world	year	game	
+6	0.130	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism enter China's growing religious tourism business     
+0	0.174	percent	country	government	issue	bond	bank	
+1	0.052	police	minister	president	students	prime	government	
+2	0.067	film	cinema	festival	world	films	hollywood	
+3	0.051	magistrate	police	arrested	seenigama	today	people	
+4	0.466	athukorala	country	world	travel	chairman	bureau	
+5	0.072	team	league	win	world	year	game	
+6	0.118	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism, Tea board and Sri Lankan Airlines quest for Guinness Record
+0	0.162	percent	country	government	issue	bond	bank	
+1	0.086	police	minister	president	students	prime	government	
+2	0.112	film	cinema	festival	world	films	hollywood	
+3	0.033	magistrate	police	arrested	seenigama	today	people	
+4	0.392	athukorala	country	world	travel	chairman	bureau	
+5	0.142	team	league	win	world	year	game	
+6	0.073	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism focussing on the $92 billion German source market
+0	0.146	percent	country	government	issue	bond	bank	
+1	0.073	police	minister	president	students	prime	government	
+2	0.241	film	cinema	festival	world	films	hollywood	
+3	0.044	magistrate	police	arrested	seenigama	today	people	
+4	0.354	athukorala	country	world	travel	chairman	bureau	
+5	0.051	team	league	win	world	year	game	
+6	0.091	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Change lives and win big with findmyfare.com’s Insta Booking Challenge
+0	0.083	percent	country	government	issue	bond	bank	
+1	0.066	police	minister	president	students	prime	government	
+2	0.193	film	cinema	festival	world	films	hollywood	
+3	0.052	magistrate	police	arrested	seenigama	today	people	
+4	0.335	athukorala	country	world	travel	chairman	bureau	
+5	0.130	team	league	win	world	year	game	
+6	0.141	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sri Lanka Tourism blitz on Sony Six for Sanga Farewell
+0	0.106	percent	country	government	issue	bond	bank	
+1	0.073	police	minister	president	students	prime	government	
+2	0.106	film	cinema	festival	world	films	hollywood	
+3	0.029	magistrate	police	arrested	seenigama	today	people	
+4	0.261	athukorala	country	world	travel	chairman	bureau	
+5	0.294	team	league	win	world	year	game	
+6	0.130	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: NBA Kings forward Cousins suspended one game
+0	0.055	percent	country	government	issue	bond	bank	
+1	0.182	police	minister	president	students	prime	government	
+2	0.019	film	cinema	festival	world	films	hollywood	
+3	0.091	magistrate	police	arrested	seenigama	today	people	
+4	0.109	athukorala	country	world	travel	chairman	bureau	
+5	0.417	team	league	win	world	year	game	
+6	0.127	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Citroen to take a year out of world championship
+0	0.110	percent	country	government	issue	bond	bank	
+1	0.134	police	minister	president	students	prime	government	
+2	0.146	film	cinema	festival	world	films	hollywood	
+3	0.049	magistrate	police	arrested	seenigama	today	people	
+4	0.183	athukorala	country	world	travel	chairman	bureau	
+5	0.304	team	league	win	world	year	game	
+6	0.073	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Cotto says boxing win will be enough against Alvarez
+0	0.088	percent	country	government	issue	bond	bank	
+1	0.089	police	minister	president	students	prime	government	
+2	0.137	film	cinema	festival	world	films	hollywood	
+3	0.079	magistrate	police	arrested	seenigama	today	people	
+4	0.235	athukorala	country	world	travel	chairman	bureau	
+5	0.245	team	league	win	world	year	game	
+6	0.127	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Dominguez stripped of 2009 steeplechase world title
+0	0.096	percent	country	government	issue	bond	bank	
+1	0.144	police	minister	president	students	prime	government	
+2	0.154	film	cinema	festival	world	films	hollywood	
+3	0.077	magistrate	police	arrested	seenigama	today	people	
+4	0.087	athukorala	country	world	travel	chairman	bureau	
+5	0.346	team	league	win	world	year	game	
+6	0.096	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Record-seeking Vardy fighting to be fit for Leicester
+0	0.087	percent	country	government	issue	bond	bank	
+1	0.185	police	minister	president	students	prime	government	
+2	0.068	film	cinema	festival	world	films	hollywood	
+3	0.097	magistrate	police	arrested	seenigama	today	people	
+4	0.107	athukorala	country	world	travel	chairman	bureau	
+5	0.368	team	league	win	world	year	game	
+6	0.087	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Wenger calls for routine blood tests
+0	0.046	percent	country	government	issue	bond	bank	
+1	0.182	police	minister	president	students	prime	government	
+2	0.109	film	cinema	festival	world	films	hollywood	
+3	0.028	magistrate	police	arrested	seenigama	today	people	
+4	0.146	athukorala	country	world	travel	chairman	bureau	
+5	0.372	team	league	win	world	year	game	
+6	0.118	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: British captain Smith hints at Edmund debut in Davis Cup final
+0	0.105	percent	country	government	issue	bond	bank	
+1	0.143	police	minister	president	students	prime	government	
+2	0.048	film	cinema	festival	world	films	hollywood	
+3	0.057	magistrate	police	arrested	seenigama	today	people	
+4	0.219	athukorala	country	world	travel	chairman	bureau	
+5	0.333	team	league	win	world	year	game	
+6	0.095	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Federer repels Nishikori fightback to win group
+0	0.098	percent	country	government	issue	bond	bank	
+1	0.085	police	minister	president	students	prime	government	
+2	0.045	film	cinema	festival	world	films	hollywood	
+3	0.080	magistrate	police	arrested	seenigama	today	people	
+4	0.152	athukorala	country	world	travel	chairman	bureau	
+5	0.464	team	league	win	world	year	game	
+6	0.076	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Lomu to have public memorial, Queen sends condolences
+0	0.096	percent	country	government	issue	bond	bank	
+1	0.288	police	minister	president	students	prime	government	
+2	0.077	film	cinema	festival	world	films	hollywood	
+3	0.020	magistrate	police	arrested	seenigama	today	people	
+4	0.163	athukorala	country	world	travel	chairman	bureau	
+5	0.288	team	league	win	world	year	game	
+6	0.067	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Nadal
+0	0.051	percent	country	government	issue	bond	bank	
+1	0.077	police	minister	president	students	prime	government	
+2	0.120	film	cinema	festival	world	films	hollywood	
+3	0.060	magistrate	police	arrested	seenigama	today	people	
+4	0.197	athukorala	country	world	travel	chairman	bureau	
+5	0.392	team	league	win	world	year	game	
+6	0.103	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Australian Jones set to be appointed England coach 
+0	0.123	percent	country	government	issue	bond	bank	
+1	0.196	police	minister	president	students	prime	government	
+2	0.074	film	cinema	festival	world	films	hollywood	
+3	0.055	magistrate	police	arrested	seenigama	today	people	
+4	0.153	athukorala	country	world	travel	chairman	bureau	
+5	0.343	team	league	win	world	year	game	
+6	0.055	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Russia could miss world indoors as IAAF wants 
+0	0.130	percent	country	government	issue	bond	bank	
+1	0.113	police	minister	president	students	prime	government	
+2	0.236	film	cinema	festival	world	films	hollywood	
+3	0.042	magistrate	police	arrested	seenigama	today	people	
+4	0.089	athukorala	country	world	travel	chairman	bureau	
+5	0.260	team	league	win	world	year	game	
+6	0.130	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sturridge declares himself fit ahead of Man City clash
+0	0.099	percent	country	government	issue	bond	bank	
+1	0.228	police	minister	president	students	prime	government	
+2	0.040	film	cinema	festival	world	films	hollywood	
+3	0.079	magistrate	police	arrested	seenigama	today	people	
+4	0.119	athukorala	country	world	travel	chairman	bureau	
+5	0.297	team	league	win	world	year	game	
+6	0.139	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Messi return to reunite 
+0	0.052	percent	country	government	issue	bond	bank	
+1	0.072	police	minister	president	students	prime	government	
+2	0.072	film	cinema	festival	world	films	hollywood	
+3	0.113	magistrate	police	arrested	seenigama	today	people	
+4	0.150	athukorala	country	world	travel	chairman	bureau	
+5	0.417	team	league	win	world	year	game	
+6	0.124	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: NZ Rugby continues to mourn Lomu as McCaw retires
+0	0.071	percent	country	government	issue	bond	bank	
+1	0.135	police	minister	president	students	prime	government	
+2	0.106	film	cinema	festival	world	films	hollywood	
+3	0.064	magistrate	police	arrested	seenigama	today	people	
+4	0.199	athukorala	country	world	travel	chairman	bureau	
+5	0.333	team	league	win	world	year	game	
+6	0.092	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Man City
+0	0.094	percent	country	government	issue	bond	bank	
+1	0.180	police	minister	president	students	prime	government	
+2	0.043	film	cinema	festival	world	films	hollywood	
+3	0.051	magistrate	police	arrested	seenigama	today	people	
+4	0.128	athukorala	country	world	travel	chairman	bureau	
+5	0.375	team	league	win	world	year	game	
+6	0.128	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Wenger thanks England for support after Paris attacks
+0	0.047	percent	country	government	issue	bond	bank	
+1	0.197	police	minister	president	students	prime	government	
+2	0.063	film	cinema	festival	world	films	hollywood	
+3	0.024	magistrate	police	arrested	seenigama	today	people	
+4	0.307	athukorala	country	world	travel	chairman	bureau	
+5	0.252	team	league	win	world	year	game	
+6	0.110	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: I do 
+0	0.067	percent	country	government	issue	bond	bank	
+1	0.125	police	minister	president	students	prime	government	
+2	0.087	film	cinema	festival	world	films	hollywood	
+3	0.058	magistrate	police	arrested	seenigama	today	people	
+4	0.192	athukorala	country	world	travel	chairman	bureau	
+5	0.317	team	league	win	world	year	game	
+6	0.154	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Nadal cuts Murray down to size to reach semi-finals
+0	0.111	percent	country	government	issue	bond	bank	
+1	0.120	police	minister	president	students	prime	government	
+2	0.087	film	cinema	festival	world	films	hollywood	
+3	0.101	magistrate	police	arrested	seenigama	today	people	
+4	0.187	athukorala	country	world	travel	chairman	bureau	
+5	0.355	team	league	win	world	year	game	
+6	0.039	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Loan spells made me better player, says Arsenal
+0	0.082	percent	country	government	issue	bond	bank	
+1	0.219	police	minister	president	students	prime	government	
+2	0.110	film	cinema	festival	world	films	hollywood	
+3	0.096	magistrate	police	arrested	seenigama	today	people	
+4	0.083	athukorala	country	world	travel	chairman	bureau	
+5	0.314	team	league	win	world	year	game	
+6	0.096	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sterling has point to prove as Man City face Liverpool
+0	0.070	percent	country	government	issue	bond	bank	
+1	0.257	police	minister	president	students	prime	government	
+2	0.070	film	cinema	festival	world	films	hollywood	
+3	0.064	magistrate	police	arrested	seenigama	today	people	
+4	0.100	athukorala	country	world	travel	chairman	bureau	
+5	0.327	team	league	win	world	year	game	
+6	0.111	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Crushed by Lomu, but England united in grief at his death
+0	0.035	percent	country	government	issue	bond	bank	
+1	0.193	police	minister	president	students	prime	government	
+2	0.097	film	cinema	festival	world	films	hollywood	
+3	0.076	magistrate	police	arrested	seenigama	today	people	
+4	0.159	athukorala	country	world	travel	chairman	bureau	
+5	0.372	team	league	win	world	year	game	
+6	0.069	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Blatter, Platini lose appeals against provisional FIFA bans
+0	0.057	percent	country	government	issue	bond	bank	
+1	0.135	police	minister	president	students	prime	government	
+2	0.045	film	cinema	festival	world	films	hollywood	
+3	0.074	magistrate	police	arrested	seenigama	today	people	
+4	0.082	athukorala	country	world	travel	chairman	bureau	
+5	0.530	team	league	win	world	year	game	
+6	0.078	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: AdaDerana RSS
+0	0.259	percent	country	government	issue	bond	bank	
+1	0.089	police	minister	president	students	prime	government	
+2	0.130	film	cinema	festival	world	films	hollywood	
+3	0.002	magistrate	police	arrested	seenigama	today	people	
+4	0.045	athukorala	country	world	travel	chairman	bureau	
+5	0.174	team	league	win	world	year	game	
+6	0.301	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: 100,000 houses for slum dwellers
+0	0.328	percent	country	government	issue	bond	bank	
+1	0.265	police	minister	president	students	prime	government	
+2	0.003	film	cinema	festival	world	films	hollywood	
+3	0.003	magistrate	police	arrested	seenigama	today	people	
+4	0.199	athukorala	country	world	travel	chairman	bureau	
+5	0.199	team	league	win	world	year	game	
+6	0.003	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Taxes for leasing land to foreigners removed
+0	0.327	percent	country	government	issue	bond	bank	
+1	0.249	police	minister	president	students	prime	government	
+2	0.003	film	cinema	festival	world	films	hollywood	
+3	0.003	magistrate	police	arrested	seenigama	today	people	
+4	0.329	athukorala	country	world	travel	chairman	bureau	
+5	0.086	team	league	win	world	year	game	
+6	0.003	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: 50 licenses for duty free Gold importation
+0	0.153	percent	country	government	issue	bond	bank	
+1	0.080	police	minister	president	students	prime	government	
+2	0.078	film	cinema	festival	world	films	hollywood	
+3	0.003	magistrate	police	arrested	seenigama	today	people	
+4	0.379	athukorala	country	world	travel	chairman	bureau	
+5	0.304	team	league	win	world	year	game	
+6	0.003	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Rs. 1 million life insurance scheme for fishermen
+0	0.351	percent	country	government	issue	bond	bank	
+1	0.214	police	minister	president	students	prime	government	
+2	0.142	film	cinema	festival	world	films	hollywood	
+3	0.003	magistrate	police	arrested	seenigama	today	people	
+4	0.074	athukorala	country	world	travel	chairman	bureau	
+5	0.004	team	league	win	world	year	game	
+6	0.212	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: 400g Powdered Milk price reduced to Rs. 295
+0	0.228	percent	country	government	issue	bond	bank	
+1	0.080	police	minister	president	students	prime	government	
+2	0.153	film	cinema	festival	world	films	hollywood	
+3	0.003	magistrate	police	arrested	seenigama	today	people	
+4	0.229	athukorala	country	world	travel	chairman	bureau	
+5	0.229	team	league	win	world	year	game	
+6	0.078	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Certified price for rice
+0	0.459	percent	country	government	issue	bond	bank	
+1	0.070	police	minister	president	students	prime	government	
+2	0.263	film	cinema	festival	world	films	hollywood	
+3	0.003	magistrate	police	arrested	seenigama	today	people	
+4	0.069	athukorala	country	world	travel	chairman	bureau	
+5	0.004	team	league	win	world	year	game	
+6	0.133	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Entrepreneurs to get 50% income tax reduction
+0	0.191	percent	country	government	issue	bond	bank	
+1	0.117	police	minister	president	students	prime	government	
+2	0.040	film	cinema	festival	world	films	hollywood	
+3	0.002	magistrate	police	arrested	seenigama	today	people	
+4	0.344	athukorala	country	world	travel	chairman	bureau	
+5	0.192	team	league	win	world	year	game	
+6	0.115	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Gunmen take 170 hostage at Mali hotel 
+0	0.111	percent	country	government	issue	bond	bank	
+1	0.333	police	minister	president	students	prime	government	
+2	0.062	film	cinema	festival	world	films	hollywood	
+3	0.037	magistrate	police	arrested	seenigama	today	people	
+4	0.173	athukorala	country	world	travel	chairman	bureau	
+5	0.197	team	league	win	world	year	game	
+6	0.087	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: LIVE UPDATES- Budget 2016
+0	0.220	percent	country	government	issue	bond	bank	
+1	0.259	police	minister	president	students	prime	government	
+2	0.095	film	cinema	festival	world	films	hollywood	
+3	0.055	magistrate	police	arrested	seenigama	today	people	
+4	0.146	athukorala	country	world	travel	chairman	bureau	
+5	0.089	team	league	win	world	year	game	
+6	0.136	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: PM wants to consolidate economic relations with Bangladesh
+0	0.185	percent	country	government	issue	bond	bank	
+1	0.158	police	minister	president	students	prime	government	
+2	0.047	film	cinema	festival	world	films	hollywood	
+3	0.130	magistrate	police	arrested	seenigama	today	people	
+4	0.259	athukorala	country	world	travel	chairman	bureau	
+5	0.084	team	league	win	world	year	game	
+6	0.139	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Sarath Kumara Gunaratne released on bail
+0	0.064	percent	country	government	issue	bond	bank	
+1	0.318	police	minister	president	students	prime	government	
+2	0.043	film	cinema	festival	world	films	hollywood	
+3	0.275	magistrate	police	arrested	seenigama	today	people	
+4	0.065	athukorala	country	world	travel	chairman	bureau	
+5	0.212	team	league	win	world	year	game	
+6	0.022	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Questions over floating armoury in Indian territorial waters
+0	0.118	percent	country	government	issue	bond	bank	
+1	0.276	police	minister	president	students	prime	government	
+2	0.086	film	cinema	festival	world	films	hollywood	
+3	0.086	magistrate	police	arrested	seenigama	today	people	
+4	0.079	athukorala	country	world	travel	chairman	bureau	
+5	0.224	team	league	win	world	year	game	
+6	0.132	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Hasitha Thilakeratne appointed CAA chairman
+0	0.281	percent	country	government	issue	bond	bank	
+1	0.214	police	minister	president	students	prime	government	
+2	0.003	film	cinema	festival	world	films	hollywood	
+3	0.003	magistrate	police	arrested	seenigama	today	people	
+4	0.353	athukorala	country	world	travel	chairman	bureau	
+5	0.143	team	league	win	world	year	game	
+6	0.003	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Ex-President arrives at PRECIFAC
+0	0.087	percent	country	government	issue	bond	bank	
+1	0.260	police	minister	president	students	prime	government	
+2	0.066	film	cinema	festival	world	films	hollywood	
+3	0.130	magistrate	police	arrested	seenigama	today	people	
+4	0.152	athukorala	country	world	travel	chairman	bureau	
+5	0.174	team	league	win	world	year	game	
+6	0.130	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Macedonia bars refugees from Sri Lanka
+0	0.088	percent	country	government	issue	bond	bank	
+1	0.233	police	minister	president	students	prime	government	
+2	0.101	film	cinema	festival	world	films	hollywood	
+3	0.101	magistrate	police	arrested	seenigama	today	people	
+4	0.126	athukorala	country	world	travel	chairman	bureau	
+5	0.220	team	league	win	world	year	game	
+6	0.132	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Paris attacks- Abdelhamid Abaaoud 'died in Saint Denis raid'
+0	0.063	percent	country	government	issue	bond	bank	
+1	0.281	police	minister	president	students	prime	government	
+2	0.094	film	cinema	festival	world	films	hollywood	
+3	0.016	magistrate	police	arrested	seenigama	today	people	
+4	0.250	athukorala	country	world	travel	chairman	bureau	
+5	0.187	team	league	win	world	year	game	
+6	0.109	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Police makes arrest over Maldives man assault
+0	0.079	percent	country	government	issue	bond	bank	
+1	0.293	police	minister	president	students	prime	government	
+2	0.098	film	cinema	festival	world	films	hollywood	
+3	0.079	magistrate	police	arrested	seenigama	today	people	
+4	0.060	athukorala	country	world	travel	chairman	bureau	
+5	0.215	team	league	win	world	year	game	
+6	0.176	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Akila explains why voucher system for school uniforms is better
+0	0.078	percent	country	government	issue	bond	bank	
+1	0.141	police	minister	president	students	prime	government	
+2	0.109	film	cinema	festival	world	films	hollywood	
+3	0.047	magistrate	police	arrested	seenigama	today	people	
+4	0.265	athukorala	country	world	travel	chairman	bureau	
+5	0.172	team	league	win	world	year	game	
+6	0.187	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: New  Ambassadors and High Commissioners appointed
+0	0.162	percent	country	government	issue	bond	bank	
+1	0.136	police	minister	president	students	prime	government	
+2	0.055	film	cinema	festival	world	films	hollywood	
+3	0.135	magistrate	police	arrested	seenigama	today	people	
+4	0.269	athukorala	country	world	travel	chairman	bureau	
+5	0.028	team	league	win	world	year	game	
+6	0.215	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Provincial councillor complains he was abducted by an MP
+0	0.001	percent	country	government	issue	bond	bank	
+1	0.299	police	minister	president	students	prime	government	
+2	0.067	film	cinema	festival	world	films	hollywood	
+3	0.166	magistrate	police	arrested	seenigama	today	people	
+4	0.101	athukorala	country	world	travel	chairman	bureau	
+5	0.233	team	league	win	world	year	game	
+6	0.133	srilankan	airlines	cargo	airline	flight	colombo	
+top 6 words in each topic with proportions for document: Budget proposes a Controlled price for rice;  Tax concessions for foreign investors;
+0	0.244	percent	country	government	issue	bond	bank	
+1	0.133	police	minister	president	students	prime	government	
+2	0.133	film	cinema	festival	world	films	hollywood	
+3	0.028	magistrate	police	arrested	seenigama	today	people	
+4	0.211	athukorala	country	world	travel	chairman	bureau	
+5	0.117	team	league	win	world	year	game	
+6	0.133	srilankan	airlines	cargo	airline	flight	colombo	

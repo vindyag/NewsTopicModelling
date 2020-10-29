@@ -1,0 +1,22 @@
+UE	1	http://www.dailymirror.lk/95213/slfp-can-t-win-under-current-chairman-lohan  - 3 - GENERAL
+UE	2	http://www.dailymirror.lk/95215/24-ex-ltteers-released-on-bail   - 3 - GENERAL
+UE	8	http://www.dailymirror.lk/95177/league-wins-majority-in-myanmar  - 1 - POLITICS
+UE	10	http://www.dailymirror.lk/95147/navy-begins-transfer-of-avant-garde-weapons - 1 - POLITICS
+UE	22	http://www.dailymirror.lk/94633/agreement-signed-for-ceylon-tea-global-campaign   - 0 -	BUSINESS AND FINANACE
+UE	26	http://www.dailymirror.lk/94099/massive-increase-in-tax-revenues-from-budget-2016   - 0 -	BUSINESS AND FINANACE
+UE	29	http://www.dailymirror.lk/42222/experience-the-sensational-seychelles-with-srilankan-holidays-  6 -	BUSINESS AND FINANACE
+UE	31	http://www.dailymirror.lk/42352/srilankan-airlines-simnet-wins-ict-award-  -  6 -	BUSINESS AND FINANACE
+UE	36	http://www.dailymirror.lk/90903/tourism-receipts-touch-2-1-billion-as-at-end-september-2015 - 4 - TRAVEL AND TOURISM
+UE	52	http://www.dailymirror.lk/84235/sri-lanka-tourism-blitz-on-sony-six-for-sanga-farewell  5 - SPORTS
+UE	65	http://sports.dailymirror.lk/2015/11/13/england-have-potential-but-lack-organisation-del-bosque/ 5 - SPORTS  
+UE	66	http://sports.dailymirror.lk/2015/11/13/hamilton-feeling-good-after-fever-and-accident/  5 - SPORTS
+UE	74	http://sports.dailymirror.lk/2015/11/12/five-enter-fifa-presidency-race-bility-platini-sidelined/  5 - SPORTS 
+UE	94	http://www.adaderana.lk/news.php?nid=33034   - 1 - POLITICS
+UE	103	http://www.hirunews.lk/120169/court-summons-jvp-over-wijeweeras-books  - 2 - ENTERTAINMENT
+UE	104	http://www.hirunews.lk/entertainment/120170/john-lennon-book-wins-goldsmiths-prize - 2 - ENTERTAINMENT
+UE	106	http://www.hirunews.lk/120161/3-days-27-deals-india-most-open-says-pm-narendra-modi-in-uk  - 2 - ENTERTAINMENT
+UE	111	http://www.hirunews.lk/entertainment/120309/adele-elvis-presley-hold-tight-on-top-uk-charts  - 2 - ENTERTAINMENT
+
+
+
+
